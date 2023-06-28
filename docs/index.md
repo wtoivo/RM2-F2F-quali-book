@@ -11,7 +11,7 @@ bibliography: [book.bib, packages.bib]
 csl: include/apa.csl
 link-citations: yes
 description: | # edit
-  RM2 ODL Qualitative project resources book.
+  RM2 F2F Qualitative project resources book.
 url: https://wtoivo.github.io/RM2-F2F-quali-book # edit
 github-repo: wtoivo/RM2-F2F-quali-book # edit
 cover-image: images/logos/logo.png # replace with your logo

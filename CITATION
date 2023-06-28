@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this book as below:"
+authors:
+- family-names: "Wilhelmiina", "Ashley"
+  given-names: "Toivo", "Robertson"
+  orcid: "https://orcid.org/0000-0002-5688-9537""
+title: "RM2 F2F Qualitative Project resources"
+version: 1.0
+date-released: 2023-06-21
+url: "https://github.com/wtoivo/RM2-ODL-quali-book""

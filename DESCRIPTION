@@ -1,0 +1,26 @@
+Package: template
+Title: RM2 F2F Qualitative Project Resources
+Version: 1.0
+Authors@R:
+  c(
+    person(
+        given = "Wilhelmiina", "Ashley" 
+        family = "Toivo", "Robertson" 
+        role = c("aut", "cre"), 
+        email = "wilhelmiina.toivo@gmail.com", 
+        comment = c(ORCID = "0000-0002-5688-9537")
+    )
+  )
+Description: This book collates all the resources required to complete the RM2 ODL Qualitative Project at the University of Glasgow School of Psychology and Neuroscience.
+License: CC BY 4.0 + LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    webexercises,
+    glossary (>= 0.0.0.9001)
+Remotes: 
+    psyteachr/glossary
+Depends: 
+    tidyverse

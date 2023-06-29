@@ -22,4 +22,4 @@ In this chapter you will find all the lab materials.
 
 Something 2
 
-Something else
+Something else, something more

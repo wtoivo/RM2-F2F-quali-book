@@ -2,7 +2,7 @@
 
 In this chapter you will find all the lab materials.
 
-## Lab 1: What is qualitative research?
+## Week 1 Lab 1: What is qualitative research?
 
 ---
 
@@ -45,7 +45,7 @@ Q4. Charlie is conducting a study where they want to better understand motivatio
 Q5. Elaine is conducting a study exploring whether the amount of studying done in preparation for an exam predicts exam performance.
 
 
-## Lab 2: Groupwork and RQs
+## Week 2 Lab 2: Groupwork and RQs
 
 ---
 
@@ -87,15 +87,19 @@ We all agree to establish a common timeline for the project and discuss any devi
 - We agree to establish the best method of communication for our group that's inclusive and takes into account everybody's individual needs.
 
 
-## Lab 3: Ethics
+## Week 3 Lab 3: Ethics
 
-*TO DISCUSS: We had the pre-lab activity of the contribution document, so will be changing this for the agreement. The students, at the moment, have to submit their group agreement before Lab 3. Do we get them to append it in this lab and change it to Lab 4 (this will then impact on when we are able to contact the groups before the deadline)? Or do we have it as a separate activity and they do it for their own records (and we can ask for it if we need)? Or do we adapt the group agreement in Lab 2 so they do the tasks at that point, and it's uploaded as a whole document? Latter might be the best, and we can provide them with a checklist of the tasks across the whole project then.*
+*TO DISCUSS: We had the pre-lab activity of the contribution document, so will be changing this for the agreement. The students, at the moment, have to submit their group agreement before Lab 3. We have an activity in Lab 5 to allocate tasks for the proposal  Do we get them to append it in this lab and change it to Lab 4 (this will then impact on when we are able to contact the groups before the deadline)? Or do we have it as a separate activity and they do it for their own records (and we can ask for it if we need)? Or do we adapt the group agreement in Lab 2 so they do the tasks at that point, and it's uploaded as a whole document?*
+
+**ANOTHER THING TO DISCUSS: One thing we could do, is we could develop a template 'contribution document' which has two sections - one for tasks for the group proposal (Lab 2 (submitted by Lab 3) and then tasks for the wider project (Lab 5). Perhaps one agreed contribution document is submitted per group by end of Week 6 (reading week) whereas the group agreement is submitted individually?**
 
 ---
 
 Key resources: 
 
 [Lab 3 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EbWz1Exy2QlJrFW3kMmXfGIBs2vnPWFCVE0te7s4IAj7uw?e=0s3wd0)
+
+**TO DISCUSS: Do we include any of this information (e.g. activity 3) as a word doc or is it okay in here as is?**
 
 ---
 
@@ -222,17 +226,112 @@ Moderator: “What about you, Participant 3, how was your mental health affected
 negatively?”
 
 
-## Lab 4: Developing Focus Group questions
+## Week 4 Lab 4: Developing Focus Group questions
+
+---
+
+Key resources:
+
+[Lab 4 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EUSX66hFCkFEuW09YqkuKHUBgWq-QxMwY191EJB7QWFhog?e=Ta8KOS)
+
+---
+
+In Lab 4, we will work on developing questions for your focus group. We have made a bank of questions available to you. Please select any questions that you would like to use from this bank (**FOUND HERE- ADD IN**) and then adapt them to suit your research question. 
+
+If you have developed a research question that is slightly different from those suggested, then you may need to make up some new questions to go into your focus group schedule. 
+
+If you develop new questions that have not been adapted from the bank of questions provided, please ensure you do the following:
+1. Questions must be developed using the guidance provided to you in this lab
+2. You **must** attend your tutor's office hours and ask for feedback on your questions. 
+
+If, however, you only use questions from the bank that is supplied or make minor tweaks, you are not *required* to formally discuss these with your tutor (although you are welcome to do so if you have specific questions that you want to ask). You might, for example, want to check the order that you present the questions in. 
+
+### Lab 4 Activity 1: Research Questions
+
+Please have your Research Question ready for your tutor, and discuss it with them as they come round the groups. Do you have any other questions about the group proposal that you want to ask?
+
+### Lab 4 Activity 2: Appropriateness of questions
+
+Look at the following focus group questions. For each, decide whether a) they are appropriate and b) whether they should be adapted or not? If you think they should be, how would you change them? 
+
+**Research Question: How does students' sense of belonging relate to participation in team sport?**
+
+1. How many hours of group sport do you participate in each week?
+2. What does being a part of a team mean to you?
+3. What does belonging mean to you? 
+4. How has your sense of belonging improved since joining your sports group?
+5. I'm going to go round the group one at a time. I need each person to tell me about a time where they've felt that they haven't belonged to their team, and how that impacted on them personally? 
+6. Please tell me, on a scale of 1-5 (with 1 being not at all and 5 being hugely) how much you feel like you belong to your sports team?
+7. Do you like being a part of a sports team?
+
+### Developing focus group or interview questions 
+
+**THIS IS A NEW ACTIVITY - ASHLEY AND WIL TO DEVELOP**
+
+
+## Week 5 Lab 5: Running a Focus Group
+
+---
+
+Key resources:
+
+[Lab 5 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EXcvzLthPgVFpPV5srv3fN0B3HbqQKrLkkrwCNWS9_7YIA?e=Dio4sC)
+
+[Checklist and task allocation for focus group](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EaGHiB_KPM1Jgn22rGnqVJ8BeLmxD2D2dDtiEBC0bE0FZQ?e=nRvCZQ) **TO DISCUSS: We need to discuss the best way of them allocating tasks and when they should do it. Is everything in one file, for example, or do we split it up?**
+
+[Information Sheet template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXjnUsZm6aFGhI5mX0E3tqoB8aI3vJRZCP7h4eAAfTqi7g?e=wJVIEz)
+
+[Consent Form template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ETFRTON4cnROjUYI6WGc2wIBzjmRkzk8kpDdH79asr27BQ?e=TBJ4S7)
+
+
+---
+
+In this week's lab, we will cover some key things that you will need to know in order to run a focus group. We also have some activities for you to do in groups. 
 
 
 
-## Lab 5: Running a Focus Group
 
-## Lab 6: Data processing and concise writing 
 
-## Lab 7: Evaluation and reflection
 
-## Lab 8: Starting thematic analysis
+## Week 7 Lab 6: Data processing and concise writing 
 
-## Lab 9: Themes and writing up 
+---
 
+Key resources:
+
+[Lab 6 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/ETRPfGz7VlpKs4qnA9vjLMEBEl0qmg2QAkbpeoEfDlgxWw?e=uPERsJ)
+
+---
+
+
+## Week 8 Lab 7: Evaluation and reflection
+
+---
+
+Key resources:
+
+[Lab 7 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/ESrGgnSKQKVChklNX_gZxSABfhe99FNCdIxyCnvEbrMWNQ?e=ShCYoW) 
+
+---
+
+## Week 9 Lab 8: Starting thematic analysis
+
+
+---
+
+Key resources:
+
+[Lab 8 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EQIcsQJ5ZGpOnqxYkCSYFgcBcYMz90oyQUpB1Ga2x4UBMw?e=W4wfNe) 
+
+---
+
+
+## Week 10 Lab 9: Themes and writing up 
+
+---
+
+Key resources:
+
+[Lab 9 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EQIcsQJ5ZGpOnqxYkCSYFgcBcYMz90oyQUpB1Ga2x4UBMw?e=W4wfNe)https://moodle.gla.ac.uk/mod/url/view.php?id=3675054) 
+
+---

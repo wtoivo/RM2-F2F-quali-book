@@ -2,7 +2,36 @@
 
 In this chapter you will find all the lab materials.
 
-## Lab 1: What is qualitative research
+## Lab 1: What is qualitative research?
+
+In Lab 1, we will introduce you to qualitative research, and consider the differences between qualitative and quantitative. You will work together in groups to complete two activities. 
+
+[Lab 1 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EST8fegXMtlOtrv8hXcDp68BxkEdOZQvzLTyF8H-7mHvlw?e=LXF3Le) 
+
+### Lab 1 Activity 1: Differences between qualitative and quantitative studies
+
+Look at the table below, then discuss the questions underneath in your groups.
+
+**TO DO: TABLE NEEDS ADDED IN**
+
+Q1. What might a 'typical' *quantitative* study look like? What kind of data might be collected? What would be the aim of the study? What might your sample look like?
+
+Q2. What might a 'typical' *qualitative* study look like? What kind of data might be collected? What would be the aim of the study? What might your sample look like?
+
+Q3. What type of research question might be best answered with a *quantitative* design?
+
+Q4. What type of research question might be best answered with a *qualitative* design?
+
+
+### Lab 1 Activity 2: Qualitative or quantitative?
+
+Choose whether a quantitative or qualitative design is most appropriate for each of the following studies. Why did you
+choose each option?
+
+Q1. Angela is conducting a study exploring the experience of people currently experience mental ill health. She is interested in a) better understanding what people with mental ill health experience day-to-day, and b) exploring the support mechanisms that are in place.
+
+Q2. John is conducting a study where he is measuring whether the amount of sleep that children get is related to their cognitive performance in class. He asks the children to wear a sleep tracker to bed, so he can see when they are sleeping and when they are awake.
+
 
 ## Lab 2: Groupwork and RQs
 

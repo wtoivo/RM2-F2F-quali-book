@@ -1,5 +1,7 @@
 labs
 lab-1-what-is-qualitative-research
+lab-1-activity-1-differences-between-qualitative-and-quantitative-studies
+lab-1-activity-2-qualitative-or-quantitative
 lab-2-groupwork-and-rqs
 lab-3-ethics
 lab-4-developing-focus-group-questions

@@ -2,7 +2,7 @@
 title: "RM2 F2F Qualitative Project Resources" # edit
 #subtitle: "optional" 
 author: "Wilhelmiina Toivo and Ashley Robertson" # edit
-date: "2023-06-29"
+date: "2023-07-28"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: oneside # for PDFs

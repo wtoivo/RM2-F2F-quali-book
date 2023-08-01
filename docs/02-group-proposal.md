@@ -25,25 +25,25 @@ After the four topics have been presented, we will provide some information abou
 3. Students and mental health
 4. Belonging at University
 
-### Topic 1: Green Spaces
+### Topic 1: Nature access, nature connectedness and wellbeing
 
 Add in 
 
-#### Green Spaces: Potential project topics
+#### Nature and wellbeing: Potential project topics
 
-Add in
+Add in - we might need to cut it down a bit as it is quite long 
 
 ### Topic 2: Campus Climate - perceptions and experiences of inclusion in Higher Education
 
 Campus climate is broad term which refers to the experiences of inclusivity, accessibility, and respect for the needs of diverse individuals and groups on-campus (see Hart & Fellabaum, 2008; Rankin et al., 2019). This project focuses on the perceptions and experiences of inclusion and campus climate in higher education, with a focus on the inclusivity of LGBTQ+ people and people of colour (POC). Focus group participants will be allocated to each group to ensure all students in the class can participate in the research. This means that your participants will be diverse and may/may not identify as LGBT+ or POC students. With this in mind, research questions are designed to be inclusive and ethical, encouraging all students to participate in an open discussion. 
 
-**LGBTQ+ students**
+**Topic 2a: LGBTQ+ students**
 
 There has been an increase in the number of university applicants who disclose an LGBTQ+ identity in their UCAS application, with 7.2% of the total UK domiciled applicants in 2020 (UCAS, 2021a). Data from UCAS (2021a), suggests that positive campus climate experiences at school or or college are related to students being able to express their LGBTQ+ identities openly, while negative experiences are related to harassment based on identity and a lack of LGBTQ+ representation in the school/ college educational curriculum. Within the university curriculum, how LGBTQ+ friendly an academic subject area is perceived depends on how inclusive the subject is of LGBTQ+ identities (Forbes (2020). Subject areas are perceived to be more LGBTQ+ friendly if they provided a platform for discussion of LGBTQ+ issues (e.g. in humanities and social sciences), compared to subjects which did not easily lend themselves towards such discussion (e.g. STEM). In Forbes (2020) study, LGBTQ+ students also reported that they would be more likely to seek support from faculty staff in subjects perceived to be more LGBTQ+ friendly, than those in other subjects due to the teaching staff’s experience in discussing LGBTQ+ issues.  
 
 To enhance the experience of LGBTQ+ students’ experience in higher education, and to increase LGBTQ+ representation across the curriculum, higher education institutions often provide support, resources, and networks as part of their inclusivity and diversity strategy (e.g. Advance HE, n.d. -a; University of Glasgow, n.d. -a; University of Glasgow, n.d. -b). However, discipline-related differences in LGBTQ+ inclusivity have been reported in the workplace. For example, LGBTQ+ people in STEM careers report fewer career opportunities and feelings of being devalued and socially excluded, which has led to greater mental health difficulties and a higher likelihood of leaving STEM, compared to their non-LGBTQ+ counterparts (Cech & Waidzunas, 2021). Furthermore, LGBTQ+ staff in STEM university departments were more likely to experience harassment and social exclusion than those in non-STEM departments (Bilimoria & Stewart, 2009; Partridge et al ., 2014). 
 
-**Students of colour**
+**Topic 2b: Students of colour**
 
 The number of POC entering higher education is increasing (UCAS, 2021b); however, in 2019, 13.2% fewer POC students were awarded a first or upper second class degree compared to white students (Universities UK, 2019). The Black Lives Matter movement and 2020 racial protests across the world have brought attention to the issues of systemic racism, prompting institutions to act in dismantling systemic racism, particularly within higher education (e.g. Advance HE, n.d. -b; University of Glasgow, n.d. -c). Given that there is an underrepresentation of people of colour (POC) in university curricula in general, and that much of psychological research is based on samples from Western, educated, industrialised, rich and democratic countries (Henrich et al. 2010), there have been calls to diversify the university curriculum to better represent the experience and knowledge of POC (e.g. on course reading lists, in research sampling). Furthermore, there have been calls to decolonise the psychological curriculum (De Oliveira, 2020), with the aim of dismantling systemic racism by examining biases, assumptions, and inaccuracies in the representation of race in the curriculum (Gillborn et al., 2021).  
 
@@ -123,6 +123,16 @@ Indeed, both qualitative and quantitative approaches can produce different data,
 Some of the topics may be sensitive for people, and therefore it is important to not be overly direct and also to be ethical in the way you ask questions. If you are asking about mental health, for example, don't ask your participants about their own mental health. Remember that you will be working with your peers, and they will be known to you. Instead, ask about their opinions to do with mental health. 
 
 When designing questions, you can refer to chapter 3 as cited in Braun and Clarke (Braun & Clarke, 2013), as well as guidance cited in Agee (2009). In terms of next steps, you need to agree on a topic area, and potential research questions. Complete your summative assignment for the Group Proposal (Research Question and Rationale) by the due date. 
+
+---
+Acknowledgments
+
+Topic 1: Maxine Swingler and Eva Murzyn
+Topic 2a: Steven McNair
+Topic 2b: Zayba Ghazali-Mohammed
+Topic 3: Ashley Robertson
+Topic 4: Ashley Robertson
+---
 
 ### References (sorted by topic)
 

@@ -10,6 +10,7 @@ Key resources:
 
 [Lab 1 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EST8fegXMtlOtrv8hXcDp68BxkEdOZQvzLTyF8H-7mHvlw?e=LXF3Le) 
 
+**Project timeline (ADD IN)**
 ---
 
 In Lab 1, we will introduce you to qualitative research, and consider the differences between qualitative and quantitative. You will work together in groups to complete two activities. 

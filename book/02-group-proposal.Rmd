@@ -2,6 +2,10 @@
 
 **FOR DISCUSSION: Should the topic guide be in here, in the qualitative report section, or have it's own section?**
 
+In this section, you will find guidance on the group propsosal assessment for RM2.
+
+**Suggested timeline for the project - ADD IN LINK**
+
 ## Topic Guide
 
 As part of your qualitative project, you will be expected to write a review of the literature as part of your Introduction section. It is important that the Introduction has a clear rationale which supports your chosen research question.  

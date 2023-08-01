@@ -1,5 +1,6 @@
 labs
 week-1-lab-1-what-is-qualitative-research
+project-timeline-add-in
 lab-1-activity-1-differences-between-qualitative-and-quantitative-studies
 lab-1-activity-2-qualitative-or-quantitative
 week-2-lab-2-groupwork-and-rqs
@@ -51,7 +52,11 @@ setting-up-and-recording-the-online-focus-group
 downloading-the-transcript
 gdpr-compliance
 qualitative-report
+using-this-report-writing-guide
 frequently-asked-questions
+general-qualitative-project-questions
 group-proposal-1
 data-collection-1
+focus-group-questions
+setting-uprunning-the-focus-group
 qualitative-report-1

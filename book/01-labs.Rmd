@@ -1,6 +1,19 @@
 # Labs
 
-In this chapter you will find all the lab materials.
+In this chapter you will find the lab materials/activities. Slides will be linked from this chapter, but can be found on moodle. 
+
+Each lab focuses on supporting you with your qualitative project. As part of this project, you will complete two summative assessments (one as a group (30%) and one as an individual (50%)).
+
+The Labs will be on the following topics:
+- Week 1: What is qualitative research?
+- Week 2: Group work, Developing Research Questions
+- Week 3: Ethics
+- Week 4: Developing a focus group schedule
+- Week 5: Running a focus group
+- Week 7: Data processing and reflection
+- Week 8: Evaluation in the Introduction and Discussion
+- Week 9: Analysis (coding)
+- Week 10: Analysis (themes)
 
 **NOTE: All slides will need links updated to new ones**
 
@@ -10,9 +23,10 @@ In this chapter you will find all the lab materials.
 
 Key resources: 
 
-[Lab 1 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EST8fegXMtlOtrv8hXcDp68BxkEdOZQvzLTyF8H-7mHvlw?e=LXF3Le) 
+Lab 1 slides(**ADD LINK**) 
 
 [Project timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EYepOBxHkIxKuULVqBmvGiMBk7KH4FlUNGMLWlpYNc7d4Q?e=6rgfh2)
+
 ---
 
 In Lab 1, we will introduce you to qualitative research, and consider the differences between qualitative and quantitative. You will work together in groups to complete two activities. 
@@ -54,11 +68,11 @@ Q5. Elaine is conducting a study exploring whether the amount of studying done i
 
 Key resources: 
 
-[Lab 2 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EdsqJiomPfdDso5urIsA4AgB_BAnZoVhQkCXd_xwmiLifA?e=2VrKky)
+Lab 2 slides - **ADD LINK**
 
-Topic Guide - **add in link**
+[Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide)
 
-**Wil and Ashley to discuss** - Is there a way for us to link to the spreadsheet directly (here and below) but make it inaccessible until we are ready to release it?
+**Wil and Ashley to discuss** - Is there a way for us to link to the spreadsheet directly (here and below) but make it inaccessible until we are ready to release it? (e.g. can we link to the moodle activity rather than the spreadsheet, so that they can only access it if it has been made available?)
 
 ---
 
@@ -70,12 +84,21 @@ In today's lab, there will be some time spent getting to know each other, then w
 
 We appreciate that group work can be challenging and we want to support you to have an enjoyable and educational group work experience. To that end, we would like each group to create a group agreement that all members sign. The purpose of this is for the group to come together and establish common ground and rules that each of the group members is committed to. 
 
-Download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A). Then look at the list of potential items to include. These are provided within the template document itself, as well as in **Chapter X.X.X.** As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. After this, you should allocate tasks for the **group proposal** among the members of the group. A starter list of tasks is provided in the template as well as in **Chapter X.X.X**. (see list of tasks below). The task allocation must be uploaded in the same document as the signed group agreement.**DISCUSS WITH WIL - MEANS ONE UPLOAD PER PERSON RATHER THAN ONE PER PERSON PLUS A GROUP ONE)**
+After you have all introduced yourselves, download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A). Then look at the list of potential items to include. These are provided within the template document itself, as well as in **Chapter X.X.X.** As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. After this, you should allocate tasks for the **group proposal** among the members of the group. A starter list of tasks is provided in the template as well as in **Chapter X.X.X**. (see list of tasks below). The task allocation must be uploaded in the same document as the signed group agreement.**DISCUSS WITH WIL - MEANS ONE UPLOAD PER PERSON RATHER THAN ONE PER PERSON PLUS A GROUP ONE)**
 
 Work on a collaborative document on OneDrive to create your group work agreement and allocation of tasks for the group proposal. Once the group is happy with their agreement, *each group member* should sign it and submit it to Moodle individually (Formative Assessment Section). Each person should submit their signed group agreement and task allocation before their lab in Week 3. 
 
 Once the deadline has passed, we will be in touch with any groups where any members have not uploaded a group agreement and task allocation for the group proposal. 
 
+### Lab 2 Activity 2: Research Questions
+
+**NOTE TO WIL: Think that Maxine struggled to get any to do Campus Climate so might be worth only having the three topics?**
+
+In your groups, have a look at the [Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide). There are X topics to choose from: Green Spaces, **(CAMPUS CLIMATE)** Belonging and Mental Health. 
+
+Have a look over the topics - are there any that your group are particularly drawn towards at this stage? You might know immediately what you'd like to focus on, or might need to discuss all of them in your group. 
+
+Once you've chosen a topic (you might not manage this in the lab, which is fine!), have a think about possible research questions. You will need to have a finalised RQ for your group proposal, which is submitted in Week 5. 
 
 ## Week 3 Lab 3: Ethics
 
@@ -83,7 +106,7 @@ Once the deadline has passed, we will be in touch with any groups where any memb
 
 Key resources: 
 
-[Lab 3 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EbWz1Exy2QlJrFW3kMmXfGIBs2vnPWFCVE0te7s4IAj7uw?e=0s3wd0)
+Lab 3 slides **(ADD LINK)**
 
 **TO DISCUSS: Do we include any of this information (e.g. activity 3) as a word doc or is it okay in here as is?**
 
@@ -157,11 +180,12 @@ information confidential too.
 Consider the issues in the section above. In your groups, discuss each one in turn, thinking about the various steps that could be taken to reduce or remove these issues.
 
 The issues that should be discussed are:
+
 - Research Question
 - Data Collection
 - Recording a focus group or interview
 - Anonymity
-- Confidentiality
+- Confidentiility
 
 
 ### Lab 3 Activity 2: Fictional focus group example
@@ -218,7 +242,7 @@ negatively?”
 
 Key resources:
 
-[Lab 4 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EUSX66hFCkFEuW09YqkuKHUBgWq-QxMwY191EJB7QWFhog?e=Ta8KOS)
+Lab 4 slides **(ADD LINK)**
 
 ---
 
@@ -234,7 +258,7 @@ If, however, you only use questions from the bank that is supplied or make minor
 
 ### Lab 4 Activity 1: Research Questions
 
-Please have your Research Question ready for your tutor, and discuss it with them as they come round the groups. Do you have any other questions about the group proposal that you want to ask?
+Please have your Research Question ready for your tutor, and discuss it with them as they come round the groups. Do you have any other questions about the group proposal that you want to ask? Please work on the other two activities until your tutor makes it to your group.
 
 ### Lab 4 Activity 2: Appropriateness of questions
 
@@ -250,9 +274,18 @@ Look at the following focus group questions. For each, decide whether a) they ar
 6. Please tell me, on a scale of 1-5 (with 1 being not at all and 5 being hugely) how much you feel like you belong to your sports team?
 7. Do you like being a part of a sports team?
 
-### Developing focus group or interview questions 
+### Lab 4 Activity 3: Rewording questions
 
-**THIS IS A NEW ACTIVITY - ASHLEY AND WIL TO DEVELOP**
+Have a look at these poorly written fictional focus group questions. The research question is there to help you (you do not need to re-word this). 
+
+Research question: Exploring international students' experiences of their sense of belonging and homesickness
+
+Q1. Have you ever felt homesick while studying abroad?
+Q2. How has this negatively affected you?
+Q3. How often do you feel like you don't belong?
+
+- Try to re-write these questions to improve them, thinking about the clarity and the quality of data they would give you
+- Write your own question to add to the revised questions above, thinking about the guidance you’ve been given about developing good questions
 
 
 ## Week 5 Lab 5: Running a Focus Group
@@ -274,50 +307,87 @@ Key resources:
 
 In this week's lab, we will cover some key things that you will need to know in order to run a focus group. We also have some activities for you to do in groups. 
 
+### Lab 5 Activity 1: Allocation of tasks
 
 
+Look at the list of focus group tasks **(ADD LINK)** in the Group project: Preparation chapter of this book.
+
+Allocate tasks between your group members (write this down and make sure everybody has a copy of it). If you are missing group members, make sure to catch up with them and discuss task allocation
+
+### Lab 5 Activity 2: How would you manage these situations?
+
+In your groups, discuss the following scenarios. What might you do if these happen when you run your focus groups? What might you try to help the situation?  
+
+1. Nobody answers the questions you have asked
+2. The conversation goes completely off-topic
+3. One participant dominates the conversation
+4. One participant is seemingly uncomfortable and doesn't say anything
+5. Participants don't seem comfortable/confident answering questions in English
+
+Note down some suggestions among the group about how you might manage these situations and we will discuss as a class. 
 
 
-
-## Week 7 Lab 6: Data processing and concise writing 
-
----
-
-Key resources:
-
-[Lab 6 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/ETRPfGz7VlpKs4qnA9vjLMEBEl0qmg2QAkbpeoEfDlgxWw?e=uPERsJ)
-
----
-
-
-## Week 8 Lab 7: Evaluation and reflection
-
----
-
-Key resources:
-
-[Lab 7 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/ESrGgnSKQKVChklNX_gZxSABfhe99FNCdIxyCnvEbrMWNQ?e=ShCYoW) 
-
----
-
-## Week 9 Lab 8: Starting thematic analysis
-
+## Week 7 Lab 6: Data processing and reflection
 
 ---
 
 Key resources:
 
-[Lab 8 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EQIcsQJ5ZGpOnqxYkCSYFgcBcYMz90oyQUpB1Ga2x4UBMw?e=W4wfNe) 
+Lab 6 slides (**ADD LINK**)
+
+---
+
+### Lab 6 Activity 1: Anonymise the transcript
+
+Take a look at the short excerpt below. In your group, try to anonymise it, thinking about whether you would choose to redact or replace the information. 
+
+Transcript:
+
+*Jane:...I grew up in Brighton and you see men holding hands all the time in Brighton, and Tim came out when I was about 12 or 13 (pause) I think he was 16 or maybe 15, he was definitely still at Michael Hall because I used to get teased about being gay myself...*
+
+*Interviewer: And, when did you come out?*
+
+*Jane: I came out in the first year of university so I must have been 19 or 20, I had a gap year before going to Durham...my mum freaked a bit, she was totally okay, but I think even for her – someone who lives in Brighton and writes for the Guardian – two gay kids was a bit much... my Aunty Julie, my mum’s sister, was absolutely wonderful though, and she’s a lesbian...*
+
+Did you agree on all the points? If not, why not? Remember that there is no one 'correct' answer; it's not unusual to have different opinions about how you should approach it!
+
+### Lab 6 Activity 2: Reflection on RM1 
+
+Feedback is most useful when it is reflected on and incorporated into subsequent assessments. For this reason, we ask you to complete an activity where you reflect on the feedback you received in RM1, thinking about what you want to focus on for your RM2 report. 
+
+- Complete [this document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ES-Vc-s5kxZGo8wqcvvfmawBjrTG_q6WpNtTT18StzwS8w?e=aY8Pmx), reflecting on the RM1 feedback you received, and considering what you might focus on improving for your RM2 report.
+- You will need your RM1 registered report feedback (both Stage 1 and Stage 2) and the Qualitative report AIS to complete this activity
+
+
+## Week 8 Lab 7: Evaluation in the Introduction and Discussion
+---
+
+Key resources:
+
+Lab 7 slides (**ADD LINK**)
 
 ---
 
 
-## Week 10 Lab 9: Themes and writing up 
+
+
+## Week 9 Lab 8: Analysis (coding)
+
 
 ---
 
 Key resources:
 
-[Lab 9 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EQIcsQJ5ZGpOnqxYkCSYFgcBcYMz90oyQUpB1Ga2x4UBMw?e=W4wfNe)https://moodle.gla.ac.uk/mod/url/view.php?id=3675054) 
+Lab 8 slides (**ADD LINK**)
+---
+
+
+## Week 10 Lab 9: Analysis (themes)
+
+---
+
+Key resources:
+
+Lab 9 slides (**ADD LINK**)
 
 ---

@@ -25,7 +25,7 @@ We have developed a *suggested* timeline for the group and individual components
 
 ## Group Agreement and Task Allocation
 
-We appreciate that group work can be challenging and we want to support you to have an enjoyable and educational group work experience. To that end, we would like each group to create a group agreement that all members sign. The purpose of this is for the group to come together and establish common ground and rules that each of the group members is committed to. You will also be asked to allocate tasks, firstly for the group proposal (in Week 2, alongside the Group Agreement) and then for the Focus Group **(in Week X).**
+We appreciate that group work can be challenging and we want to support you to have an enjoyable and educational group work experience. To that end, we would like each group to create a group agreement that all members sign. The purpose of this is for the group to come together and establish common ground and rules that each of the group members is committed to. You will also be asked to allocate tasks, firstly for the group proposal (in Week 2, alongside the Group Agreement) and then for the Focus Group in Week 5.
 
 ### Group Agreement (Lab 2)
 
@@ -45,18 +45,15 @@ We all agree to establish a common timeline for the project and discuss any devi
 - We agree to establish the best method of communication for our group that's inclusive and takes into account everybody's individual needs.
 
 
-### Task Allocation 
+### Group Proposal Task Allocation (see Lab 2)
 
 Please note that this is a *suggested* list of tasks to get you started. You may find that there are additional tasks you allocate within your group as part of the project. You may have one person on a particular task, with multiple people on others. There is no one correct way to do this, and it is fine if the task allocation changes at a later date. It is intended to be a live document that you update as you progress with the group project. 
 
-You will be asked to allocate tasks for the Group Proposal in Week 2/Lab 2 and for the Focus Group in **Week X/Lab X.**
 
 
-#### Group Proposal Task Allocation (See Lab 2)
+### Focus Group Task Allocation (see Lab 5)
 
-
-
-#### Focus Group Task Allocation (see Lab X)
+**Add info**
 
 
 ## Topic Guide

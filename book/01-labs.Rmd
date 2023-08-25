@@ -2,6 +2,8 @@
 
 In this chapter you will find all the lab materials.
 
+**NOTE: All slides will need links updated to new ones**
+
 ## Week 1 Lab 1: What is qualitative research?
 
 ---
@@ -10,7 +12,7 @@ Key resources:
 
 [Lab 1 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EST8fegXMtlOtrv8hXcDp68BxkEdOZQvzLTyF8H-7mHvlw?e=LXF3Le) 
 
-**Project timeline (ADD IN)**
+[Project timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EYepOBxHkIxKuULVqBmvGiMBk7KH4FlUNGMLWlpYNc7d4Q?e=6rgfh2)
 ---
 
 In Lab 1, we will introduce you to qualitative research, and consider the differences between qualitative and quantitative. You will work together in groups to complete two activities. 
@@ -54,45 +56,28 @@ Key resources:
 
 [Lab 2 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EdsqJiomPfdDso5urIsA4AgB_BAnZoVhQkCXd_xwmiLifA?e=2VrKky)
 
-Topic Guide(**ADD IN LINK HERE TO TOPIC GUIDE FROM ELSEWHERE IN THE BOOK**)
+Topic Guide - **add in link**
 
 **Wil and Ashley to discuss** - Is there a way for us to link to the spreadsheet directly (here and below) but make it inaccessible until we are ready to release it?
 
 ---
 
-In Lab 2, you will form into the groups that you will  be in for the rest of the semester. You will be able to find your group in the spreadsheet at the bottom of the Week 2 Moodle (https://moodle.gla.ac.uk/course/view.php?id=38155&section=3) (please note the spreadsheet will only become available after Week 2 starts).In these groups, you will a) design, run and transcribe a focus group with a group in your lab as your participants, b) participate in another group's focus group, and c) write a qualitative group proposal. 
+In Lab 2, you will form into the groups that you will  be in for the rest of the semester. You will be able to find your group in the spreadsheet at the bottom of the Week 2 Moodle (https://moodle.gla.ac.uk/course/view.php?id=38155&section=3) (please note the spreadsheet will only become available after Week 2 starts). In these groups, you will a) design, run and transcribe a focus group with a group in your lab as your participants, b) participate in another group's focus group, and c) write a qualitative group proposal. 
 
 In today's lab, there will be some time spent getting to know each other, then we will ask you to develop a group agreement (see below). You should also discuss the different topics (*add in link for this*) that you can choose for your project, seeing whether any stand out as preferred options among the group.
 
-### Lab 2 Activity 1: Group Agreements
+### Lab 2 Activity 1: Group Agreements and Task Allocation
 
 We appreciate that group work can be challenging and we want to support you to have an enjoyable and educational group work experience. To that end, we would like each group to create a group agreement that all members sign. The purpose of this is for the group to come together and establish common ground and rules that each of the group members is committed to. 
 
-Download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A). Then look at the list of potential items to include below, and as a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. 
+Download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A). Then look at the list of potential items to include. These are provided within the template document itself, as well as in **Chapter X.X.X.** As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. After this, you should allocate tasks for the **group proposal** among the members of the group. A starter list of tasks is provided in the template as well as in **Chapter X.X.X**. (see list of tasks below). The task allocation must be uploaded in the same document as the signed group agreement.**DISCUSS WITH WIL - MEANS ONE UPLOAD PER PERSON RATHER THAN ONE PER PERSON PLUS A GROUP ONE)**
 
-Work on a collaborative document on OneDrive to create your group work agreement. Once the group is happy with their agreement, *each group member* should sign it and submit it to Moodle individually (Formative Assessment Section). Each person should submit their signed group agreement before their lab in Week 3. 
+Work on a collaborative document on OneDrive to create your group work agreement and allocation of tasks for the group proposal. Once the group is happy with their agreement, *each group member* should sign it and submit it to Moodle individually (Formative Assessment Section). Each person should submit their signed group agreement and task allocation before their lab in Week 3. 
 
-Once the deadline has passed, we will be in touch with any groups where any members have not uploaded a group agreement. 
-
-#### Group Agreement items
-
-Here is a list of items you may want to discuss with your group and add to the group agreement:
-
-We all agree to establish a common timeline for the project and discuss any deviations from the timeline together as a group
-- We all agree to communicate with each other openly and honestly about the project and get in touch with the course leads in the event of an unsolvable group conflict.
-- We all agree to respect each other's individual ways of working and will discuss these openly as a group. 
-- We all agree to respect diversity in our group. This includes cultural differences, neurodiversity, different work/life situations and may manifest in different ways of working/approaching tasks. We agree to discuss our strengths as a group and divide tasks accordingly.
-- I agree to stay in touch with the group and communicate as established by the group. If I am struggling and I do not feel comfortable sharing that with the group, I will get in touch with the course/programme leads for support
-- We all agree to meet on a regular basis as established by the group. If I cannot make a meeting, I agree to communicate this openly with my group and get in touch to catch up about things I have missed.
-- We agree to plan out the individual contribution of each team member in advance before group work starting and openly communicate any changes that may arise during the project.
-- We agree to establish the best method of communication for our group that's inclusive and takes into account everybody's individual needs.
+Once the deadline has passed, we will be in touch with any groups where any members have not uploaded a group agreement and task allocation for the group proposal. 
 
 
 ## Week 3 Lab 3: Ethics
-
-*TO DISCUSS: We had the pre-lab activity of the contribution document, so will be changing this for the agreement. The students, at the moment, have to submit their group agreement before Lab 3. We have an activity in Lab 5 to allocate tasks for the proposal  Do we get them to append it in this lab and change it to Lab 4 (this will then impact on when we are able to contact the groups before the deadline)? Or do we have it as a separate activity and they do it for their own records (and we can ask for it if we need)? Or do we adapt the group agreement in Lab 2 so they do the tasks at that point, and it's uploaded as a whole document?*
-
-**ANOTHER THING TO DISCUSS: One thing we could do, is we could develop a template 'contribution document' which has two sections - one for tasks for the group proposal (Lab 2 (submitted by Lab 3) and then tasks for the wider project (Lab 5). Perhaps one agreed contribution document is submitted per group by end of Week 6 (reading week) whereas the group agreement is submitted individually?**
 
 ---
 

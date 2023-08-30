@@ -1,7 +1,5 @@
 # Group project: Data collection and Processing
 
-**NOTE TO WIL - THIS IS FROM THE WEEK 5 SWAY FOR THE LAB - I'VE TAKEN IT OUT OF THERE AND PUT IT IN HERE**
-
 **Suggested timeline for the project - ADD IN LINK**
 
 

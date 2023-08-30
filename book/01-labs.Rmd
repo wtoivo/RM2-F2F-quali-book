@@ -5,6 +5,7 @@ In this chapter you will find the lab materials/activities. Slides will be linke
 Each lab focuses on supporting you with your qualitative project. As part of this project, you will complete two summative assessments (one as a group (30%) and one as an individual (50%)).
 
 The Labs will be on the following topics:
+
 - Week 1: What is qualitative research?
 - Week 2: Group work, Developing Research Questions
 - Week 3: Ethics
@@ -76,9 +77,9 @@ Lab 2 slides - **ADD LINK**
 
 ---
 
-In Lab 2, you will form into the groups that you will  be in for the rest of the semester. You will be able to find your group in the spreadsheet at the bottom of the Week 2 Moodle (https://moodle.gla.ac.uk/course/view.php?id=38155&section=3) (please note the spreadsheet will only become available after Week 2 starts). In these groups, you will a) design, run and transcribe a focus group with a group in your lab as your participants, b) participate in another group's focus group, and c) write a qualitative group proposal. 
+In Lab 2, you will form into the groups that you will  be in for the rest of the semester. You will be able to find your group in the spreadsheet at the bottom of the [Week 2 Moodle](https://moodle.gla.ac.uk/course/view.php?id=38155&section=3) (please note the spreadsheet will only become available after Week 2 starts). In these groups, you will a) design, run and transcribe a focus group with a group in your lab as your participants, b) participate in another group's focus group, and c) write a qualitative group proposal. 
 
-In today's lab, there will be some time spent getting to know each other, then we will ask you to develop a group agreement (see below). You should also discuss the different topics (*add in link for this*) that you can choose for your project, seeing whether any stand out as preferred options among the group.
+In today's lab, there will be some time spent getting to know each other, then we will ask you to develop a group agreement (see below). You should also discuss the [different topics](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide) that you can choose for your project, seeing whether any stand out as preferred options among the group.
 
 ### Lab 2 Activity 1: Group Agreements and Task Allocation
 
@@ -86,7 +87,7 @@ We appreciate that group work can be challenging and we want to support you to h
 
 After you have all introduced yourselves, download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A). Then look at the list of potential items to include. These are provided within the template document itself, as well as in **Chapter X.X.X.** As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. After this, you should allocate tasks for the **group proposal** among the members of the group. A starter list of tasks is provided in the template as well as in **Chapter X.X.X**. (see list of tasks below). The task allocation must be uploaded in the same document as the signed group agreement.**DISCUSS WITH WIL - MEANS ONE UPLOAD PER PERSON RATHER THAN ONE PER PERSON PLUS A GROUP ONE)**
 
-Work on a collaborative document on OneDrive to create your group work agreement and allocation of tasks for the group proposal. Once the group is happy with their agreement, *each group member* should sign it and submit it to Moodle individually (Formative Assessment Section). Each person should submit their signed group agreement and task allocation before their lab in Week 3. 
+Work on a collaborative document on OneDrive to create your group work agreement and allocation of tasks for the group proposal. Once the group is happy with their agreement, *each group member* should sign it and submit it to Moodle individually (Formative Assessment Section). You can either all sign the same document and upload a copy each, or you can sign separately and upload the copy that only you have signed. Each person should submit their signed group agreement and task allocation before their lab in Week 3. 
 
 Once the deadline has passed, we will be in touch with any groups where any members have not uploaded a group agreement and task allocation for the group proposal. 
 
@@ -94,7 +95,7 @@ Once the deadline has passed, we will be in touch with any groups where any memb
 
 **NOTE TO WIL: Think that Maxine struggled to get any to do Campus Climate so might be worth only having the three topics?**
 
-In your groups, have a look at the [Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide). There are X topics to choose from: Green Spaces, **(CAMPUS CLIMATE)** Belonging and Mental Health. 
+In your groups, have a look at the [Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide). There are three topics to choose from: Green Spaces, Belonging and Mental Health. 
 
 Have a look over the topics - are there any that your group are particularly drawn towards at this stage? You might know immediately what you'd like to focus on, or might need to discuss all of them in your group. 
 
@@ -107,8 +108,6 @@ Once you've chosen a topic (you might not manage this in the lab, which is fine!
 Key resources: 
 
 Lab 3 slides **(ADD LINK)**
-
-**TO DISCUSS: Do we include any of this information (e.g. activity 3) as a word doc or is it okay in here as is?**
 
 ---
 
@@ -360,6 +359,7 @@ Feedback is most useful when it is reflected on and incorporated into subsequent
 
 
 ## Week 8 Lab 7: Evaluation in the Introduction and Discussion
+
 ---
 
 Key resources:
@@ -368,18 +368,57 @@ Lab 7 slides (**ADD LINK**)
 
 ---
 
+We often ask for students to demonstrate *evaluation* in their writing, i.e. going beyond paraphrasing and descriptive writing. Essentially, we are looking for you to develop critical, evidence-based arguments that demonstrate your thinking. 
 
+In today's lab, we are going to focus on how you might incorporate evaluation into your introduction and discussion. This will not only support you for the RM2 report, but also any other submissions you have (including your dissertation). 
 
+### Lab 7: Activity 1: Evaluation in Introductions
+
+The purpose of your introduction is to provide a rationale for your study and answer the WHY question; why is your study worth doing? You want to sell your idea to the reader, using existing literature to show how you are building on the evidence that is there.
+
+In Activity 1, read the following extracts from an introduction section. As a group, identify *two* aspects of evaluation that could be improved for this study.  
+
+**Extract #1**
+*A study by Lane and Karin (2011) looked at zombie apocalypse survival confidence levels in undergraduate students. The sample consisted of 25 participants (20 male and 5 female), recruited through convenience sampling. The study employed involved a survey comprising Likert-scale questions designed to measure participants' self-assessed confidence in various survival skills. Additionally, participants were asked about their exposure to zombie-related media. The data were subjected to t-tests and regression analyses, and the authors’ found that the biggest predictor of zombie apocalypse confidence was exposure to zombie-themed video games.*
+
+**Extract 2**
+*It should be noted that the majority of studies on zombie apocalypse survival confidence have looked at samples that consist of mostly men (Lane & Karin, 2011 but see also Grimes & Dixon, 2019), and that previous samples have been small.*
+
+**Extract 3**
+*To date, there has been only one qualitative study on the topic – Seok (2013) collected data through semi-structured interviews, which were analysed using thematic analysis and two themes, “Survival mode” and “Confidence through skills” were identified. This study looked at undergraduate students; there is no previous literature on postgraduate students’ perceptions of their apocalyptic confidence. Therefore, this qualitative study investigates the perceived confidence of postgraduate students in their abilities to survive a zombie apocalypse.*
+
+### Lab 7 Activity 2: Evaluation in Discussions
+
+The purpose of your discussion is to summarise your results, contextualising them and situating them within the broader research context.  As part of this process, it is important to consider the implications of your work, as well as the limitations and possible future directions. Discussions should be rooted in the evidence base, rather than based on personal opinion.
+
+In Activity 2, read the following extracts from a discussion section. As a group, identify *two* aspects of evaluation that could be improved for this study. 
+
+**Extract 1**
+*In this study, our investigation into the realm of confidence in preparing for the zombie apocalypse has revealed nuanced insights into individuals' perceptions of their readiness for this so-far-unrealised scenario. Theme 1 was perceived media influence of feelings of preparedness. Here, we found that participants were more likely to feel prepared for the apocalypse when they watched zombie TV shows, which is in line with Lincoln and Reedus (2014). In Theme 2, we found that confidence was improved through perceived cooperation. This does not align with the most recent evidence, namely Morgan et al. (2023). These findings contribute to our understanding of how individuals navigate the complex interplay between personal beliefs, social interactions, and cultural representations when assessing their preparedness for extreme and unlikely events.*
+
+**Extract 2**
+*There were a number of limitations in this study. Firstly, it is important to note that we were unable to generalise as there were only four participants in the study. Secondly, we are currently unable to tell whether confidence in zombie apocalypse survival translates to real-world skills. Finally, a limitation is that the questions did not consider how postgraduates might reduce their vulnerability to zombie attacks.*
+
+**Extract 3**
+*This study offers insights into broader psychological phenomena and practical interventions. Governments around the world should take these findings and incorporate them into their disaster relief programs. This will enable policymakers and educators to further enhance individuals' capacity to critically evaluate their preparedness, bridging the gap between perceived and actual abilities. Moreover, this research illuminates the ways in which fictional contexts can impact real-world perceptions, shedding light on cognitive biases and media's potential to shape individuals' self-assessment (Masterson, 2020). As the world faces increasingly diverse and unpredictable challenges, understanding how individuals approach threats from the zombie apocalypse helps foster a holistic approach to readiness in an ever-changing landscape.*
 
 ## Week 9 Lab 8: Analysis (coding)
-
 
 ---
 
 Key resources:
 
 Lab 8 slides (**ADD LINK**)
+
 ---
+
+In this week's lab, we are going to focus on coding (i.e. step 2 of Thematic Analysis). We have two activities to support you in the coding stage of your data analysis. 
+
+
+### Lab 8 Activity 1: Coding
+
+
+### Lab 8 Activity 2: Themes vs. codes
 
 
 ## Week 10 Lab 9: Analysis (themes)
@@ -390,4 +429,64 @@ Key resources:
 
 Lab 9 slides (**ADD LINK**)
 
+Zombie Apocalypse transcript (**ADD LINK**)
+
 ---
+
+In today's lab (which is our last one in RM2), we have two activities to support you with developing themes using Thematic analysis. If there is time, you will also have the opportunity to get started on your analysis in Activity 3.
+
+### Lab 9 Activity 1: Theme Names
+
+Naming and refining your themes (stage 5) is an important step in communicating your analysis to your reader. 
+
+Below, we have some theme names that are based on the Zombie Apocalypse transcript (**ADD LINK**)
+
+As a group, discuss these theme names. Do you think they are good/poor? Are you able to tell what type of data might be captured under each theme?
+
+- Theme 1: Apocalypse confidence
+- Theme 2: Survival
+- Theme 3: The importance of media
+- Theme 4: Zombie preparedness planning 
+  - Subtheme 1: Negative aspects of planning
+  - Subtheme 2: Positive aspects of planning
+  
+### Lab 9 Activity 2: Going deeper in your analysis
+
+One of the characteristics of a strong analysis section is that the writer demonstrates an ability to go beyond paraphrasing/summarising. This activity is designed to help you understand what might be involved in doing so. 
+
+Read the following two extracts from an Analysis section and discuss these questions:
+
+1. Which of the two examples is better? Why?
+2. What have the authors done that makes the analysis better?
+
+**Extract 1 - from a study about the impact of the COVID pandemic**
+
+Sarah spoke of using her leisure time to plan and fantasise about her wedding: 
+
+*“it’s enough of a fantasy… it’s meant to be stressful, but it’s really just been fun. It’s like such a nice break from this humdrum life we’re living in right now” (Sarah: lines 459-461).*
+
+Organising a significant life event seems to be viewed as granting Sarah an escape from her current monotony. While she refers to it as a “fantasy”, potentially given uncertainty of the pandemic’s progression, she appears to perceive this as constructive and realistic for her future self. Alternately, Mandy’s leisure activity involved impossible daydreams:
+
+*“I started daydreaming more ridiculous stuff... I know it’s never going to come true ‘cause it’s not real, but it still entertains me” (Mandy: lines 443-444)*
+
+While Mandy seems to be under no illusion that her daydreams are feasible, daydreaming impossible scenarios appears to provide more of a release than realistic situations that are subject to ever changing government regulations (e.g. travel bans) that may fall through. 
+
+
+**Extract 2 - from a study about social media use during the pandemic**
+
+Some participants said it was difficult to fall asleep at night, including those who knew they should fall asleep but could not (*"if I can't stay up and can't sleep "- Sarah*), or participants subjectively thought that they did not need sleep or did not want to fall asleep (*"I am not really able to sleep at night, or like, sleep isn't really needed."* -Andrew)
+
+Participants said that they used social media but that it was only positive at certain points:
+
+*I feel like TikTok was fun in the first lockdown during the summer,'cause of all this summer content I guess, but after that it really went downhill. I don't know like, OK personally I deleted all my apps about three weeks ago* (John)
+
+John tells us here that he deleted all his apps, because they all went ‘downhill’. Tik Tok was helpful during the first lockdown, but not after it.
+
+
+### Lab 9 Activity 3: Get started on your own analysis
+
+If your group has finished the first two activities, feel free to move on to working on your analysis. 
+
+- Pull up the data for your focus group
+- You can work on finalising the transcript/anonymisation, or start or continue working on your thematic analysis
+- Your tutor and PhD tutor will come around – ask any questions you may have about Thematic Analysis and the report

@@ -68,12 +68,11 @@ You should use this topic guide to help you plan your study, and support you wit
 
 After the four topics have been presented, we will provide some information about your rationale, and also some key steps for moving forward.
 
-**Four topics of research:** 
+**Three topics of research:** 
 
 1. Green spaces (**Check wording and get blurb from Level 3**)
-2. Campus climate: perceptions and experiences of inclusion in higher education
-3. Students and mental health
-4. Belonging at University
+2. Students and mental health
+3. Belonging at University
 
 ### Topic 1: Nature access, nature connectedness and wellbeing
 
@@ -83,33 +82,8 @@ Add in
 
 Add in - we might need to cut it down a bit as it is quite long 
 
-### Topic 2: Campus Climate - perceptions and experiences of inclusion in Higher Education
 
-Campus climate is broad term which refers to the experiences of inclusivity, accessibility, and respect for the needs of diverse individuals and groups on-campus (see Hart & Fellabaum, 2008; Rankin et al., 2019). This project focuses on the perceptions and experiences of inclusion and campus climate in higher education, with a focus on the inclusivity of LGBTQ+ people and people of colour (POC). Focus group participants will be allocated to each group to ensure all students in the class can participate in the research. This means that your participants will be diverse and may/may not identify as LGBT+ or POC students. With this in mind, research questions are designed to be inclusive and ethical, encouraging all students to participate in an open discussion. 
-
-**Topic 2a: LGBTQ+ students**
-
-There has been an increase in the number of university applicants who disclose an LGBTQ+ identity in their UCAS application, with 7.2% of the total UK domiciled applicants in 2020 (UCAS, 2021a). Data from UCAS (2021a), suggests that positive campus climate experiences at school or or college are related to students being able to express their LGBTQ+ identities openly, while negative experiences are related to harassment based on identity and a lack of LGBTQ+ representation in the school/ college educational curriculum. Within the university curriculum, how LGBTQ+ friendly an academic subject area is perceived depends on how inclusive the subject is of LGBTQ+ identities (Forbes (2020). Subject areas are perceived to be more LGBTQ+ friendly if they provided a platform for discussion of LGBTQ+ issues (e.g. in humanities and social sciences), compared to subjects which did not easily lend themselves towards such discussion (e.g. STEM). In Forbes (2020) study, LGBTQ+ students also reported that they would be more likely to seek support from faculty staff in subjects perceived to be more LGBTQ+ friendly, than those in other subjects due to the teaching staff’s experience in discussing LGBTQ+ issues.  
-
-To enhance the experience of LGBTQ+ students’ experience in higher education, and to increase LGBTQ+ representation across the curriculum, higher education institutions often provide support, resources, and networks as part of their inclusivity and diversity strategy (e.g. Advance HE, n.d. -a; University of Glasgow, n.d. -a; University of Glasgow, n.d. -b). However, discipline-related differences in LGBTQ+ inclusivity have been reported in the workplace. For example, LGBTQ+ people in STEM careers report fewer career opportunities and feelings of being devalued and socially excluded, which has led to greater mental health difficulties and a higher likelihood of leaving STEM, compared to their non-LGBTQ+ counterparts (Cech & Waidzunas, 2021). Furthermore, LGBTQ+ staff in STEM university departments were more likely to experience harassment and social exclusion than those in non-STEM departments (Bilimoria & Stewart, 2009; Partridge et al ., 2014). 
-
-**Topic 2b: Students of colour**
-
-The number of POC entering higher education is increasing (UCAS, 2021b); however, in 2019, 13.2% fewer POC students were awarded a first or upper second class degree compared to white students (Universities UK, 2019). The Black Lives Matter movement and 2020 racial protests across the world have brought attention to the issues of systemic racism, prompting institutions to act in dismantling systemic racism, particularly within higher education (e.g. Advance HE, n.d. -b; University of Glasgow, n.d. -c). Given that there is an underrepresentation of people of colour (POC) in university curricula in general, and that much of psychological research is based on samples from Western, educated, industrialised, rich and democratic countries (Henrich et al. 2010), there have been calls to diversify the university curriculum to better represent the experience and knowledge of POC (e.g. on course reading lists, in research sampling). Furthermore, there have been calls to decolonise the psychological curriculum (De Oliveira, 2020), with the aim of dismantling systemic racism by examining biases, assumptions, and inaccuracies in the representation of race in the curriculum (Gillborn et al., 2021).  
-
-Gillborn et al (2021) found that the underrepresentation of POC in the university curriculum was recognisable to POC students, and that this extended beyond curriculum content to the representation of POC in teaching staff and the naming of campus buildings, but that they felt powerless to effect any change to the curriculum. POC students have also reported a lack of relatedness, competence and autonomy in their academic life, and that teaching staff can play a key role in removing these barriers (Bunce et al., 2021). Similarly, Varney et al. (2020) found that feedback from peers and teaching staff could either foster or hinder the sense of emotional safety that would allow POC students to express their identity; however, they also report that POC students felt pressure to represent their communities and were fearful of perpetuating stereotypes and being target because of their self-disclosure. 
-
-#### Campus climate: Potential project topics
-
-- What are students' perceptions/experiences of campus climate for LGBTQ+, POC and/or other minority identities or groups in HE? 
-- What are students' views on how universities can better support LGBT+ and students of colour? How accessible is information on university policy and support for these minority groups? 
-- How can we increase awareness of the issues faced by LGBTQ+ and POC students? 
-- How does representation of LGBTQ+ and POC groups within a subject discipline influence the experiences and perceptions of all students? 
-- What is the impact of visibility of LGBTQ +/POC staff on students' experiences and perceptions?  
-
-These are example questions. You are encouraged to develop these ideas or come up with new questions based on your reading.  
-
-### Topic 3: Students and mental health
+### Topic 2: Students and mental health
 
 There has been increasing concern about the mental health of students at university. In a survey of over 2,000 students, suicide ideation was reported by 2%.  Anxiety and depression symptoms were also commonly reported (Eisenberg et al., 2007). Another study conducted over two time points found that mental health problems are persistent and that many people do not seek the help they need (Zivin et al., 2009). 
 
@@ -133,7 +107,7 @@ Another issue around seeking support is that many who do chose to get help, have
 These are just two example questions. You are encouraged to develop these ideas or come up with new questions based on your reading.  
 
 
-### Topic 4: Belonging at University
+### Topic 3: Belonging at University
 
 There is extensive evidence that feeling a sense of belonging (also sometimes referred to as identifying with a group) is considered to be a basic psychological need (Baumeister & Leary, 1995). Feeling like we belong can foster a sense of personal control (Greenaway et al, 2015), increase meaning and purpose in life (Haslam et al., 2018) protect from existential anxiety (Sani, Herrera & Bowe, 2009), and promote reciprocal support (Levine, Prosser, Evans, & Reicher, 2005).  
 
@@ -178,57 +152,16 @@ When designing questions, you can refer to chapter 3 as cited in Braun and Clark
 Acknowledgments
 
 Topic 1: Maxine Swingler and Eva Murzyn
-Topic 2a: Steven McNair
-Topic 2b: Zayba Ghazali-Mohammed
+Topic 2: Ashley Robertson
 Topic 3: Ashley Robertson
-Topic 4: Ashley Robertson
 ---
 
 ### References (sorted by topic)
 
 #### Topic 1: Green Spaces
 
-#### Topic 2: Campus Climate
 
-Advance HE (n.d. -a). Lesbian, gay and bisexual people. Advanced HE. Retrieved January 10, 2022, from https://www.advance-he.ac.uk/guidance/equality-diversity-and-inclusion/creating-inclusive-environment/lesbian-gay-and- bisexual-people#Work  
-
-Advance HE (n.d. -b). Tackling racism on campus: Raising awareness and creating the conditions for confident conversations. Advanced HE. Retrieved January 10, 2022, from https://www.advance-he.ac.uk/tackling-racism-campus#resources 
-
-Bilimoria, D., & Stewart, A. J. (2009). "don't ask, don't tell": The academic climate for lesbian, gay, bisexual, and transgender faculty in science and engineering. NWSA Journal, 21(2), 85-103. 
-
-Bunce, L., King, N., Saran, S., & Talib, N. (2019). Experiences of black and minority ethnic (BME) students in higher education: Applying self-determination theory to understand the BME attain- ment gap. Studies in Higher Education, 46(3), 1–14. https://doi.org/10.1080/03075079.2019. 1643305 
-
-Cech, E. A., & Waidzunas, T. J. (2021). Systemic inequalities for LGBTQ professionals in STEM. Science Advances, 7(3)https://doi.org/10.1126/ sciadv.abe0933 
-
-Darney, M., Chang, C. Y., McCullough, R., Huffstead, M., & Smith, J. (2019). A phenomenological study of the experiences of master’s-level students of color in counsellingprograms. Teaching and Supervision in Counseling, 1(2), 31–45. https:// doi.org/10.7290/tsc010203 
-
-De Oliveira, B. (2020, September). We must act to decolonise psychology. The Psychologist, 33, 4. https://thepsychologist.bps.org.uk/volume-33/ september-2020/standing-against-racism 
-
-Forbes, T. D. (2020). Queer-free majors?: LGBTQ + college students’ accounts of chilly and warm academic disciplines. Journal of LGBT Youth, , 1-20. https:// doi.org/10.1080/19361653.2020.1813673 
-
-Gillborn, Woolnough, Jankowski & Sandle (2021): “Intensely white”: psychology curricula and the (re)production of racism, Educational Review, DOI: 10.1080/00131911.2021.1978402 
-
-Hart, J., & Fellabaum, J. (2008). Analyzing campus climate studies: Seeking to define and understand. Journal of Diversity in Higher Education, 1(4), 222-234. https:// doi.org/10.1037/a0013627 
-
-Johnson, A., & Joseph-Salisbury, R. (2018). ‘Are you supposed to be in here?’ Racial microaggressions and knowledge production in higher education. In J. Arday & H. S. Mirza(Eds.), Dismantling race in higher education (pp. 143–160). Palgrave Macmillan. 
-
-Patridge, E.V., Barthelemy, R. S., & Rankin, S. R. (2014) Factors impacting the academic climate for LGBQ STEM faculty. J. Women Minorities Sci. Eng. 20, 75–98 DOI: 10.1615/JWomenMinorScienEng.2014007429 
-
-Rankin, S., Garvey, J. C., & Duran, A. (2019). A retrospective of LGBT issues on US college campuses: 1990–2020. International Sociology, 34(4), 435-454. https:// doi.org/10.1177/0268580919851429 
-
-UCAS (2021a). Next Steps: What is the experience of LGBT+ students in education? https://www.ucas.com/next-steps-what-experience-lgbt-students-education? hash=iWMsuoMpHoBhyvsmDKLbZWe3Rl3MaR8LRUIQUMO_V28 
-
-UCAS (2021b). UCAS undergraduate sector-level end of cycle data resources 2020. https://www.ucas.com/data-and-analysis/undergraduate-statistics-and-reports/ ucas-undergraduate-sector-level-end-cycle-data-resources-2020 
-
-Universities UK (2019). Black, Asian and Minority Ethnic student attainment at UK universities: #CLOSINGTHEGAP. https://www.universitiesuk.ac.uk/sites/default/files/ field/downloads/2021-07/bame-student-attainment.pdf 
-
-University of Glasgow,(n.d. -a). Information for LGBT+ students. University of Glasgow. Retrieved January 10, 2022, from https://www.gla.ac.uk/myglasgow/ humanresources/equalitydiversity/students/lgbt/ 
-
-University of Glasgow,(n.d. -b). LGBT+ related information for staff. University of Glasgow. Retrieved January 10, 2022, from https://www.gla.ac.uk/myglasgow/ humanresources/equalitydiversity/staff/lgbt/ 
-
-University of Glasgow,(n.d. -c). Understanding racism, transforming university cultures. University of Glasgow. Retrieved January 10, 2022, from https:// www.gla.ac.uk/myglasgow/humanresources/equalitydiversity/ understandingracism/#actionplansummary,summaryofreportfindings 
-
-#### Topic 3: Students and mental health
+#### Topic 2: Students and mental health
 
 Buchan, L. January, 2018. Students wait up to four months for mental health support at UK universities. The Independent. Retrieved from: https://www.independent.co.uk/news/uk/politics/students-mental-health-support-waitingtimes-counselling-university-care-diagnosis-treatment-liberal-a8124111.html  
 
@@ -249,7 +182,7 @@ Thomas, K. August, 2018. Mental health at university: know where to find support
 Zivin, K., Eisenberg, D., Gollust, S. E., & Golberstein, E. (2009). Persistence of mental health problems and needs in a college student population. Journal of Affective Disorders, 117(3), 180-185.  
 
 
-#### Topic 4: Belonging at University
+#### Topic 3: Belonging at University
 
 Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. Psychological Bulletin, 117(3), 497–529. https://doi.org/10.1037/0033-2909.117.3.497 
 

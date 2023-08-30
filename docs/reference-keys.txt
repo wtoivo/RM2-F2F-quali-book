@@ -33,7 +33,7 @@ week-10-lab-9-analysis-themes
 lab-9-activity-1-theme-names
 lab-9-activity-2-going-deeper-in-your-analysis
 lab-9-activity-3-get-started-on-your-own-analysis
-group-project-preparation
+qualitative-project-preparation-group
 overview-1
 project-components
 suggested-project-timeline
@@ -57,7 +57,7 @@ topic-1-green-spaces
 topic-2-students-and-mental-health-1
 topic-3-belonging-at-university-1
 general
-group-project-data-collection-and-processing
+qualitative-project-data-collection-and-processing-group
 preparation-for-collecting-data
 planning-the-focus-group
 ethics

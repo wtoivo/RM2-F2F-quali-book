@@ -369,11 +369,11 @@ If you have further questions, post on Teams and/or visit your tutor's office ho
 
 We suggest the following for each section. Adhering to this exactly is not a mandate or requirement (i.e. it is the overall word count is the important one) but it does give an indication of where we do and do not expect to see lots of detail.
 
-Abstract: 100-150 words
-Introduction: 700-800 words
-Methods: 350-450 words
-Analysis: 750-900 words
-Discussion: 750-850 words
+- Abstract: 100-150 words
+- Introduction: 700-800 words
+- Methods: 350-450 words
+- Analysis: 750-900 words
+- Discussion: 750-850 words
 
 However, we strongly encourage you not to have an overly long abstract, as this can make things unecessarily tight for the rest of the report.
 

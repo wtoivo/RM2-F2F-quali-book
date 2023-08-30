@@ -193,47 +193,31 @@ Angela and John have run a focus group study to explore the experiences of UK un
 
 In your groups, try to identify what ethical issues there are, and how they could have been mitigated.
 
-**Focus group schedule**
 
-1. What has been your experience with teaching during the pandemic?
-2. How has this affected your personal life? What impact has your increased workload had on that? 
-3. Can you describe some of the negative effects that this has had on your mental health? 
-    Prompt: What has been the worst thing about the pandemic for you?
-4. How has your employer supported you during the pandemic? 
-5. How has your student contact differed from previous years? 
-
-**Correspondence between the authors**
-
-*Email 1:* 
-
-“Hi Angela,
-
-Please see attached a Google Drive link to the raw data with focus group number 3. I’m just working on the anonymisation of FG4 on the library computers and will send it to you asap.
-
-Cheers,
-
-J”
-
-*Email 2:*
-
-“Hi,
-
-Thanks for the update! Actually my dissertation student is very interested in the topic so I thought they would help with the data analysis – can you share the raw data folder with 12345@student.gla.ac.uk also?
-
--Angela”
-
-
-**Data Excerpt**
-
-Participant 1: “For me, as I’m the course lead for first-year philosophy, the workload was
-just simply too much to handle at times and I felt so alone.”
-
-Participant 2: “Yeah, I agree, umm, it was really hard to just keep going with extra hours
-and that feeling of isolation”
-
-Moderator: “What about you, Participant 3, how was your mental health affected
-negatively?”
-
+<div class="info">
+<p><strong>Focus group schedule</strong></p>
+<ol style="list-style-type: decimal">
+<li>What has been your experience with teaching during the pandemic?</li>
+<li>How has this affected your personal life? What impact has your increased workload had on that?</li>
+<li>Can you describe some of the negative effects that this has had on your mental health? Prompt: What has been the worst thing about the pandemic for you?</li>
+<li>How has your employer supported you during the pandemic?</li>
+<li>How has your student contact differed from previous years?</li>
+</ol>
+<p><strong>Correspondence between the authors</strong></p>
+<p><em>Email 1:</em></p>
+<p>“Hi Angela,</p>
+<p>Please see attached a Google Drive link to the raw data with focus group number 3. I’m just working on the anonymisation of FG4 on the library computers and will send it to you asap.</p>
+<p>Cheers,</p>
+<p>J”</p>
+<p><em>Email 2:</em></p>
+<p>“Hi,</p>
+<p>Thanks for the update! Actually my dissertation student is very interested in the topic so I thought they would help with the data analysis – can you share the raw data folder with 12345@student.gla.ac.uk also?</p>
+<p>-Angela”</p>
+<p><strong>Data Excerpt</strong></p>
+<p>Participant 1: “For me, as I’m the course lead for first-year philosophy, the workload was just simply too much to handle at times and I felt so alone.”</p>
+<p>Participant 2: “Yeah, I agree, umm, it was really hard to just keep going with extra hours and that feeling of isolation”</p>
+<p>Moderator: “What about you, Participant 3, how was your mental health affected negatively?”</p>
+</div>
 
 ## Week 4 Lab 4: Developing Focus Group questions
 
@@ -263,25 +247,31 @@ Please have your Research Question ready for your tutor, and discuss it with the
 
 Look at the following focus group questions. For each, decide whether a) they are appropriate and b) whether they should be adapted or not? If you think they should be, how would you change them? 
 
-**Research Question: How does students' sense of belonging relate to participation in team sport?**
 
-1. How many hours of group sport do you participate in each week?
-2. What does being a part of a team mean to you?
-3. What does belonging mean to you? 
-4. How has your sense of belonging improved since joining your sports group?
-5. I'm going to go round the group one at a time. I need each person to tell me about a time where they've felt that they haven't belonged to their team, and how that impacted on them personally? 
-6. Please tell me, on a scale of 1-5 (with 1 being not at all and 5 being hugely) how much you feel like you belong to your sports team?
-7. Do you like being a part of a sports team?
+
+<div class="info">
+<p><em>Research Question: How does students’ sense of belonging relate to participation in team sport?</em></p>
+<ol style="list-style-type: decimal">
+<li>How many hours of group sport do you participate in each week?</li>
+<li>What does being a part of a team mean to you?</li>
+<li>What does belonging mean to you?</li>
+<li>How has your sense of belonging improved since joining your sports group?</li>
+<li>I’m going to go round the group one at a time. I need each person to tell me about a time where they’ve felt that they haven’t belonged to their team, and how that impacted on them personally?</li>
+<li>Please tell me, on a scale of 1-5 (with 1 being not at all and 5 being hugely) how much you feel like you belong to your sports team?</li>
+<li>Do you like being a part of a sports team?</li>
+</ol>
+</div>
+
+
 
 ### Lab 4 Activity 3: Rewording questions
 
 Have a look at these poorly written fictional focus group questions. The research question is there to help you (you do not need to re-word this). 
 
-Research question: Exploring international students' experiences of their sense of belonging and homesickness
-
-Q1. Have you ever felt homesick while studying abroad?
-Q2. How has this negatively affected you?
-Q3. How often do you feel like you don't belong?
+<div class="info">
+<p><em>Research question: Exploring international students’ experiences of their sense of belonging and homesickness</em></p>
+<p>Q1. Have you ever felt homesick while studying abroad? Q2. How has this negatively affected you? Q3. How often do you feel like you don’t belong?</p>
+</div>
 
 - Try to re-write these questions to improve them, thinking about the clarity and the quality of data they would give you
 - Write your own question to add to the revised questions above, thinking about the guidance you’ve been given about developing good questions
@@ -317,11 +307,15 @@ Allocate tasks between your group members (write this down and make sure everybo
 
 In your groups, discuss the following scenarios. What might you do if these happen when you run your focus groups? What might you try to help the situation?  
 
-1. Nobody answers the questions you have asked
-2. The conversation goes completely off-topic
-3. One participant dominates the conversation
-4. One participant is seemingly uncomfortable and doesn't say anything
-5. Participants don't seem comfortable/confident answering questions in English
+<div class="info">
+<ol style="list-style-type: decimal">
+<li>Nobody answers the questions you have asked</li>
+<li>The conversation goes completely off-topic</li>
+<li>One participant dominates the conversation</li>
+<li>One participant is seemingly uncomfortable and doesn’t say anything</li>
+<li>Participants don’t seem comfortable/confident answering questions in English</li>
+</ol>
+</div>
 
 Note down some suggestions among the group about how you might manage these situations and we will discuss as a class. 
 
@@ -340,13 +334,12 @@ Lab 6 slides (**ADD LINK**)
 
 Take a look at the short excerpt below. In your group, try to anonymise it, thinking about whether you would choose to redact or replace the information. 
 
-Transcript:
-
-*Jane:...I grew up in Brighton and you see men holding hands all the time in Brighton, and Tim came out when I was about 12 or 13 (pause) I think he was 16 or maybe 15, he was definitely still at Michael Hall because I used to get teased about being gay myself...*
-
-*Interviewer: And, when did you come out?*
-
-*Jane: I came out in the first year of university so I must have been 19 or 20, I had a gap year before going to Durham...my mum freaked a bit, she was totally okay, but I think even for her – someone who lives in Brighton and writes for the Guardian – two gay kids was a bit much... my Aunty Julie, my mum’s sister, was absolutely wonderful though, and she’s a lesbian...*
+<div class="info">
+<p><strong>Transcript:</strong></p>
+<p>Jane:…I grew up in Brighton and you see men holding hands all the time in Brighton, and Tim came out when I was about 12 or 13 (pause) I think he was 16 or maybe 15, he was definitely still at Michael Hall because I used to get teased about being gay myself…</p>
+<p>Interviewer: And, when did you come out?</p>
+<p>Jane: I came out in the first year of university so I must have been 19 or 20, I had a gap year before going to Durham…my mum freaked a bit, she was totally okay, but I think even for her – someone who lives in Brighton and writes for the Guardian – two gay kids was a bit much… my Aunty Julie, my mum’s sister, was absolutely wonderful though, and she’s a lesbian…</p>
+</div>
 
 Did you agree on all the points? If not, why not? Remember that there is no one 'correct' answer; it's not unusual to have different opinions about how you should approach it!
 
@@ -378,14 +371,13 @@ The purpose of your introduction is to provide a rationale for your study and an
 
 In Activity 1, read the following extracts from an introduction section. As a group, identify *two* aspects of evaluation that could be improved for this study.  
 
-**Extract #1**
-*A study by Lane and Karin (2011) looked at zombie apocalypse survival confidence levels in undergraduate students. The sample consisted of 25 participants (20 male and 5 female), recruited through convenience sampling. The study employed involved a survey comprising Likert-scale questions designed to measure participants' self-assessed confidence in various survival skills. Additionally, participants were asked about their exposure to zombie-related media. The data were subjected to t-tests and regression analyses, and the authors’ found that the biggest predictor of zombie apocalypse confidence was exposure to zombie-themed video games.*
+<div class="info">
+<p><strong>Extract #1</strong> A study by Lane and Karin (2011) looked at zombie apocalypse survival confidence levels in undergraduate students. The sample consisted of 25 participants (20 male and 5 female), recruited through convenience sampling. The study employed involved a survey comprising Likert-scale questions designed to measure participants’ self-assessed confidence in various survival skills. Additionally, participants were asked about their exposure to zombie-related media. The data were subjected to t-tests and regression analyses, and the authors’ found that the biggest predictor of zombie apocalypse confidence was exposure to zombie-themed video games.</p>
+<p><strong>Extract 2</strong> It should be noted that the majority of studies on zombie apocalypse survival confidence have looked at samples that consist of mostly men (Lane &amp; Karin, 2011 but see also Grimes &amp; Dixon, 2019), and that previous samples have been small.</p>
+<p><strong>Extract 3</strong> To date, there has been only one qualitative study on the topic – Seok (2013) collected data through semi-structured interviews, which were analysed using thematic analysis and two themes, “Survival mode” and “Confidence through skills” were identified. This study looked at undergraduate students; there is no previous literature on postgraduate students’ perceptions of their apocalyptic confidence. Therefore, this qualitative study investigates the perceived confidence of postgraduate students in their abilities to survive a zombie apocalypse.</p>
+</div>
 
-**Extract 2**
-*It should be noted that the majority of studies on zombie apocalypse survival confidence have looked at samples that consist of mostly men (Lane & Karin, 2011 but see also Grimes & Dixon, 2019), and that previous samples have been small.*
 
-**Extract 3**
-*To date, there has been only one qualitative study on the topic – Seok (2013) collected data through semi-structured interviews, which were analysed using thematic analysis and two themes, “Survival mode” and “Confidence through skills” were identified. This study looked at undergraduate students; there is no previous literature on postgraduate students’ perceptions of their apocalyptic confidence. Therefore, this qualitative study investigates the perceived confidence of postgraduate students in their abilities to survive a zombie apocalypse.*
 
 ### Lab 7 Activity 2: Evaluation in Discussions
 
@@ -393,14 +385,15 @@ The purpose of your discussion is to summarise your results, contextualising the
 
 In Activity 2, read the following extracts from a discussion section. As a group, identify *two* aspects of evaluation that could be improved for this study. 
 
-**Extract 1**
-*In this study, our investigation into the realm of confidence in preparing for the zombie apocalypse has revealed nuanced insights into individuals' perceptions of their readiness for this so-far-unrealised scenario. Theme 1 was perceived media influence of feelings of preparedness. Here, we found that participants were more likely to feel prepared for the apocalypse when they watched zombie TV shows, which is in line with Lincoln and Reedus (2014). In Theme 2, we found that confidence was improved through perceived cooperation. This does not align with the most recent evidence, namely Morgan et al. (2023). These findings contribute to our understanding of how individuals navigate the complex interplay between personal beliefs, social interactions, and cultural representations when assessing their preparedness for extreme and unlikely events.*
 
-**Extract 2**
-*There were a number of limitations in this study. Firstly, it is important to note that we were unable to generalise as there were only four participants in the study. Secondly, we are currently unable to tell whether confidence in zombie apocalypse survival translates to real-world skills. Finally, a limitation is that the questions did not consider how postgraduates might reduce their vulnerability to zombie attacks.*
 
-**Extract 3**
-*This study offers insights into broader psychological phenomena and practical interventions. Governments around the world should take these findings and incorporate them into their disaster relief programs. This will enable policymakers and educators to further enhance individuals' capacity to critically evaluate their preparedness, bridging the gap between perceived and actual abilities. Moreover, this research illuminates the ways in which fictional contexts can impact real-world perceptions, shedding light on cognitive biases and media's potential to shape individuals' self-assessment (Masterson, 2020). As the world faces increasingly diverse and unpredictable challenges, understanding how individuals approach threats from the zombie apocalypse helps foster a holistic approach to readiness in an ever-changing landscape.*
+
+<div class="info">
+<p><strong>Extract 1</strong> In this study, our investigation into the realm of confidence in preparing for the zombie apocalypse has revealed nuanced insights into individuals’ perceptions of their readiness for this so-far-unrealised scenario. Theme 1 was perceived media influence of feelings of preparedness. Here, we found that participants were more likely to feel prepared for the apocalypse when they watched zombie TV shows, which is in line with Lincoln and Reedus (2014). In Theme 2, we found that confidence was improved through perceived cooperation. This does not align with the most recent evidence, namely Morgan et al. (2023). These findings contribute to our understanding of how individuals navigate the complex interplay between personal beliefs, social interactions, and cultural representations when assessing their preparedness for extreme and unlikely events.</p>
+<p><strong>Extract 2</strong> There were a number of limitations in this study. Firstly, it is important to note that we were unable to generalise as there were only four participants in the study. Secondly, we are currently unable to tell whether confidence in zombie apocalypse survival translates to real-world skills. Finally, a limitation is that the questions did not consider how postgraduates might reduce their vulnerability to zombie attacks.</p>
+<p><strong>Extract 3</strong> This study offers insights into broader psychological phenomena and practical interventions. Governments around the world should take these findings and incorporate them into their disaster relief programs. This will enable policymakers and educators to further enhance individuals’ capacity to critically evaluate their preparedness, bridging the gap between perceived and actual abilities. Moreover, this research illuminates the ways in which fictional contexts can impact real-world perceptions, shedding light on cognitive biases and media’s potential to shape individuals’ self-assessment (Masterson, 2020). As the world faces increasingly diverse and unpredictable challenges, understanding how individuals approach threats from the zombie apocalypse helps foster a holistic approach to readiness in an ever-changing landscape.</p>
+</div>
+
 
 ## Week 9 Lab 8: Analysis (coding)
 
@@ -459,28 +452,23 @@ Read the following two extracts from an Analysis section and discuss these quest
 1. Which of the two examples is better? Why?
 2. What have the authors done that makes the analysis better?
 
-**Extract 1 - from a study about the impact of the COVID pandemic**
-
-Sarah spoke of using her leisure time to plan and fantasise about her wedding: 
-
-*“it’s enough of a fantasy… it’s meant to be stressful, but it’s really just been fun. It’s like such a nice break from this humdrum life we’re living in right now” (Sarah: lines 459-461).*
-
-Organising a significant life event seems to be viewed as granting Sarah an escape from her current monotony. While she refers to it as a “fantasy”, potentially given uncertainty of the pandemic’s progression, she appears to perceive this as constructive and realistic for her future self. Alternately, Mandy’s leisure activity involved impossible daydreams:
-
-*“I started daydreaming more ridiculous stuff... I know it’s never going to come true ‘cause it’s not real, but it still entertains me” (Mandy: lines 443-444)*
-
-While Mandy seems to be under no illusion that her daydreams are feasible, daydreaming impossible scenarios appears to provide more of a release than realistic situations that are subject to ever changing government regulations (e.g. travel bans) that may fall through. 
+<div class="info">
+<p><strong>Extract 1 - from a study about the impact of the COVID pandemic</strong></p>
+<p>Sarah spoke of using her leisure time to plan and fantasise about her wedding:</p>
+<p><em>“it’s enough of a fantasy… it’s meant to be stressful, but it’s really just been fun. It’s like such a nice break from this humdrum life we’re living in right now” (Sarah: lines 459-461).</em></p>
+<p>Organising a significant life event seems to be viewed as granting Sarah an escape from her current monotony. While she refers to it as a “fantasy”, potentially given uncertainty of the pandemic’s progression, she appears to perceive this as constructive and realistic for her future self. Alternately, Mandy’s leisure activity involved impossible daydreams:</p>
+<p><em>“I started daydreaming more ridiculous stuff… I know it’s never going to come true ‘cause it’s not real, but it still entertains me” (Mandy: lines 443-444)</em></p>
+<p>While Mandy seems to be under no illusion that her daydreams are feasible, daydreaming impossible scenarios appears to provide more of a release than realistic situations that are subject to ever changing government regulations (e.g. travel bans) that may fall through.</p>
+</div>
 
 
-**Extract 2 - from a study about social media use during the pandemic**
-
-Some participants said it was difficult to fall asleep at night, including those who knew they should fall asleep but could not (*"if I can't stay up and can't sleep "- Sarah*), or participants subjectively thought that they did not need sleep or did not want to fall asleep (*"I am not really able to sleep at night, or like, sleep isn't really needed."* -Andrew)
-
-Participants said that they used social media but that it was only positive at certain points:
-
-*I feel like TikTok was fun in the first lockdown during the summer,'cause of all this summer content I guess, but after that it really went downhill. I don't know like, OK personally I deleted all my apps about three weeks ago* (John)
-
-John tells us here that he deleted all his apps, because they all went ‘downhill’. Tik Tok was helpful during the first lockdown, but not after it.
+<div class="info">
+<p><strong>Extract 2 - from a study about social media use during the pandemic</strong></p>
+<p>Some participants said it was difficult to fall asleep at night, including those who knew they should fall asleep but could not (<em>“if I can’t stay up and can’t sleep”- Sarah</em>), or participants subjectively thought that they did not need sleep or did not want to fall asleep (<em>“I am not really able to sleep at night, or like, sleep isn’t really needed.”</em> -Andrew)</p>
+<p>Participants said that they used social media but that it was only positive at certain points:</p>
+<p><em>I feel like TikTok was fun in the first lockdown during the summer,’cause of all this summer content I guess, but after that it really went downhill. I don’t know like, OK personally I deleted all my apps about three weeks ago</em> (John)</p>
+<p>John tells us here that he deleted all his apps, because they all went ‘downhill’. Tik Tok was helpful during the first lockdown, but not after it.</p>
+</div>
 
 
 ### Lab 9 Activity 3: Get started on your own analysis

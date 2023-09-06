@@ -17,7 +17,7 @@ The qualitative project is broken down as follows:
 
 ### Suggested Project timeline
 
-We have developed a *suggested* timeline for the group and individual components. We advise that you use this to tackle the project throughout the semester, to avoid leaving yourself lots of work at the end. Do feel free to alter the suggested deadlines if you wish - the purpose is not to be restrictive, but instead to help you by detailing when you might want to complete tasks in order to pace yourself.
+We have developed a [*suggested* timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EYepOBxHkIxKuULVqBmvGiMBk7KH4FlUNGMLWlpYNc7d4Q?e=svquBN) for the group and individual components. We advise that you use this to tackle the project throughout the semester, to avoid leaving yourself lots of work at the end. Do feel free to alter the suggested deadlines if you wish - the purpose is not to be restrictive, but instead to help you by detailing when you might want to complete tasks in order to pace yourself.
 
 ### Expectations
 
@@ -29,13 +29,13 @@ We appreciate that group work can be challenging and we want to support you to h
 
 ### Group Agreement (Lab 2)
 
-Please download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A). Then look at the list of potential items to include. These are provided within the template document itself, as well as below. As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. Then, allocate tasks for the **group proposal** and upload this document individually to moodle before your Week 3 lab. You will be asked, separately, to allocate tasks for the Focus Group in **Week X.**
+Please download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A). Then look at the list of potential items to include. These are provided within the template document itself, as well as below. As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. Then, allocate tasks for the **group proposal** and upload this document individually to moodle before your Week 3 lab. You will be asked, separately, to allocate tasks for the Focus Group in your **Week 5 lab.**
 
-#### Group Agreement Items
+#### Group Agreement Items (see Lab 2)
 
 Here is a list of items you may want to discuss with your group and add to the group agreement:
 
-We all agree to establish a common timeline for the project and discuss any deviations from the timeline together as a group
+- We all agree to establish a common timeline for the project and discuss any deviations from the timeline together as a group
 - We all agree to communicate with each other openly and honestly about the project and get in touch with the course leads in the event of an unsolvable group conflict.
 - We all agree to respect each other's individual ways of working and will discuss these openly as a group. 
 - We all agree to respect diversity in our group. This includes cultural differences, neurodiversity, different work/life situations and may manifest in different ways of working/approaching tasks. We agree to discuss our strengths as a group and divide tasks accordingly.
@@ -49,11 +49,89 @@ We all agree to establish a common timeline for the project and discuss any devi
 
 Please note that this is a *suggested* list of tasks to get you started. You may find that there are additional tasks you allocate within your group as part of the project. You may have one person on a particular task, with multiple people on others. There is no one correct way to do this, and it is fine if the task allocation changes at a later date. It is intended to be a live document that you update as you progress with the group project. 
 
+#### Group Proposal Items
 
+**Prep work** 
+
+- Finalise your group agreement an submit to Moodle individually (EVERYBODY) 
+- Identify, share and read studies related to your topic and qualitative/focus group methodology (EVERYBODY) 
+- Develop and finalise your research question (EVERYBODY) 
+- Identify which course materials to use for support for each section 
+
+**Lead writing** 
+
+- Summarise studies on the background of your RQ 
+- Write section 1 (background to topic) 
+- Read BPS code of ethics and identify potential issues for the study 
+- Discuss the justification for your study and its methodology (EVERYBODY) 
+- Draft section 2A (why use qualitative methods for this particular topic) 
+- Draft section 2B (why Focus Groups) 
+- Draft section 2C (why this specific sample) 
+- Draft section 3 (ethics) 
+
+**Editing and reviewing**
+
+- Edit the group proposal to make it into a cohesive piece 
+- Formatting and referencing (make consistent) 
+- Check that in-text citations and reference list match 
+- Agree on the final piece together (read the final version and agrees to it) (EVERYBODY) 
+- Final proofread for spelling and grammar 
+
+**Admin** 
+
+- Create a shared citation library 
+- Set up a Teams chat/channel and a shared oneDrive folder for your group 
+- Make sure everybody has access and editing rights to shared documents 
+- Keeping track of group communication (minutes of meetings, to-do lists etc) 
+- Group management (coordination of meetings, scheduling) 
+- Draft and Final Proposal submission 
 
 ### Focus Group Task Allocation (see Lab 5)
 
-**Add info**
+In lab 5, we will ask you to allocate tasks for running the focus group. Please see below for a list of tasks that are involved (there may be additional tasks you wish to allocate among your team).
+
+#### Focus Group items
+
+**Prep work and getting materials together**
+
+- Set up a shared version of the ‘checklist’ to ensure that you complete all tasks required for the focus group. This checklist contains the same list of tasks as listed here, but it is important that you keep a record of what has been completed.
+- Read over the [‘data collection’](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html) chapter in the Qualitative book 
+- Choose questions from the question bank **(ADD LINK)**, adapting them as required. If you decide to make any new questions, these must be discussed in office hours with your tutor before you collect data. 
+- Pilot your questions (i.e. ask someone to look over them for clarity and to ensure they make sense) 
+- Adapt the following documents for your study: 
+  + Information sheet 
+  + Consent form 
+- Finalise the focus group schedule and develop two versions (one with probes/prompts and one without) 
+- Decide on demographic questions and set up the questionnaire using Microsoft Forms 
+
+**Organising the focus group**
+
+- Find out which group will be your participants (this information is on the ‘group allocation’ spreadsheet released at the start of week 2). 
+- Contact your participants and arrange a date and time for the focus group. This will be held online using Microsoft Teams. You should aim to hold it in Week 8 
+- Practice setting up a meeting, including sending an invitation, recording, transcribing and accessing the recording and transcript after the meeting.  
+- Send the Information sheet, Consent Form, and (if applicable) Demographics survey to your participants in advance of the focus group. Participants should complete the demographics and return the completed consent form  
+- Send the focus group schedule to participants at least 24 hours in advance of the focus group 
+- Agree who will be the facilitator and note-taker. Decide if the others in the group would like to attend or not (if yes, please ask the participants first and ensure mics/cameras are turned off for the focus group itself) 
+- Agree the specific ground rules that you will discuss with participants at the start of your focus group 
+
+ **Data Storage Preparation**
+
+- Set up a shared OneDrive folder for all documents related to the focus group
+- Store the following in your shared folder:
+  + Focus group schedule version 1 (with prompts, for the facilitator) 
+  + Focus group schedule version 2 (without prompts, for the participants) 
+  + Ground rules 
+  + Adapted information sheet  
+  + Adapted consent form 
+  + Completed consent forms 
+  + Template transcript 
+
+**Transcribing and Anonymisation**
+
+- Obtain the transcript from Stream 
+- Correct any errors in the automatic transcript 
+- Agree on how you will anonymise the data  
+- Anonymise the data 
 
 
 ## Topic Guide
@@ -76,11 +154,62 @@ After the four topics have been presented, we will provide some information abou
 
 ### Topic 1: Nature access, nature connectedness and wellbeing
 
-Add in 
+Philosophers, writers, environmentalists and ecologists have long argued that humans derive physiological and psychological benefits from spending time in natural environments, such as forests, beaches or mountains (Wilson, 1984). Wilson argued for a strong evolutionary basis for this effect: our species had spent hundreds of thousands of years (nearly all of its evolutionary history) living and thriving within natural environments, humans should have a deep rooted connection with nature that is beneficial to us. Since everyday survival depended on activities such as finding food, water or firewood, and avoiding predators, all of which required humans to be attentive and responsive to any cues the environment might offer, individuals who were more connected with nature would have had an important advantage in that context.
+
+Over half of the world’s population lives in an urban, rather than rural, environment and this is expected to increase to 68% by 2050 (United Nations, 2018; World Health Organization, 2011). In Canada, more than 80% of people live in urban areas, and Canadians spend almost 90% of their time indoors (Howell & Passmore, 2013). In a survey of 1,000 United Kingdom citizens, only 55% of those over the age of 35, and 37% of those under the age of 35, reported feeling “connected to the natural world” (Royal Society for the Protection of Birds, 2010). Both time-criterion and nature- knowledge-criterion studies show that nature-based recreation is on the decline in many countries (Charles & Louv, 2009).
+
+At the same time, research into nature connectedness shows that engaging with natural environments can have beneficial effects on a wide range of psychological and physiological aspects of wellbeing (Burns, 2005; White et al., 2019), and that these effects can be seen even with relatively minor interventions (Berto, 2005). In the last 30 years, environmental and positive psychologists have gathered considerable evidence that supports the idea that humans benefit from contact with nature ( Berto, 2014; Howell & Passmore, 2013), and that green space can provide a buffer against the negative health impact of stressful life events (van den Berg et al., 2010). The available research investigates a wide range of benefits, from physical health and longevity to happiness, cognitive focus and attentional capacity, and has been done using a wide variety of methods. Considering the preponderance of stress and mental health problems facing the developed world (Gullone, 2000; WHO, 2022), studying the effects of nature is an important task for psychologists. On a more personally relevant note, understanding the effects of green spaces and animals on wellbeing can give you another set of tools that can be used to enhance your own wellbeing and help cope with the stress of university life.
+
+**Nature affiliation and access to nature**
+
+There are two important related concepts in nature connectedness literature.
+
+*access to nature* means the extent to which a person is in contact with nature, which can be measured objectively by logging location or looking at area maps. A lot of epidemiological studies use objective measures of green space access to see if it affects population health, while experimental studies can use nature contact interventions to see how people respond.
+
+*Nature connectedness/affiliation trait:* this means the personal characteristics that make a person appreciate nature more and is usually measured with self-report questionnaires. It has been defined as “individuals’ experiential sense of oneness with the natural world” (Mayer & Frantz, 2004). Smaller studies often look at how the trait of nature connectedness interacts with nature access to predict various aspects of wellbeing.
+
+State of nature connectedness: this means the current, changing relationship with nature, something that is “dynamic, changing from day to day and moment to moment as a function of experiences with nature” (Weinstein, Przybylski, & Ryan, 2009).
+
+**Research on effects of nature access and connectedness**
+
+*Large scale epidemiological research*
+
+One of the possible ways of investigating nature connectedness is by comparing similar populations with varying degrees of access to natural environments. One of such studies analysed five year survival rates for over 3000 Tokyo seniors, born between 1903 and 1918 (Takano, Nakamura, & Watanabe, 2002) and found that longevity was greater among senior citizens living in areas with walkable green spaces. Variables such as age, sex, marital status, socioeconomic status, and baseline physical ability were controlled. Having walkable green streets and spaces near the seniors’ residences showed significant predictive value for elderly survival over the 5 years of the study.
+
+In Holland, researchers reviewed records for 250,782 citizens being treated by 104 general practitioners and confirmed a robust relationship between green spaces and health (Maas, Verheij, Groenewegen, de Vries, & Spreeuwenberg, 2006). The paper reported that “health differences in residents of urban and rural municipalities are to a large extent explained by the amount of green space” in the individuals’ direct living environment (p. 591). Additionally, the relation between green space and health was found to be stronger for lower socioeconomic groups and that elderly, youth, and secondary educated people in large cities seemed to benefit more from presence of green areas in their living environment than other groups. 
+
+Finally, University of Glasgow researchers (Mitchell & Popham, 2008) looked at income-related health inequality within the English population below the retirement age, obtaining anonymised data from the Office for National Statistics and amassing data from over 40 million people. They found that populations living in the greenest environments also had lowest levels of health inequality related to income deprivation and had lower all-cause and circulatory mortality rates.
+
+Overall, the available large scale epidemiological research shows a clear association between having access to green spaces in urban areas or living in a natural setting and various subjective and objective health outcomes. These associations remain relevant when controlling for education and income, and in fact become stronger for lower levels of socioeconomic status. This has implications for supporting student mental health in higher education (Hughes & Spanner, 2019), with universities recognising the impact of the campus environment and green space as part of a stepped approach to supporting student mental health and wellbeing (Universities UK, 2020).
+
+**Correlational research**
+
+There are numerous correlational studies that look at how nature access and nature affiliation affect different aspects of wellbeing. The studies that established the three measures of nature affiliation found significant correlations between their scales and life satisfaction (Mayer & Frantz, 2004), positive affect (Mayer et al., 2009) and autonomy, positive affect and personal growth (Nisbet, Zelenski, & Murphy, 2011). Herzog & Strevey (2008) also showed that undergraduate students’ self-reported degree of contact with nature correlated with positive affect and personal growth. 
+
+
+**Experimental research**
+
+Experimental research on nature access and connectedness is focused on presenting participants with nature-related interventions and observing whether these had a positive effect on a variety of measures of health and wellbeing. Mayer et al. (2009) carried out three experiments manipulating exposure to nature - spending 15 min in either a nature park or in an urban setting, watching a 10-min video clip of nature or urban setting and engaging in a nature walk or to watch a video clip of the same walk. In all three of these studies, the nature condition had no effect on negative affect, but participants’ positive affect was boosted compared to those in the control conditions. Berman, Jonides, & Kaplan (2008) randomly assigned undergraduate students to spend 50 min walking in either a park or an urban setting, and discovered that only the nature walk resulted in a mood increase. Weinstein et al. (2009) carried out 4 experiments looking at whether exposure to nature affected how we value intrinsic aspirations, which are goals that in themselves satisfy basic psychological needs (such as personal growth, intimacy, community) and extrinsic aspirations, which are pursued to derive rewards or positive regard from others (e.g., money, image, fame). In all four studies, participants exposed to nature endorsed more intrinsic and less extrinsic values, which is in turn related to helpfulness in social situations, and feelings of community cohesion. 
+
+**Qualitative approach**
+
+Despite a richness of quantitative studies on this topic, very few qualitative enquiries have been published to date. Combined with the relative rarity of qualitative approaches to topics not immediately neighbouring social psychology, this means that there is a lot of scope for qualitative research within positive psychology, and the field of nature connectedness in particular.
+
+One interesting mixed methods study has been done on students using a green prescription activity of taking a walk in nature, facilitated by a mobile phone app (Boyd, 2022). The intervention and students’ experience of engaging with the natural environment were discussed in focus groups and analysed using a grounded theory approach. Key themes included students’ experience of and the design of university spaces, a desire for safe and sociable spaces, nature as a place of shelter from the city, and requests for more natural and wild landscapes. Interestingly, cultural and social factors, such as working hours and upbringing influenced students’ seeking out opportunities to interact with green spaces while on campus.
+
+Another mixed methods study on the wellbeing of allotment gardeners (Webber, Hinds, & Camic, 2015) found that the gardeners’ subjective well-being and quality of life were higher than population means would suggest, and that this was related to the time they spent in their allotments and how connected to nature they felt. Analysis of open ended survey responses indicated 4 main themes in the data: having own space, feeling connectedness, benefits to physical health and engaging in meaningful activity. This study set forth with a very broad qualitative research question, and only had a limited form of data to work with, so the themes are very general.
+
+A fully qualitative study was carried out on Toronto and Chicago office workers’ perceptions of green roof spaces (Loder, 2014). Loder carried out phenomenological, social constructionist analysis of semi-structured interviews, which covered constructs such as attitudes to nature and green roofs in particular, health and work environment. The analysis uncovered five themes: aesthetics of roof spaces, surprise and fascination with the greens spaces, symbolism of urban green spaces and the relationship between green roofs and well-being.
+
 
 #### Nature and wellbeing: Potential project topics
 
-Add in - we might need to cut it down a bit as it is quite long 
+- Experience of nature while studying or traveling abroad. How do we engage with nature when we’re not in our usual place of stay, and how does it affect our wellbeing?
+- Accounts of practice: How do people living in cities engage with green spaces?
+- What perceived benefits do the green spaces around the University campus bring? 
+- How can university green spaces be designed as a wellbeing resource for students? 
+
+These are just a few example questions. You are encouraged to develop these ideas or come up with new questions based on your reading.  
 
 
 ### Topic 2: Students and mental health

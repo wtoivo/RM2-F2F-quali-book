@@ -2,7 +2,7 @@
 
 ## Data analysis
 
-This chapter has activities to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six steps required for TA; we advise using Braun & Clarke (2006) to structure your data analysis. This can be accessed through the library, using the following link: https://tinyurl.com/ybrsf5eg. There is also a good overview in Clarke & Braun (2013), which is on the reading list.
+This chapter has information to support you with Thematic Analysis. This chapter, alongside with Ashley's lectures, will talk you through the six steps required for TA; we advise using Braun & Clarke (2006) to structure your data analysis. This can be accessed through the library, using the following link: https://tinyurl.com/ybrsf5eg. There is also a good overview in Clarke & Braun (2013), which is on the reading list.
 
 **Overview of the steps of TA**
 

@@ -148,7 +148,7 @@ After the four topics have been presented, we will provide some information abou
 
 **Three topics of research:** 
 
-1. Green spaces (**Check wording and get blurb from Level 3**)
+1. Nature access, nature connectedness and wellbeing
 2. Students and mental health
 3. Belonging at University
 

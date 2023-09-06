@@ -1,7 +1,5 @@
 # Qualitative project: Data collection and Processing (Group)
 
-**Suggested timeline for the project - ADD IN LINK**
-
 
 ## Preparation for collecting data
 

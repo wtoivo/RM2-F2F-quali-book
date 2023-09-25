@@ -73,6 +73,8 @@ setting-up-and-recording-the-online-focus-group
 downloading-the-transcript
 gdpr-compliance
 processing-data-transcribing
+overview-of-transcribing-for-your-project
+transcribing-and-editing-your-transcript
 processing-data-anonymisation
 qualitative-project-data-analysis-individual
 data-analysis

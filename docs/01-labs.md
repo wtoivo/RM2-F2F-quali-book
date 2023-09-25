@@ -73,11 +73,10 @@ Lab 2 slides - **ADD LINK**
 
 [Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide)
 
-**Wil and Ashley to discuss** - Is there a way for us to link to the spreadsheet directly (here and below) but make it inaccessible until we are ready to release it? (e.g. can we link to the moodle activity rather than the spreadsheet, so that they can only access it if it has been made available?)
 
 ---
 
-In Lab 2, you will form into the groups that you will  be in for the rest of the semester. You will be able to find your group in the spreadsheet at the bottom of the [Week 2 Moodle](https://moodle.gla.ac.uk/course/view.php?id=38155&section=3) (please note the spreadsheet will only become available after Week 2 starts). In these groups, you will a) design, run and transcribe a focus group with a group in your lab as your participants, b) participate in another group's focus group, and c) write a qualitative group proposal. 
+In Lab 2, you will form into the groups that you will  be in for the rest of the semester. You will be able to find your group in the spreadsheet at the bottom of the [Week 2 Moodle](https://moodle.gla.ac.uk/course/view.php?id=38155&section=3) (please note the spreadsheet will only become available once it has been released at the start of Week 2). In these groups, you will a) design, run and transcribe a focus group with a group in your lab as your participants, b) participate in another group's focus group, and c) write a qualitative group proposal. 
 
 In today's lab, there will be some time spent getting to know each other, then we will ask you to develop a group agreement (see below). You should also discuss the [different topics](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide) that you can choose for your project, seeing whether any stand out as preferred options among the group.
 
@@ -85,15 +84,15 @@ In today's lab, there will be some time spent getting to know each other, then w
 
 We appreciate that group work can be challenging and we want to support you to have an enjoyable and educational group work experience. To that end, we would like each group to create a group agreement that all members sign. The purpose of this is for the group to come together and establish common ground and rules that each of the group members is committed to. 
 
-After you have all introduced yourselves, download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A). Then look at the list of potential items to include. These are provided within the template document itself, as well as in **Chapter X.X.X.** As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. After this, you should allocate tasks for the **group proposal** among the members of the group. A starter list of tasks is provided in the template as well as in **Chapter X.X.X**. (see list of tasks below). The task allocation must be uploaded in the same document as the signed group agreement.**DISCUSS WITH WIL - MEANS ONE UPLOAD PER PERSON RATHER THAN ONE PER PERSON PLUS A GROUP ONE)**
+After you have all introduced yourselves, download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A). Then look at the list of potential items to include. These are provided within the template document itself, as well as in **Chapter 2.2.1.** As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. 
+
+After this, you should allocate tasks for the **group proposal** among the members of the group. A starter list of tasks is provided in the template as well as in **Chapter 2.2.2**. (see list of tasks below). The task allocation must be uploaded in the same document as the signed group agreement.
 
 Work on a collaborative document on OneDrive to create your group work agreement and allocation of tasks for the group proposal. Once the group is happy with their agreement, *each group member* should sign it and submit it to Moodle individually (Formative Assessment Section). You can either all sign the same document and upload a copy each, or you can sign separately and upload the copy that only you have signed. Each person should submit their signed group agreement and task allocation before their lab in Week 3. 
 
 Once the deadline has passed, we will be in touch with any groups where any members have not uploaded a group agreement and task allocation for the group proposal. 
 
 ### Lab 2 Activity 2: Research Questions
-
-**NOTE TO WIL: Think that Maxine struggled to get any to do Campus Climate so might be worth only having the three topics?**
 
 In your groups, have a look at the [Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide). There are three topics to choose from: Green Spaces, Belonging and Mental Health. 
 

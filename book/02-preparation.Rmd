@@ -289,6 +289,55 @@ Topic 3: Ashley Robertson
 
 #### Topic 1: Green Spaces
 
+Berman, M. G., Jonides, J., & Kaplan, S. (2008). The cognitive benefits of interacting with nature. Psychological Science, 19(12), 1207–1212. doi:10.1111/j.1467-9280.2008.02225.x
+
+Berto, R. (2005). Exposure to restorative environments helps restore attentional capacity. Journal of Environmental Psychology, 25(3), 249–259. doi:10.1016/j.jenvp.2005.07.001
+
+Berto, R. (2014). The Role of Nature in Coping with Psycho-Physiological Stress: A Literature Review on Restorativeness. Behavioral Sciences, 4(4), 394-409. Retrieved from https://www.mdpi.com/2076-328X/4/4/394
+
+Boyd, F. (2022). Between the Library and Lectures: How Can Nature Be Integrated Into University Infrastructure to Improve Students’ Mental Health. Frontiers in Psychology, 13. doi:10.3389/fpsyg.2022.865422
+
+Burns, G. W. (2005). Naturally happy, naturally healthy: the role of the natural environment in well-being. In F. . Huppert, N. Baylis, & B. Keverne (Eds.), The Science of Well-Being. Oxford: Oxford University Press. doi:DOI:10.1093/acprof:oso/9780198567523.003.0016
+
+Charles, C., & Louv, R. (2009). Children’s Nature Deficit: What We Know – and Don’t Know. Children & Nature Network, (September), 1–32. Retrieved from www.childrenandnature.org/downloads/CNNEvidenceoftheDeficit.pdf
+
+Gullone, E. (2000). THE BIOPHILIA HYPOTHESIS AND LIFE IN THE 21st CENTURY: INCREASING MENTAL HEALTH OR INCREASING PATHOLOGY? Journal of Happiness Studies, (June), 293–321. doi:10.1023/A:1010043827986
+
+Howell, A. J., & Passmore, H. (2013). The Nature of Happiness: Nature Affiliation and Mental Well-Being. In C. L. . Keyes (Ed.), Mental Well-Being: International Contributions to the Study of Positive Mental Health (pp. 231–257). Dordrecht: Springer Science+Business Media Dordrecht. doi:10.1007/978-94-007-5195-8
+
+Hughes, G. S., L. (2019). The-University-Mental-Health-Charter. Retrieved from https://www.studentminds.org.uk/charter.html
+
+Loder, A. (2014). “There”s a meadow outside my workplace’: A phenomenological exploration of aesthetics and green roofs in Chicago and Toronto. Landscape and Urban Planning, 126, 94–106. doi:10.1016/j.landurbplan.2014.01.008
+
+Maas, J., Verheij, R. a, Groenewegen, P. P., de Vries, S., & Spreeuwenberg, P. (2006). Green space, urbanity, and health: how strong is the relation? Journal of Epidemiology and Community Health, 60(7), 587–592. doi:10.1136/jech.2005.043125
+
+Mayer, F. S., & Frantz, C. M. (2004). The connectedness to nature scale: A measure of individuals’ feeling in community with nature. Journal of Environmental Psychology, 24(4), 503–515. doi:10.1016/j.jenvp.2004.10.001
+
+Mayer, F. S., Frantz, C. M., Bruehlman-Senecal, E., McPherson Frantz, C., Bruehlman-Senecal, E., & Dolliver, K. (2009). Why Is Nature Beneficial?: The Role of Connectedness to Nature. Environment and Behavior, 41(5), 607–643. doi:10.1177/0013916508319745
+
+Mitchell, R., & Popham, F. (2008). Effect of exposure to natural environment on health inequalities: an observational population study. Lancet, 372(9650), 1655–1660. doi:10.1016/S0140-6736(08)61689-X
+
+Royal Society for the Protection of Birds (2010) The State of the UK’s Birds. Retried from https://www.rspb.org.uk/globalassets/downloads/documents/conservation-science/state-of-the-uks-birds_2010.pdf 
+
+Takano, T., Nakamura, K., & Watanabe, M. (2002). Urban residential environments and senior citizens’ longevity in megacity areas: the importance of walkable green spaces. Journal of Epidemiology and Community Health, 56(12), 913–918. doi:10.1136/jech.56.12.913
+
+United Nations, Department of Economic and Social Affairs, Population Division (2018). World Urbanization Prospects: The 2018 Revision, Online Edition. https://population.un.org/wup/Download/
+
+Universities UK (2020). Stepchange: Mentally Healthy Universities. Retrieved from https://www.universitiesuk.ac.uk/what-we-do/policy-and-research/publications/stepchange-mentally-healthy-universities
+
+van den Berg, A. E., Maas, J., Verheij, R. A., & Groenewegen, P. P. (2010). Green space as a buffer between stressful life events and health. Social Science & Medicine, 70(8), 1203-1210. doi:https://doi.org/10.1016/j.socscimed.2010.01.002
+
+Webber, J., Hinds, J., & Camic, P. M. (2015). The well-being of allotment gardeners: A mixed methodological study. Ecopsychology, 7(March), 20–28. doi:10.1089/eco.2014.0058
+Weinstein, N., Przybylski, A. K., & Ryan, R. M. (2009). Can nature make us more caring? Effects of immersion in nature on intrinsic aspirations and generosity. Personality and Social Psychology Bulletin, 35(10), 1315–1329. doi:10.1177/0146167209341649
+
+White, M. P., Alcock, I., Grellier, J., Wheeler, B. W., Hartig, T., Warber, S. L., . . . Fleming, L. E. (2019). Spending at least 120 minutes a week in nature is associated with good health and wellbeing. Scientific Reports, 9(1), 7730. doi:10.1038/s41598-019-44097-3
+
+Wilson, E. O. (1984). Biophilia. Cambridge, MA: Harvard University Press.
+
+World Health Organization. (2011). World health statisitics 2011. World health statistics 2011. doi:10.1002/(SICI)1096-987X(199802)19:3<259::AID-JCC1>3.0.CO;2-S
+
+World Health Organisation (2022). World mental health report; transforming mental health for all Retrieved from https://www.who.int/publications/i/item/9789240049338
+
 
 #### Topic 2: Students and mental health
 

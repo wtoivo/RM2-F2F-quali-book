@@ -96,7 +96,7 @@ In lab 5, we will ask you to allocate tasks for running the focus group. Please 
 
 - Set up a shared version of the ‘checklist’ to ensure that you complete all tasks required for the focus group. This checklist contains the same list of tasks as listed here, but it is important that you keep a record of what has been completed.
 - Read over the [‘data collection’](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html) chapter in the Qualitative book 
-- Choose questions from the question bank **(ADD LINK)**, adapting them as required. If you decide to make any new questions, these must be discussed in office hours with your tutor before you collect data. 
+- Choose questions from the [question bank](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions), adapting them as required. If you decide to make any new questions, these must be discussed in office hours with your tutor before you collect data. 
 - Pilot your questions (i.e. ask someone to look over them for clarity and to ensure they make sense) 
 - Adapt the following documents for your study: 
   + Information sheet 

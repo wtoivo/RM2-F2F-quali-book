@@ -30,7 +30,32 @@ Remember that everyone (both those participating and running) the focus group ha
 
 ### Collecting demographics
 
-**IMAGES REQUIRED, SO ADD IN THIS SECTION FROM THE SWAY** [Here](https://sway.office.com/O6RrqoSCeplEMKJf?ref=Link)
+**IMAGES REQUIRED FROM THE SWAY** [Here](https://sway.office.com/O6RrqoSCeplEMKJf?ref=Link)
+
+It might be a good idea to collect demographics information  - discuss with your group what might be best to collect. Remember to only collect what you need to help the reader understand the context of your focus group. Demographics information must be collected using Microsoft Forms.
+
+Sign into microsoft forms and click new quiz
+
+**ADD IMAGE**
+
+Then click add new question and you will be able to select the type of question. There are a number of options; it's most likely that choice (multiple choice) or text (open textbox) will be what you will use.
+
+**ADD IMAGE**
+
+Your first question should ask for the identifier. When you give the participants the consent form, there should be a number that you assign to them. This helps you link up the person and the demographics but without asking them to provide their name. 
+
+**ADD IMAGE**
+
+From here, you can add in the agreed questions from your group.
+
+```{block, type="info"}
+There are a few things to note: 
+
+Please do not collect names automatically - this can be turned off by going to the three dots to the right of Share (at the top right), then Settings, then untick 'record name'
+You will see your responses come in via the 'responses' tab. These can be downloaded in excel format
+To share, click share and then you can copy a link that you can send out to your participants.
+```
+
 
 ### Focus group structure
 

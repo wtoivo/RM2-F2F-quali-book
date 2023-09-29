@@ -71,6 +71,10 @@ Lab 2 slides - **ADD LINK**
 
 [Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide)
 
+[Group Agreement Info](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A)
+
+[Group Agreement and task allocation template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A)
+
 
 ---
 
@@ -223,6 +227,8 @@ Key resources:
 
 Lab 4 slides **(ADD LINK)**
 
+[Bank of questions for the focus groups](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions)
+
 ---
 
 In Lab 4, we will work on developing questions for your focus group. We have made a [bank of questions](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions) available to you. Please select any questions that you would like to use and then adapt them to suit your research question. 
@@ -327,6 +333,8 @@ Note down some suggestions among the group about how you might manage these situ
 Key resources:
 
 Lab 6 slides (**ADD LINK**)
+
+[Reflection document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ES-Vc-s5kxZGo8wqcvvfmawBjrTG_q6WpNtTT18StzwS8w?e=aY8Pmx)
 
 ---
 
@@ -473,7 +481,7 @@ In today's lab (which is our last one in RM2), we have two activities to support
 
 Naming and refining your themes (stage 5) is an important step in communicating your analysis to your reader. 
 
-Below, we have some theme names that are based on the Zombie Apocalypse transcript (**ADD LINK**)
+Below, we have some theme names that are based on the [Zombie Apocalypse transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi)
 
 As a group, discuss these theme names. Do you think they are good/poor? Are you able to tell what type of data might be captured under each theme?
 
@@ -518,4 +526,5 @@ If your group has finished the first two activities, feel free to move on to wor
 
 - Pull up the data for your focus group
 - You can work on finalising the transcript/anonymisation, or start or continue working on your thematic analysis
+- If you'd prefer, you can also practise coding using the zombie apocalypse transcript
 - Your tutor and PhD tutor will come around – ask any questions you may have about Thematic Analysis and the report

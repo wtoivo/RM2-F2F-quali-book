@@ -27,7 +27,9 @@ lab-7-activity-1-evaluation-in-introductions
 lab-7-activity-2-evaluation-in-discussions
 week-9-lab-8-analysis-coding
 lab-8-activity-1-coding
+transcript
 lab-8-activity-2-themes-vs.-codes
+list-of-the-labels-to-be-categorised-as-either-a-code-or-theme
 week-10-lab-9-analysis-themes
 lab-9-activity-1-theme-names
 lab-9-activity-2-going-deeper-in-your-analysis

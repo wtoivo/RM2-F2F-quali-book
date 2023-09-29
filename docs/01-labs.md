@@ -225,11 +225,12 @@ Lab 4 slides **(ADD LINK)**
 
 ---
 
-In Lab 4, we will work on developing questions for your focus group. We have made a bank of questions available to you. Please select any questions that you would like to use from this bank (**FOUND HERE- ADD IN**) and then adapt them to suit your research question. 
+In Lab 4, we will work on developing questions for your focus group. We have made a [bank of questions](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions) available to you. Please select any questions that you would like to use and then adapt them to suit your research question. 
 
-If you have developed a research question that is slightly different from those suggested, then you may need to make up some new questions to go into your focus group schedule. 
+If you have developed a research question that means you need different focus group questions to those in the question bank,then you may need to make up some new questions to go into your focus group schedule. 
 
 If you develop new questions that have not been adapted from the bank of questions provided, please ensure you do the following:
+
 1. Questions must be developed using the guidance provided to you in this lab
 2. You **must** attend your tutor's office hours and ask for feedback on your questions. 
 
@@ -241,8 +242,7 @@ Please have your Research Question ready for your tutor, and discuss it with the
 
 ### Lab 4 Activity 2: Appropriateness of questions
 
-Look at the following focus group questions. For each, decide whether a) they are appropriate and b) whether they should be adapted or not? If you think they should be, how would you change them? 
-
+Look at the following focus group questions. For each, decide whether a) they are appropriate and b) whether they should be adapted or not, If you think they should be, how would you change them? 
 
 
 <div class="info">
@@ -266,7 +266,11 @@ Have a look at these poorly written fictional focus group questions. The researc
 
 <div class="info">
 <p><em>Research question: Exploring international students’ experiences of their sense of belonging and homesickness</em></p>
-<p>Q1. Have you ever felt homesick while studying abroad? Q2. How has this negatively affected you? Q3. How often do you feel like you don’t belong?</p>
+<ol style="list-style-type: decimal">
+<li>Have you ever felt homesick while studying abroad?</li>
+<li>How has this negatively affected you?</li>
+<li>How often do you feel like you don’t belong?</li>
+</ol>
 </div>
 
 - Try to re-write these questions to improve them, thinking about the clarity and the quality of data they would give you
@@ -279,9 +283,9 @@ Have a look at these poorly written fictional focus group questions. The researc
 
 Key resources:
 
-[Lab 5 slides](https://gla-my.sharepoint.com/:p:/g/personal/ashley_robertson_glasgow_ac_uk/EXcvzLthPgVFpPV5srv3fN0B3HbqQKrLkkrwCNWS9_7YIA?e=Dio4sC)
+Lab 5 slides **ADD SLIDES**
 
-[Checklist and task allocation for focus group](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EaGHiB_KPM1Jgn22rGnqVJ8BeLmxD2D2dDtiEBC0bE0FZQ?e=nRvCZQ) **TO DISCUSS: We need to discuss the best way of them allocating tasks and when they should do it. Is everything in one file, for example, or do we split it up?**
+[Checklist and task allocation for focus group](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EaGHiB_KPM1Jgn22rGnqVJ8BeLmxD2D2dDtiEBC0bE0FZQ?e=nRvCZQ) 
 
 [Information Sheet template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXjnUsZm6aFGhI5mX0E3tqoB8aI3vJRZCP7h4eAAfTqi7g?e=wJVIEz)
 
@@ -295,9 +299,9 @@ In this week's lab, we will cover some key things that you will need to know in 
 ### Lab 5 Activity 1: Allocation of tasks
 
 
-Look at the list of focus group tasks **(ADD LINK)** in the Group project: Preparation chapter of this book.
+Look at the list of [focus group tasks](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-preparation-group.html#focus-group-task-allocation-see-lab-5) in the Group project: Preparation chapter of this book.
 
-Allocate tasks between your group members (write this down and make sure everybody has a copy of it). If you are missing group members, make sure to catch up with them and discuss task allocation
+Allocate tasks between your group members (write this down and make sure everybody has a copy of it). If you are missing group members, make sure to catch up with them and discuss task allocation. 
 
 ### Lab 5 Activity 2: How would you manage these situations?
 
@@ -368,20 +372,16 @@ The purpose of your introduction is to provide a rationale for your study and an
 In Activity 1, read the following extracts from an introduction section. As a group, identify *two* aspects of evaluation that could be improved for this study.  
 
 <div class="info">
-<p><strong>Extract #1</strong> A study by Lane and Karin (2011) looked at zombie apocalypse survival confidence levels in undergraduate students. The sample consisted of 25 participants (20 male and 5 female), recruited through convenience sampling. The study employed involved a survey comprising Likert-scale questions designed to measure participants’ self-assessed confidence in various survival skills. Additionally, participants were asked about their exposure to zombie-related media. The data were subjected to t-tests and regression analyses, and the authors’ found that the biggest predictor of zombie apocalypse confidence was exposure to zombie-themed video games.</p>
+<p><strong>Extract 1</strong> A study by Lane and Karin (2011) looked at zombie apocalypse survival confidence levels in undergraduate students. The sample consisted of 25 participants (20 male and 5 female), recruited through convenience sampling. The study employed involved a survey comprising Likert-scale questions designed to measure participants’ self-assessed confidence in various survival skills. Additionally, participants were asked about their exposure to zombie-related media. The data were subjected to t-tests and regression analyses, and the authors’ found that the biggest predictor of zombie apocalypse confidence was exposure to zombie-themed video games.</p>
 <p><strong>Extract 2</strong> It should be noted that the majority of studies on zombie apocalypse survival confidence have looked at samples that consist of mostly men (Lane &amp; Karin, 2011 but see also Grimes &amp; Dixon, 2019), and that previous samples have been small.</p>
 <p><strong>Extract 3</strong> To date, there has been only one qualitative study on the topic – Seok (2013) collected data through semi-structured interviews, which were analysed using thematic analysis and two themes, “Survival mode” and “Confidence through skills” were identified. This study looked at undergraduate students; there is no previous literature on postgraduate students’ perceptions of their apocalyptic confidence. Therefore, this qualitative study investigates the perceived confidence of postgraduate students in their abilities to survive a zombie apocalypse.</p>
 </div>
-
-
 
 ### Lab 7 Activity 2: Evaluation in Discussions
 
 The purpose of your discussion is to summarise your results, contextualising them and situating them within the broader research context.  As part of this process, it is important to consider the implications of your work, as well as the limitations and possible future directions. Discussions should be rooted in the evidence base, rather than based on personal opinion.
 
 In Activity 2, read the following extracts from a discussion section. As a group, identify *two* aspects of evaluation that could be improved for this study. 
-
-
 
 
 <div class="info">
@@ -399,6 +399,10 @@ Key resources:
 
 Lab 8 slides (**ADD LINK**)
 
+[Trancript to code](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi)
+
+[Code or theme activity handout](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ESNH19f8vxJFoNgOMxZjP_wB1y-fKWuxVythoLPYLAHJdA?e=CPhrx4)
+
 ---
 
 In this week's lab, we are going to focus on coding (i.e. step 2 of Thematic Analysis). We have two activities to support you in the coding stage of your data analysis. 
@@ -406,8 +410,49 @@ In this week's lab, we are going to focus on coding (i.e. step 2 of Thematic Ana
 
 ### Lab 8 Activity 1: Coding
 
+- Read over [this transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi), becoming familiar with it. Take some initial notes.
+- In your groups, code the data together. Note down anything that seems important and that you think encapsulates the data. Do you all agree on the codes or are there differences of opinion (remember it's okay if you don't all agree!)?
+- Post the codes that your group has chosen [on mentimeter](https://www.menti.com/altq7f73uqs7)
+
+#### Transcript
+
+<div class="info">
+<p>Extract from E_NM4 Interview <a href="https://reshare.ukdataservice.ac.uk/855322/">LGBT staff networks on UK Data Service</a></p>
+<p>RESEARCHER: So, how do you, how do you influence the organisation or how do you try to influence the organisation?</p>
+<p>CHARLES: Erm, the best person to go to in this organisation is, Lillian.</p>
+<p>RESEARCHER: Why’s that?</p>
+<p>CHARLES: Because, erm, she’ll give you a cut and dry answer, a yes or a no, erm, which is great, ’cause that’s what you want, you don’t want - I don’t want to go to someone that, if I go to Leo with it, generally it’s, what’s it gonna cost me? So, we have a budget of the group, but if it’s above the budget, then it’s, what’s it gonna cost, and then it’s always, there’s to-ing and fro-ing. Erm, if you go to the levels of management within the Trust, it always gets passed to other people, erm, one example of this is when we got the rainbow lanyard, erm, I, I said to Leo I wanted to get some, erm, we’d got them for getting in the Stonewall Top [ranking] the first year, so Leo agreed that he’d get them. He bought them and then, they came into the organisation and then, er, he said, oh, I’ve been speaking - he’d spoken to someone and they said, oh, you’re gonna have to get approval for them to go out and be used, so I think we were gonna put them out for LGBT History Month initially, but then they just sort of stayed. Leo had gone to HR and HR had said, oh, it’s the uniform policy, we don’t own that, you’ll have to go to ops, operations, so Leo went to operations and they said, oh, we don’t own that policy, it’ll be HR, you’ll have to go to them, so he went back to HR and HR said, well, we’re not comfortable saying it ’cause it’ll have an impact on ops and it’ll have an impact on this, so you’ll have to go to - and it just went round and round and round and for like, ten days, Leo was like, I don’t know where to go with it, I really don’t know what we do, no-one will take ownership. So, I, I picked one of the lanyards up, walked into Lillian’s office and said, do you like this, and she said, oh yeah, it’s great, can I have one, and I was like, yep, there we go. I was like, the problem is, we don’t know who owns the policy, who can we - and immediately she went, no, this is, this is what it’s for, this is what it is, put them out, and I think, you know, sometimes you just need someone who’s gonna make them decisions and be like, yes actually, we’ll support it.</p>
+<p>RESEARCHER: Yeah, yeah, no, I can see that, it’s kind of a straight answer and, you know, not being sent, you know, around into a circle. So, do you think, you know, when you’re thinking about what the network is doing now, do you think the network should be doing something else?</p>
+<p>CHARLES: Erm, I don’t think we have the capacity to do any more. I think, erm, it’d be great if we had enough people that, someone sat on all of the meetings and all of the groups within the Trust, it had a, a staff network member, erm, I’ve found that as the chair of the group, I get invited to a lot of these groups now, erm, and I do try and attend as many as I can, so I’m now on a health and wellbeing group and I’m on, erm, there’s another one I’m on, erm, but there’s other that like, the vehicle working group. I’d like to have someone sat on there so actually, we could influence it, actually could we have an LGBT sticker or can we have - do you know what I mean? Just, and it might be that they have no input for long periods, but there’s certain points where there might be that point where they can go, actually, that isn’t suitable for LGBT staff. Erm, the - but I’d need more people to step up, I’d need more support, erm, I know with, Camila, that’s just joined the group, erm, she’s really keen and she’s really showing promise now, which is great and sort of, can start seeing if she’ll attend some of these meetings. But I’m aware that her manager at the minute is really busy, and she’s getting lots of work and I’m not sure what the release is gonna be like for her to go and do this stuff, ’cause that’s the other issue.</p>
+</div>
+
+
 
 ### Lab 8 Activity 2: Themes vs. codes
+
+Read [this handout](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ESNH19f8vxJFoNgOMxZjP_wB1y-fKWuxVythoLPYLAHJdA?e=CPhrx4). This is an activity from Braun & Clarke (2022), which has data collected via online survey. The initial RQ was 'What are New Zealand men and women’s views of men’s body hair?'.
+
+- As a group, decide whether each label is a **code** or a **theme**
+- There is no absolute distinction, but:
+  + codes will tend to capture *one* insight or observation
+  + themes will capture several insights/observations. Themes should also capture a pattern of shared meaning
+- Reflect on why you decided whether it is a code or a theme. What made you decide this? 
+
+#### List of the labels to be categorised as either a code or theme
+
+<div class="info">
+<ul>
+<li>‘Natural’ gender difference</li>
+<li>Men’s body hair is natural</li>
+<li>Looks wrong when men remove hair</li>
+<li>Animal metaphor</li>
+<li>Men’s body hair is unpleasant</li>
+<li>Imperative to remove hair</li>
+<li>‘Ideal’ amount of hair</li>
+<li>Back hair is ALWAYS excessive</li>
+<li>Men’s ‘excess’ body hair needs to be managed</li>
+</ul>
+</div>
 
 
 ## Week 10 Lab 9: Analysis (themes)
@@ -418,7 +463,7 @@ Key resources:
 
 Lab 9 slides (**ADD LINK**)
 
-Zombie Apocalypse transcript (**ADD LINK**)
+[Zombie Apocalypse transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi)
 
 ---
 

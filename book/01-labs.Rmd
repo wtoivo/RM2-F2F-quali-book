@@ -16,7 +16,6 @@ The Labs will be on the following topics:
 - Week 9: Analysis (coding)
 - Week 10: Analysis (themes)
 
-**NOTE: All slides will need links updated to new ones**
 
 ## Week 1 Lab 1: What is qualitative research?
 
@@ -36,7 +35,7 @@ In Lab 1, we will introduce you to qualitative research, and consider the differ
 
 Look at the table below, then discuss the questions underneath in your groups.
 
-**TO DO: TABLE NEEDS ADDED IN**
+**For Wil: TABLE NEEDS ADDED IN**
 
 Q1. What might a 'typical' *quantitative* study look like? What kind of data might be collected? What would be the aim of the study? What might your sample look like?
 
@@ -49,8 +48,7 @@ Q4. What type of research question might be best answered with a *qualitative* d
 
 ### Lab 1 Activity 2: Qualitative or quantitative?
 
-Choose whether a quantitative or qualitative design is most appropriate for each of the following studies. Why did you
-choose each option?
+Choose whether a quantitative or qualitative design is most appropriate for each of the following studies. Why did you choose each option?
 
 Q1. Angela is conducting a study exploring the experience of people currently experience mental ill health. She is interested in a) better understanding what people with mental ill health experience day-to-day, and b) exploring the support mechanisms that are in place.
 
@@ -86,7 +84,7 @@ We appreciate that group work can be challenging and we want to support you to h
 
 After you have all introduced yourselves, download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A). Then look at the list of potential items to include. These are provided within the template document itself, as well as in **Chapter 2.2.1.** As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. 
 
-After this, you should allocate tasks for the **group proposal** among the members of the group. A starter list of tasks is provided in the template as well as in **Chapter 2.2.2**. (see list of tasks below). The task allocation must be uploaded in the same document as the signed group agreement.
+After this, you should allocate tasks for the **group proposal** among the members of the group. A starter list of tasks is provided in the template as well as in **Chapter 2.2.2**. The task allocation must be uploaded in the same document as the signed group agreement.
 
 Work on a collaborative document on OneDrive to create your group work agreement and allocation of tasks for the group proposal. Once the group is happy with their agreement, *each group member* should sign it and submit it to Moodle individually (Formative Assessment Section). You can either all sign the same document and upload a copy each, or you can sign separately and upload the copy that only you have signed. Each person should submit their signed group agreement and task allocation before their lab in Week 3. 
 
@@ -170,7 +168,6 @@ and tell us things about their life, and the lives of others.
 focus group/interview confidential (unless they disclose a crime or someone is judged
 to be at risk). It’s also vital that the rest of the focus group members keep the
 information confidential too.
-
 
 
 ### Lab 3 Activity 1: Mitatigation of the issues

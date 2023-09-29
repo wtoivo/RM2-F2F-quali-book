@@ -194,3 +194,111 @@ You should always replace the speaker names (i.e. denoting who is speaking in th
 
 
 **Step 3:** Discuss in your group, and arrange which approach you want to take. Decide who is going to anonymise the transcript. 
+
+## Collecting data: questions
+
+For this qualitative project, we have a bank of questions from previous students on the different topics for you to use. You can change the questions you choose slightly to fit the exact research question that you are asking. 
+
+If you are doing a topic where the questions don't quite fit, this is okay, but you will need to run all questions past your tutor in their office hours. You should also make sure that you develop any questions using the guidance in [Lab 4](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#week-4-lab-4-developing-focus-group-questions)
+
+The [list of questions is available as a word document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ERxesncQ2BFPiBidPYUUOicBZa3byE2d1B2Ill9KkyPDmA?e=d5Ah2t), as well as listed below.
+
+### Question bank
+
+#### Green Spaces
+
+- What green spaces on the university campus do you use?  
+- How does spending time in green spaces affect your stress levels? 
+- Can you think of a time where being in a greenspace influenced your mood? 
+- How does spending time in greenspaces affect other aspects of your life? 
+- How do you feel students benefit from greenspaces on campus?  
+- Can you think of a way the weather/environment could impact this? 
+- What would make you use green spaces more? 
+- What do you believe the university could do to improve the benefits of green spaces on campus? 
+- How do you tend to feel before going on walks? 
+- Thinking back to a recent walk, what changes (if any) did you notice in your mood? 
+- In what ways was the outcome of the walk different to what you expected beforehand? 
+- Have you previously used time outdoors as a way to relieve stress? If so, please elaborate. 
+- Do you think that going outside to relieve stress would always be effective? If so, please tell me why you think this. 
+- Do you think you will incorporate walks or time in green space more into your routine? Why or why not? 
+- With the existing green spaces that there are, is there anything you would want to change to make them maybe more attractive for using them? 
+- what are your motivations are for engaging with green spaces? 
+- Do you think that having grown up in a specific environment has shaped how you seek out green spaces when you're in a city? 
+- Are there any specific barriers that you have in your own life when it comes to engaging with green space, whether that's like green spaces in Glasgow or green spaces outside of Glasgow? 
+- how does seeing images of nature on social media make you feel? 
+- Does the point in time that you are seeing these photos (I.e. what season it is) change how you feel? 
+- can you think of a situation where social media encouraged you to go into nature? 
+- when you spend time in nature, do you find yourself like using social media or thinking about using social media? 
+- Are there any specific aspects of nature (e.g. plants, scenery) that you find helpful for your mental well-being?
+- Do you spend time in nature? - and how Can you describe your general experiences with spending time in nature?  
+- How do you feel after spending time in nature?   
+- Do you purposely use nature to improve your mental well-being and if so, in what ways?  
+- Can you describe a specific instance when you felt stressed or overwhelmed and how you used nature as a mechanism to recuperate your mental well-being?    
+- Considering the context of time (short and long term), how has the experience of using nature as a mechanism of recuperation impacted your overall mental well-being? 
+- do you have any green spaces that are kind of prominent in your daily life? 
+- how would you say you cope with stress with uni work or just general stresses in life? 
+- how do you perceive spending time in green spaces to impact your stress levels? 
+- would you say green spaces, like around campus or around your area, affect any other aspects of your life?
+- if you were to picture an ideal green space you could use within the campus, what would that look like? 
+- how do you feel that the weather might have an impact on you wanting to use green spaces? 
+- How do you feel students might benefit from green spaces on campus? 
+- what you believe the university could do to improve the benefits of green spaces on campus? 
+- when you're feeling really stressed what kind of things would you try and do to make yourself feel better? 
+
+#### Mental Health and Wellbeing
+
+- What does mental wellbeing mean to you?   
+- How would you define wellbeing? 
+- What does good mental health look like to you? 
+- What does stress mean to you? 
+- What do you think causes stress in postgraduate students? 
+- Which factors do you think affect students’ experiences of stress?  
+- How do you think stress affects (postgraduate) students? 
+- Can you describe what has contributed to your psychological wellbeing during postgraduate study? 
+- Has your psychological wellbeing changed between your undergraduate and postgraduate degree? If so, how? If not, why do you think not? 
+- How do you think doing a postgraduate course might affect students’ mental health and wellbeing?  
+- How might doing a conversion course in particular impact on students help-seeking behaviours?  
+- How do you perceive the mental health and well-being status of conversion course postgraduates?  
+- What are some of the factors you think influence student mental health? Think about both positive and negative influences. 
+- Do you believe that your university course has had an effect on your wellbeing? If so, how has it affected you? If not, why not? 
+- What are some of the mental health challenges you think students might face? 
+- What do you do to take care of your mental health? 
+- What do you think students do to manage their mental health? 
+- What would you consider to be mental health management strategies? 
+- Why do you think some mental health management strategies work well while others do not? 
+- What makes an effective coping mechanism? 
+- What would you do if a peer came to you with their mental health issue? 
+- What advice would you give for students to maintain good mental health during their studies? What would you say to avoid in order to maintain good mental health? 
+- What do you think comprises a good or robust mental health service? 
+- How do you think universities could improve mental health services for students? 
+- Can you describe the mental health services at your institution? 
+- Why do you think mental health services offered by universities are important? 
+- What can be done to encourage people to seek help when they need it? 
+- Why do you think students may not engage with the university mental health support available to them? 
+- What do you think might prevent postgraduate students from seeking help for mental health? 
+- What do you think makes students engage with university wellbeing and mental health services? 
+- Do you feel that the university is providing appropriate resources and assistance to help you manage your wellbeing during your studies? If yes, how are they doing that? If not, why not? 
+
+#### Belonging
+
+- What does belonging mean to you? 
+- What does a sense of belonging at the University mean to you? 
+- How do you understand a sense of belonging? 
+- Why do you think a sense of belonging at university is important? If you don’t think it’s important, why not? 
+- Have you actively tried to improve your sense of belonging at the university? If yes, how? If not, why not? 
+- What motivates you to develop a sense of belonging at the university? 
+- How does the social aspect of being a student at university affect your sense of belonging?  
+- Can you tell me about any non-academic activities you’ve participated in [while studying the postgraduate conversion course], and whether it affected your sense of belonging within your course/university? 
+- What aspects of the academic side of university (for example, the way courses are structured, course content, group work etc.) help you to feel like you belong? 
+- What physical aspects of university do you think help facilitate or prevent a sense of belonging in students (for example: study spaces, library, travelling to university, halls etc)? 
+- Are there specific places where you feel a sense of belonging within the university environment? (for example, in a certain class, building, extra-curricular activity etc.). If yes, what is it about these places that makes you feel like you belong? If not, why not? 
+- What do you think makes students feel like they belong at university? 
+- What things do you think may prevent students feeling a sense of belonging at university? 
+- What has helped you feel like you belong at university? 
+- Could you tell us about a time when you felt a sense of belonging at the university? 
+- Could you tell us about a time when you felt disconnected from the university? What made you feel that way? 
+- How has your sense of belonging at university changed from doing and undergraduate degree to doing a postgraduate degree? If it hasn’t changed, why do you think not? 
+- Did you find it easier/harder to develop a sense of belonging as an undergraduate student? If so, why? If not, why not? 
+- How do you think sense of belonging might affect students’ university experience? 
+- How can universities improve a sense of belonging for students?   
+- Can you give us any examples of the impact that you think belonging can have on a person’s wellbeing? 

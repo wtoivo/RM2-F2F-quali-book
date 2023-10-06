@@ -158,6 +158,35 @@ Thematic Analysis allows you to explore *semantic* or *latent* themes (or both) 
 4. Show the reader who each quote comes from  - we should be able to match this up with the demographics table/list of interviews in the Methods section (which then gives us some context). You can do this by using pseudonyms and linking this to the table by using the same names there too.
 5. Think about where the opportunities are in your data to go beyond description. Is there anything you can infer? If so, remember to be clear with the reader that this is your interpretation. Your reader should be able why you have interpreted the data this way from the quotes you've chosen.
 
+## Themes vs. codes
+
+This is an **optional** activity to help you discriminate between themes and codes. 
+
+Read [this handout](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ESNH19f8vxJFoNgOMxZjP_wB1y-fKWuxVythoLPYLAHJdA?e=CPhrx4). This is an activity from Braun & Clarke (2022), which has data collected via online survey. The initial RQ was 'What are New Zealand men and women’s views of men’s body hair?'.
+
+- Decide whether each label is a **code** or a **theme**
+- There is no absolute distinction, but:
+  + codes will tend to capture *one* insight or observation
+  + themes will capture several insights/observations. Themes should also capture a pattern of shared meaning
+- Reflect on why you decided whether it is a code or a theme. What made you decide this? 
+
+### List of the labels to be categorised as either a code or theme
+
+<div class="info">
+<ul>
+<li>‘Natural’ gender difference</li>
+<li>Men’s body hair is natural</li>
+<li>Looks wrong when men remove hair</li>
+<li>Animal metaphor</li>
+<li>Men’s body hair is unpleasant</li>
+<li>Imperative to remove hair</li>
+<li>‘Ideal’ amount of hair</li>
+<li>Back hair is ALWAYS excessive</li>
+<li>Men’s ‘excess’ body hair needs to be managed</li>
+</ul>
+</div>
+
+**Need to add in a hidden box here with the answers in it**
 
 ## Checklist for a good TA
 
@@ -252,3 +281,5 @@ Try to unpick any assumptions you have that underpin your initial reactions and 
 **Make sure themes are themes (and be careful when naming them)**
 
 *Connelly and Peltzer (2016, p.55): "When a researcher designated a 1-word theme, such as 'collaboration', what does that mean in relationship to the experiences of the informants as interpreted by the researcher? Using only 1 word as a theme, there is no way of knowing, for example if the experiences of collaboration were positive or negative, or whether collaboration is important to the nurses. One-word themes do not convey what the researcher found out about collaboration"*
+
+

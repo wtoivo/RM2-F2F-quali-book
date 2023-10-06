@@ -436,33 +436,6 @@ In this week's lab, we are going to focus on coding (i.e. step 2 of Thematic Ana
 
 
 
-### Lab 8 Activity 2: Themes vs. codes
-
-Read [this handout](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ESNH19f8vxJFoNgOMxZjP_wB1y-fKWuxVythoLPYLAHJdA?e=CPhrx4). This is an activity from Braun & Clarke (2022), which has data collected via online survey. The initial RQ was 'What are New Zealand men and women’s views of men’s body hair?'.
-
-- As a group, decide whether each label is a **code** or a **theme**
-- There is no absolute distinction, but:
-  + codes will tend to capture *one* insight or observation
-  + themes will capture several insights/observations. Themes should also capture a pattern of shared meaning
-- Reflect on why you decided whether it is a code or a theme. What made you decide this? 
-
-#### List of the labels to be categorised as either a code or theme
-
-<div class="info">
-<ul>
-<li>‘Natural’ gender difference</li>
-<li>Men’s body hair is natural</li>
-<li>Looks wrong when men remove hair</li>
-<li>Animal metaphor</li>
-<li>Men’s body hair is unpleasant</li>
-<li>Imperative to remove hair</li>
-<li>‘Ideal’ amount of hair</li>
-<li>Back hair is ALWAYS excessive</li>
-<li>Men’s ‘excess’ body hair needs to be managed</li>
-</ul>
-</div>
-
-
 ## Week 10 Lab 9: Analysis (themes)
 
 ---

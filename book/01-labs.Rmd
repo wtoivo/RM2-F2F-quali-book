@@ -1,8 +1,5 @@
 # Labs
-
-In this chapter you will find the lab materials/activities. Slides will be linked from this chapter, but can be found on moodle. 
-
-Each lab focuses on supporting you with your qualitative project. As part of this project, you will complete two summative assessments (one as a group (30%) and one as an individual (50%)).
+In this chapter you will find the lab materials/activities. Slides will be linked in this chapter, but can be found on Moodle. Each lab focuses on supporting you with your qualitative project. As part of this project, you will complete two summative assessments (one as a group (30%) and one as an individual (50%)).
 
 The Labs will be on the following topics:
 
@@ -19,7 +16,7 @@ The Labs will be on the following topics:
 
 ## Week 1 Lab 1: What is qualitative research?
 
----
+ - - -
 
 Key resources: 
 
@@ -27,7 +24,7 @@ Lab 1 slides(**ADD LINK**)
 
 [Project timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EYepOBxHkIxKuULVqBmvGiMBk7KH4FlUNGMLWlpYNc7d4Q?e=6rgfh2)
 
----
+ - - -
 
 In Lab 1, we will introduce you to qualitative research, and consider the differences between qualitative and quantitative. You will work together in groups to complete two activities. 
 
@@ -35,35 +32,38 @@ In Lab 1, we will introduce you to qualitative research, and consider the differ
 
 Look at the table below, then discuss the questions underneath in your groups.
 
-**For Wil: TABLE NEEDS ADDED IN**
+|Quantitative             |Qualitative           |
+|-------------------------|----------------------|
+|Numbers used as data     |Words (written/spoken) and images used as data.|
+|Seeks to identify relationships between variables to explain or predict with the aim of generalising findings to a wider population|Seeks to understand and interpret more local meanings. Recognises data as gathered in a context. *Sometimes* produces knowledge that contributes to more general understandings|
+|Generates "shallow" but broad data: not a lot fo complex detail obtained from each participant but lots of participants take part to generate statistical power|Generates narrow but rich data - "thick descriptions" - detailed and complex accounts from each participant, not many participants|
+|Seeks consensus, norms or general patterns, often aims to reduce diversity of responses to an average response|Tends to seek patterns but accommodates and explores difference and divergence within the data|
+|Tends to be theory-testing and deductive|Tends to be theory generating and *inductive* (working up from the data)|
+|Values detachment and impartiality (objectivity)|Values personal involvement and partiality (subjectivity, reflexivity)|
+|Has a fixed method (harder to change focus when data collection has begun)|Method is less fixed (can accommodate a shift in focus in the same study)|
+|Can be completed quickly|Tends to take longer to complete because it is interpretative and there is no formula|
 
-Q1. What might a 'typical' *quantitative* study look like? What kind of data might be collected? What would be the aim of the study? What might your sample look like?
 
-Q2. What might a 'typical' *qualitative* study look like? What kind of data might be collected? What would be the aim of the study? What might your sample look like?
-
-Q3. What type of research question might be best answered with a *quantitative* design?
-
-Q4. What type of research question might be best answered with a *qualitative* design?
+  + What might a 'typical' *quantitative* study look like? What kind of data might be collected? What would be the aim of the study? What might your sample look like?
+  + What might a 'typical' *qualitative* study look like? What kind of data might be collected? What would be the aim of the study? What might your sample look like?
+  + What type of research question might be best answered with a *quantitative* design? 
+  + What type of research question might be best answered with a *qualitative* design? 
 
 
 ### Lab 1 Activity 2: Qualitative or quantitative?
 
 Choose whether a quantitative or qualitative design is most appropriate for each of the following studies. Why did you choose each option?
 
-Q1. Angela is conducting a study exploring the experience of people currently experience mental ill health. She is interested in a) better understanding what people with mental ill health experience day-to-day, and b) exploring the support mechanisms that are in place.
-
-Q2. Ali is conducting a study where he is measuring whether the amount of sleep that children get is related to their cognitive performance in class. He asks the children to wear a sleep tracker to bed, so he can see when they are sleeping and when they are awake.
-
-Q3. Sally is conducting a study where she is interested in the effects of violence on TV on children.
-
-Q4. Charlie is conducting a study where they want to better understand motivations for smoking among teenagers.
-
-Q5. Elaine is conducting a study exploring whether the amount of studying done in preparation for an exam predicts exam performance.
+  1. Angela is conducting a study exploring the experience of people currently experience mental ill health. She is interested in a) better understanding what people with mental ill health experience day-to-day, and b) exploring the support mechanisms that are in place.
+  2. Ali is conducting a study where he is measuring whether the amount of sleep that children get is related to their cognitive performance in class. He asks the children to wear a sleep tracker to bed, so he can see when they are sleeping and when they are awake.
+  3. Sally is conducting a study where she is interested in the effects of violence on TV on children.
+  4. Charlie is conducting a study where they want to better understand motivations for smoking among teenagers.
+  5. Elaine is conducting a study exploring whether the amount of studying done in preparation for an exam predicts exam performance.
 
 
 ## Week 2 Lab 2: Groupwork and RQs
 
----
+ - - -
 
 Key resources: 
 
@@ -76,7 +76,7 @@ Lab 2 slides - **ADD LINK**
 [Group Agreement and task allocation template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A)
 
 
----
+ - - -
 
 In Lab 2, you will form into the groups that you will  be in for the rest of the semester. You will be able to find your group in the spreadsheet at the bottom of the [Week 2 Moodle](https://moodle.gla.ac.uk/course/view.php?id=38155&section=3) (please note the spreadsheet will only become available once it has been released at the start of Week 2). In these groups, you will a) design, run and transcribe a focus group with a group in your lab as your participants, b) participate in another group's focus group, and c) write a qualitative group proposal. 
 
@@ -104,13 +104,13 @@ Once you've chosen a topic (you might not manage this in the lab, which is fine!
 
 ## Week 3 Lab 3: Ethics
 
----
+ - - -
 
 Key resources: 
 
 Lab 3 slides **(ADD LINK)**
 
----
+ - - -
 
 In Lab 3, we will cover ethics and you will complete two activities within your groups. 
 
@@ -239,7 +239,7 @@ negatively?”
 
 ## Week 4 Lab 4: Developing Focus Group questions
 
----
+ - - -
 
 Key resources:
 
@@ -247,7 +247,7 @@ Lab 4 slides **(ADD LINK)**
 
 [Bank of questions for the focus groups](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions)
 
----
+ - - -
 
 In Lab 4, we will work on developing questions for your focus group. We have made a [bank of questions](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions) available to you. Please select any questions that you would like to use and then adapt them to suit your research question. 
 
@@ -302,7 +302,7 @@ Have a look at these poorly written fictional focus group questions. The researc
 
 ## Week 5 Lab 5: Running a Focus Group
 
----
+ - - -
 
 Key resources:
 
@@ -315,7 +315,7 @@ Lab 5 slides **ADD SLIDES**
 [Consent Form template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ETFRTON4cnROjUYI6WGc2wIBzjmRkzk8kpDdH79asr27BQ?e=TBJ4S7)
 
 
----
+ - - -
 
 In this week's lab, we will cover some key things that you will need to know in order to run a focus group. We also have some activities for you to do in groups. 
 
@@ -343,7 +343,7 @@ Note down some suggestions among the group about how you might manage these situ
 
 ## Week 7 Lab 6: Data processing and reflection
 
----
+ - - -
 
 Key resources:
 
@@ -351,7 +351,7 @@ Lab 6 slides (**ADD LINK**)
 
 [Reflection document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ES-Vc-s5kxZGo8wqcvvfmawBjrTG_q6WpNtTT18StzwS8w?e=aY8Pmx)
 
----
+ - - -
 
 ### Lab 6 Activity 1: Anonymise the transcript
 
@@ -379,13 +379,13 @@ Feedback is most useful when it is reflected on and incorporated into subsequent
 
 ## Week 8 Lab 7: Evaluation in the Introduction and Discussion
 
----
+ - - -
 
 Key resources:
 
 Lab 7 slides (**ADD LINK**)
 
----
+ - - -
 
 We often ask for students to demonstrate *evaluation* in their writing, i.e. going beyond paraphrasing and descriptive writing. Essentially, we are looking for you to develop critical, evidence-based arguments that demonstrate your thinking. 
 
@@ -429,7 +429,7 @@ This study offers insights into broader psychological phenomena and practical in
 
 ## Week 9 Lab 8: Analysis (coding)
 
----
+ - - -
 
 Key resources:
 
@@ -439,7 +439,7 @@ Lab 8 slides (**ADD LINK**)
 
 [Code or theme activity handout](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ESNH19f8vxJFoNgOMxZjP_wB1y-fKWuxVythoLPYLAHJdA?e=CPhrx4)
 
----
+ - - -
 
 In this week's lab, we are going to focus on coding (i.e. step 2 of Thematic Analysis). We have two activities to support you in the coding stage of your data analysis. 
 
@@ -480,7 +480,7 @@ Erm, I don't think we have the capacity to do any more. I think, erm, it'd be gr
 
 ## Week 10 Lab 9: Analysis (themes)
 
----
+ - - -
 
 Key resources:
 
@@ -488,7 +488,7 @@ Lab 9 slides (**ADD LINK**)
 
 [Zombie Apocalypse transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi)
 
----
+ - - -
 
 In today's lab (which is our last one in RM2), we have two activities to support you with developing themes using Thematic analysis. If there is time, you will also have the opportunity to get started on your analysis in Activity 3.
 

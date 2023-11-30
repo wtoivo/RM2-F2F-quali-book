@@ -50,7 +50,12 @@ From here, you can add in the agreed questions from your group.
 
 <div class="info">
 <p>There are a few things to note:</p>
-<p>Please do not collect names automatically - this can be turned off by going to the three dots to the right of Share (at the top right), then Settings, then untick ‘record name’ You will see your responses come in via the ‘responses’ tab. These can be downloaded in excel format To share, click share and then you can copy a link that you can send out to your participants.</p>
+<p>Please do not collect names automatically - this can be turned off by
+going to the three dots to the right of Share (at the top right), then
+Settings, then untick 'record name' You will see your responses come in
+via the 'responses' tab. These can be downloaded in excel format To
+share, click share and then you can copy a link that you can send out to
+your participants.</p>
 </div>
 
 

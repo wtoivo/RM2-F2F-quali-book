@@ -1,8 +1,5 @@
 # Labs
-
-In this chapter you will find the lab materials/activities. Slides will be linked from this chapter, but can be found on moodle. 
-
-Each lab focuses on supporting you with your qualitative project. As part of this project, you will complete two summative assessments (one as a group (30%) and one as an individual (50%)).
+In this chapter you will find the lab materials/activities. Slides will be linked in this chapter, but can be found on Moodle. Each lab focuses on supporting you with your qualitative project. As part of this project, you will complete two summative assessments (one as a group (30%) and one as an individual (50%)).
 
 The Labs will be on the following topics:
 
@@ -19,7 +16,7 @@ The Labs will be on the following topics:
 
 ## Week 1 Lab 1: What is qualitative research?
 
----
+ - - -
 
 Key resources: 
 
@@ -27,7 +24,7 @@ Lab 1 slides(**ADD LINK**)
 
 [Project timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EYepOBxHkIxKuULVqBmvGiMBk7KH4FlUNGMLWlpYNc7d4Q?e=6rgfh2)
 
----
+ - - -
 
 In Lab 1, we will introduce you to qualitative research, and consider the differences between qualitative and quantitative. You will work together in groups to complete two activities. 
 
@@ -35,35 +32,38 @@ In Lab 1, we will introduce you to qualitative research, and consider the differ
 
 Look at the table below, then discuss the questions underneath in your groups.
 
-**For Wil: TABLE NEEDS ADDED IN**
+|Quantitative             |Qualitative           |
+|-------------------------|----------------------|
+|Numbers used as data     |Words (written/spoken) and images used as data.|
+|Seeks to identify relationships between variables to explain or predict with the aim of generalising findings to a wider population|Seeks to understand and interpret more local meanings. Recognises data as gathered in a context. *Sometimes* produces knowledge that contributes to more general understandings|
+|Generates "shallow" but broad data: not a lot fo complex detail obtained from each participant but lots of participants take part to generate statistical power|Generates narrow but rich data - "thick descriptions" - detailed and complex accounts from each participant, not many participants|
+|Seeks consensus, norms or general patterns, often aims to reduce diversity of responses to an average response|Tends to seek patterns but accommodates and explores difference and divergence within the data|
+|Tends to be theory-testing and deductive|Tends to be theory generating and *inductive* (working up from the data)|
+|Values detachment and impartiality (objectivity)|Values personal involvement and partiality (subjectivity, reflexivity)|
+|Has a fixed method (harder to change focus when data collection has begun)|Method is less fixed (can accommodate a shift in focus in the same study)|
+|Can be completed quickly|Tends to take longer to complete because it is interpretative and there is no formula|
 
-Q1. What might a 'typical' *quantitative* study look like? What kind of data might be collected? What would be the aim of the study? What might your sample look like?
 
-Q2. What might a 'typical' *qualitative* study look like? What kind of data might be collected? What would be the aim of the study? What might your sample look like?
-
-Q3. What type of research question might be best answered with a *quantitative* design?
-
-Q4. What type of research question might be best answered with a *qualitative* design?
+  + What might a 'typical' *quantitative* study look like? What kind of data might be collected? What would be the aim of the study? What might your sample look like?
+  + What might a 'typical' *qualitative* study look like? What kind of data might be collected? What would be the aim of the study? What might your sample look like?
+  + What type of research question might be best answered with a *quantitative* design? 
+  + What type of research question might be best answered with a *qualitative* design? 
 
 
 ### Lab 1 Activity 2: Qualitative or quantitative?
 
 Choose whether a quantitative or qualitative design is most appropriate for each of the following studies. Why did you choose each option?
 
-Q1. Angela is conducting a study exploring the experience of people currently experience mental ill health. She is interested in a) better understanding what people with mental ill health experience day-to-day, and b) exploring the support mechanisms that are in place.
-
-Q2. Ali is conducting a study where he is measuring whether the amount of sleep that children get is related to their cognitive performance in class. He asks the children to wear a sleep tracker to bed, so he can see when they are sleeping and when they are awake.
-
-Q3. Sally is conducting a study where she is interested in the effects of violence on TV on children.
-
-Q4. Charlie is conducting a study where they want to better understand motivations for smoking among teenagers.
-
-Q5. Elaine is conducting a study exploring whether the amount of studying done in preparation for an exam predicts exam performance.
+  1. Angela is conducting a study exploring the experience of people currently experience mental ill health. She is interested in a) better understanding what people with mental ill health experience day-to-day, and b) exploring the support mechanisms that are in place.
+  2. Ali is conducting a study where he is measuring whether the amount of sleep that children get is related to their cognitive performance in class. He asks the children to wear a sleep tracker to bed, so he can see when they are sleeping and when they are awake.
+  3. Sally is conducting a study where she is interested in the effects of violence on TV on children.
+  4. Charlie is conducting a study where they want to better understand motivations for smoking among teenagers.
+  5. Elaine is conducting a study exploring whether the amount of studying done in preparation for an exam predicts exam performance.
 
 
 ## Week 2 Lab 2: Groupwork and RQs
 
----
+ - - -
 
 Key resources: 
 
@@ -76,7 +76,7 @@ Lab 2 slides - **ADD LINK**
 [Group Agreement and task allocation template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A)
 
 
----
+ - - -
 
 In Lab 2, you will form into the groups that you will  be in for the rest of the semester. You will be able to find your group in the spreadsheet at the bottom of the [Week 2 Moodle](https://moodle.gla.ac.uk/course/view.php?id=38155&section=3) (please note the spreadsheet will only become available once it has been released at the start of Week 2). In these groups, you will a) design, run and transcribe a focus group with a group in your lab as your participants, b) participate in another group's focus group, and c) write a qualitative group proposal. 
 
@@ -104,13 +104,13 @@ Once you've chosen a topic (you might not manage this in the lab, which is fine!
 
 ## Week 3 Lab 3: Ethics
 
----
+ - - -
 
 Key resources: 
 
 Lab 3 slides **(ADD LINK)**
 
----
+ - - -
 
 In Lab 3, we will cover ethics and you will complete two activities within your groups. 
 
@@ -197,31 +197,45 @@ In your groups, try to identify what ethical issues there are, and how they coul
 <div class="info">
 <p><strong>Focus group schedule</strong></p>
 <ol style="list-style-type: decimal">
-<li>What has been your experience with teaching during the pandemic?</li>
-<li>How has this affected your personal life? What impact has your increased workload had on that?</li>
-<li>Can you describe some of the negative effects that this has had on your mental health? Prompt: What has been the worst thing about the pandemic for you?</li>
+<li>What has been your experience with teaching during the
+pandemic?</li>
+<li>How has this affected your personal life? What impact has your
+increased workload had on that?</li>
+<li>Can you describe some of the negative effects that this has had on
+your mental health? Prompt: What has been the worst thing about the
+pandemic for you?</li>
 <li>How has your employer supported you during the pandemic?</li>
 <li>How has your student contact differed from previous years?</li>
 </ol>
 <p><strong>Correspondence between the authors</strong></p>
 <p><em>Email 1:</em></p>
 <p>“Hi Angela,</p>
-<p>Please see attached a Google Drive link to the raw data with focus group number 3. I’m just working on the anonymisation of FG4 on the library computers and will send it to you asap.</p>
+<p>Please see attached a Google Drive link to the raw data with focus
+group number 3. I’m just working on the anonymisation of FG4 on the
+library computers and will send it to you asap.</p>
 <p>Cheers,</p>
 <p>J”</p>
 <p><em>Email 2:</em></p>
 <p>“Hi,</p>
-<p>Thanks for the update! Actually my dissertation student is very interested in the topic so I thought they would help with the data analysis – can you share the raw data folder with 12345@student.gla.ac.uk also?</p>
+<p>Thanks for the update! Actually my dissertation student is very
+interested in the topic so I thought they would help with the data
+analysis – can you share the raw data folder with <a
+href="mailto:12345@student.gla.ac.uk"
+class="email">12345@student.gla.ac.uk</a> also?</p>
 <p>-Angela”</p>
 <p><strong>Data Excerpt</strong></p>
-<p>Participant 1: “For me, as I’m the course lead for first-year philosophy, the workload was just simply too much to handle at times and I felt so alone.”</p>
-<p>Participant 2: “Yeah, I agree, umm, it was really hard to just keep going with extra hours and that feeling of isolation”</p>
-<p>Moderator: “What about you, Participant 3, how was your mental health affected negatively?”</p>
+<p>Participant 1: “For me, as I’m the course lead for first-year
+philosophy, the workload was just simply too much to handle at times and
+I felt so alone.”</p>
+<p>Participant 2: “Yeah, I agree, umm, it was really hard to just keep
+going with extra hours and that feeling of isolation”</p>
+<p>Moderator: “What about you, Participant 3, how was your mental health
+affected negatively?”</p>
 </div>
 
 ## Week 4 Lab 4: Developing Focus Group questions
 
----
+ - - -
 
 Key resources:
 
@@ -229,7 +243,7 @@ Lab 4 slides **(ADD LINK)**
 
 [Bank of questions for the focus groups](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions)
 
----
+ - - -
 
 In Lab 4, we will work on developing questions for your focus group. We have made a [bank of questions](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions) available to you. Please select any questions that you would like to use and then adapt them to suit your research question. 
 
@@ -252,14 +266,20 @@ Look at the following focus group questions. For each, decide whether a) they ar
 
 
 <div class="info">
-<p><em>Research Question: How does students’ sense of belonging relate to participation in team sport?</em></p>
+<p><em>Research Question: How does students' sense of belonging relate
+to participation in team sport?</em></p>
 <ol style="list-style-type: decimal">
 <li>How many hours of group sport do you participate in each week?</li>
 <li>What does being a part of a team mean to you?</li>
 <li>What does belonging mean to you?</li>
-<li>How has your sense of belonging improved since joining your sports group?</li>
-<li>I’m going to go round the group one at a time. I need each person to tell me about a time where they’ve felt that they haven’t belonged to their team, and how that impacted on them personally?</li>
-<li>Please tell me, on a scale of 1-5 (with 1 being not at all and 5 being hugely) how much you feel like you belong to your sports team?</li>
+<li>How has your sense of belonging improved since joining your sports
+group?</li>
+<li>I'm going to go round the group one at a time. I need each person to
+tell me about a time where they've felt that they haven't belonged to
+their team, and how that impacted on them personally?</li>
+<li>Please tell me, on a scale of 1-5 (with 1 being not at all and 5
+being hugely) how much you feel like you belong to your sports
+team?</li>
 <li>Do you like being a part of a sports team?</li>
 </ol>
 </div>
@@ -271,11 +291,12 @@ Look at the following focus group questions. For each, decide whether a) they ar
 Have a look at these poorly written fictional focus group questions. The research question is there to help you (you do not need to re-word this). 
 
 <div class="info">
-<p><em>Research question: Exploring international students’ experiences of their sense of belonging and homesickness</em></p>
+<p><em>Research question: Exploring international students' experiences
+of their sense of belonging and homesickness</em></p>
 <ol style="list-style-type: decimal">
 <li>Have you ever felt homesick while studying abroad?</li>
 <li>How has this negatively affected you?</li>
-<li>How often do you feel like you don’t belong?</li>
+<li>How often do you feel like you don't belong?</li>
 </ol>
 </div>
 
@@ -285,7 +306,7 @@ Have a look at these poorly written fictional focus group questions. The researc
 
 ## Week 5 Lab 5: Running a Focus Group
 
----
+ - - -
 
 Key resources:
 
@@ -298,7 +319,7 @@ Lab 5 slides **ADD SLIDES**
 [Consent Form template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ETFRTON4cnROjUYI6WGc2wIBzjmRkzk8kpDdH79asr27BQ?e=TBJ4S7)
 
 
----
+ - - -
 
 In this week's lab, we will cover some key things that you will need to know in order to run a focus group. We also have some activities for you to do in groups. 
 
@@ -318,8 +339,10 @@ In your groups, discuss the following scenarios. What might you do if these happ
 <li>Nobody answers the questions you have asked</li>
 <li>The conversation goes completely off-topic</li>
 <li>One participant dominates the conversation</li>
-<li>One participant is seemingly uncomfortable and doesn’t say anything</li>
-<li>Participants don’t seem comfortable/confident answering questions in English</li>
+<li>One participant is seemingly uncomfortable and doesn't say
+anything</li>
+<li>Participants don't seem comfortable/confident answering questions in
+English</li>
 </ol>
 </div>
 
@@ -328,7 +351,7 @@ Note down some suggestions among the group about how you might manage these situ
 
 ## Week 7 Lab 6: Data processing and reflection
 
----
+ - - -
 
 Key resources:
 
@@ -336,7 +359,7 @@ Lab 6 slides (**ADD LINK**)
 
 [Reflection document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ES-Vc-s5kxZGo8wqcvvfmawBjrTG_q6WpNtTT18StzwS8w?e=aY8Pmx)
 
----
+ - - -
 
 ### Lab 6 Activity 1: Anonymise the transcript
 
@@ -344,9 +367,17 @@ Take a look at the short excerpt below. In your group, try to anonymise it, thin
 
 <div class="info">
 <p><strong>Transcript:</strong></p>
-<p>Jane:…I grew up in Brighton and you see men holding hands all the time in Brighton, and Tim came out when I was about 12 or 13 (pause) I think he was 16 or maybe 15, he was definitely still at Michael Hall because I used to get teased about being gay myself…</p>
+<p>Jane:...I grew up in Brighton and you see men holding hands all the
+time in Brighton, and Tim came out when I was about 12 or 13 (pause) I
+think he was 16 or maybe 15, he was definitely still at Michael Hall
+because I used to get teased about being gay myself...</p>
 <p>Interviewer: And, when did you come out?</p>
-<p>Jane: I came out in the first year of university so I must have been 19 or 20, I had a gap year before going to Durham…my mum freaked a bit, she was totally okay, but I think even for her – someone who lives in Brighton and writes for the Guardian – two gay kids was a bit much… my Aunty Julie, my mum’s sister, was absolutely wonderful though, and she’s a lesbian…</p>
+<p>Jane: I came out in the first year of university so I must have been
+19 or 20, I had a gap year before going to Durham...my mum freaked a
+bit, she was totally okay, but I think even for her – someone who lives
+in Brighton and writes for the Guardian – two gay kids was a bit much...
+my Aunty Julie, my mum’s sister, was absolutely wonderful though, and
+she’s a lesbian...</p>
 </div>
 
 Did you agree on all the points? If not, why not? Remember that there is no one 'correct' answer; it's not unusual to have different opinions about how you should approach it!
@@ -361,13 +392,13 @@ Feedback is most useful when it is reflected on and incorporated into subsequent
 
 ## Week 8 Lab 7: Evaluation in the Introduction and Discussion
 
----
+ - - -
 
 Key resources:
 
 Lab 7 slides (**ADD LINK**)
 
----
+ - - -
 
 We often ask for students to demonstrate *evaluation* in their writing, i.e. going beyond paraphrasing and descriptive writing. Essentially, we are looking for you to develop critical, evidence-based arguments that demonstrate your thinking. 
 
@@ -380,9 +411,29 @@ The purpose of your introduction is to provide a rationale for your study and an
 In Activity 1, read the following extracts from an introduction section. As a group, identify *two* aspects of evaluation that could be improved for this study.  
 
 <div class="info">
-<p><strong>Extract 1</strong> A study by Lane and Karin (2011) looked at zombie apocalypse survival confidence levels in undergraduate students. The sample consisted of 25 participants (20 male and 5 female), recruited through convenience sampling. The study employed involved a survey comprising Likert-scale questions designed to measure participants’ self-assessed confidence in various survival skills. Additionally, participants were asked about their exposure to zombie-related media. The data were subjected to t-tests and regression analyses, and the authors’ found that the biggest predictor of zombie apocalypse confidence was exposure to zombie-themed video games.</p>
-<p><strong>Extract 2</strong> It should be noted that the majority of studies on zombie apocalypse survival confidence have looked at samples that consist of mostly men (Lane &amp; Karin, 2011 but see also Grimes &amp; Dixon, 2019), and that previous samples have been small.</p>
-<p><strong>Extract 3</strong> To date, there has been only one qualitative study on the topic – Seok (2013) collected data through semi-structured interviews, which were analysed using thematic analysis and two themes, “Survival mode” and “Confidence through skills” were identified. This study looked at undergraduate students; there is no previous literature on postgraduate students’ perceptions of their apocalyptic confidence. Therefore, this qualitative study investigates the perceived confidence of postgraduate students in their abilities to survive a zombie apocalypse.</p>
+<p><strong>Extract 1</strong> A study by Lane and Karin (2011) looked at
+zombie apocalypse survival confidence levels in undergraduate students.
+The sample consisted of 25 participants (20 male and 5 female),
+recruited through convenience sampling. The study employed involved a
+survey comprising Likert-scale questions designed to measure
+participants' self-assessed confidence in various survival skills.
+Additionally, participants were asked about their exposure to
+zombie-related media. The data were subjected to t-tests and regression
+analyses, and the authors’ found that the biggest predictor of zombie
+apocalypse confidence was exposure to zombie-themed video games.</p>
+<p><strong>Extract 2</strong> It should be noted that the majority of
+studies on zombie apocalypse survival confidence have looked at samples
+that consist of mostly men (Lane &amp; Karin, 2011 but see also Grimes
+&amp; Dixon, 2019), and that previous samples have been small.</p>
+<p><strong>Extract 3</strong> To date, there has been only one
+qualitative study on the topic – Seok (2013) collected data through
+semi-structured interviews, which were analysed using thematic analysis
+and two themes, “Survival mode” and “Confidence through skills” were
+identified. This study looked at undergraduate students; there is no
+previous literature on postgraduate students’ perceptions of their
+apocalyptic confidence. Therefore, this qualitative study investigates
+the perceived confidence of postgraduate students in their abilities to
+survive a zombie apocalypse.</p>
 </div>
 
 ### Lab 7 Activity 2: Evaluation in Discussions
@@ -393,15 +444,45 @@ In Activity 2, read the following extracts from a discussion section. As a group
 
 
 <div class="info">
-<p><strong>Extract 1</strong> In this study, our investigation into the realm of confidence in preparing for the zombie apocalypse has revealed nuanced insights into individuals’ perceptions of their readiness for this so-far-unrealised scenario. Theme 1 was perceived media influence of feelings of preparedness. Here, we found that participants were more likely to feel prepared for the apocalypse when they watched zombie TV shows, which is in line with Lincoln and Reedus (2014). In Theme 2, we found that confidence was improved through perceived cooperation. This does not align with the most recent evidence, namely Morgan et al. (2023). These findings contribute to our understanding of how individuals navigate the complex interplay between personal beliefs, social interactions, and cultural representations when assessing their preparedness for extreme and unlikely events.</p>
-<p><strong>Extract 2</strong> There were a number of limitations in this study. Firstly, it is important to note that we were unable to generalise as there were only four participants in the study. Secondly, we are currently unable to tell whether confidence in zombie apocalypse survival translates to real-world skills. Finally, a limitation is that the questions did not consider how postgraduates might reduce their vulnerability to zombie attacks.</p>
-<p><strong>Extract 3</strong> This study offers insights into broader psychological phenomena and practical interventions. Governments around the world should take these findings and incorporate them into their disaster relief programs. This will enable policymakers and educators to further enhance individuals’ capacity to critically evaluate their preparedness, bridging the gap between perceived and actual abilities. Moreover, this research illuminates the ways in which fictional contexts can impact real-world perceptions, shedding light on cognitive biases and media’s potential to shape individuals’ self-assessment (Masterson, 2020). As the world faces increasingly diverse and unpredictable challenges, understanding how individuals approach threats from the zombie apocalypse helps foster a holistic approach to readiness in an ever-changing landscape.</p>
+<p><strong>Extract 1</strong> In this study, our investigation into the
+realm of confidence in preparing for the zombie apocalypse has revealed
+nuanced insights into individuals' perceptions of their readiness for
+this so-far-unrealised scenario. Theme 1 was perceived media influence
+of feelings of preparedness. Here, we found that participants were more
+likely to feel prepared for the apocalypse when they watched zombie TV
+shows, which is in line with Lincoln and Reedus (2014). In Theme 2, we
+found that confidence was improved through perceived cooperation. This
+does not align with the most recent evidence, namely Morgan et al.
+(2023). These findings contribute to our understanding of how
+individuals navigate the complex interplay between personal beliefs,
+social interactions, and cultural representations when assessing their
+preparedness for extreme and unlikely events.</p>
+<p><strong>Extract 2</strong> There were a number of limitations in this
+study. Firstly, it is important to note that we were unable to
+generalise as there were only four participants in the study. Secondly,
+we are currently unable to tell whether confidence in zombie apocalypse
+survival translates to real-world skills. Finally, a limitation is that
+the questions did not consider how postgraduates might reduce their
+vulnerability to zombie attacks.</p>
+<p><strong>Extract 3</strong> This study offers insights into broader
+psychological phenomena and practical interventions. Governments around
+the world should take these findings and incorporate them into their
+disaster relief programs. This will enable policymakers and educators to
+further enhance individuals' capacity to critically evaluate their
+preparedness, bridging the gap between perceived and actual abilities.
+Moreover, this research illuminates the ways in which fictional contexts
+can impact real-world perceptions, shedding light on cognitive biases
+and media's potential to shape individuals' self-assessment (Masterson,
+2020). As the world faces increasingly diverse and unpredictable
+challenges, understanding how individuals approach threats from the
+zombie apocalypse helps foster a holistic approach to readiness in an
+ever-changing landscape.</p>
 </div>
 
 
 ## Week 9 Lab 8: Analysis (coding)
 
----
+ - - -
 
 Key resources:
 
@@ -411,7 +492,7 @@ Lab 8 slides (**ADD LINK**)
 
 [Code or theme activity handout](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ESNH19f8vxJFoNgOMxZjP_wB1y-fKWuxVythoLPYLAHJdA?e=CPhrx4)
 
----
+ - - -
 
 In this week's lab, we are going to focus on coding (i.e. step 2 of Thematic Analysis). We have two activities to support you in the coding stage of your data analysis. 
 
@@ -425,20 +506,76 @@ In this week's lab, we are going to focus on coding (i.e. step 2 of Thematic Ana
 #### Transcript
 
 <div class="info">
-<p>Extract from E_NM4 Interview <a href="https://reshare.ukdataservice.ac.uk/855322/">LGBT staff networks on UK Data Service</a></p>
-<p>RESEARCHER: So, how do you, how do you influence the organisation or how do you try to influence the organisation?</p>
-<p>CHARLES: Erm, the best person to go to in this organisation is, Lillian.</p>
-<p>RESEARCHER: Why’s that?</p>
-<p>CHARLES: Because, erm, she’ll give you a cut and dry answer, a yes or a no, erm, which is great, ’cause that’s what you want, you don’t want - I don’t want to go to someone that, if I go to Leo with it, generally it’s, what’s it gonna cost me? So, we have a budget of the group, but if it’s above the budget, then it’s, what’s it gonna cost, and then it’s always, there’s to-ing and fro-ing. Erm, if you go to the levels of management within the Trust, it always gets passed to other people, erm, one example of this is when we got the rainbow lanyard, erm, I, I said to Leo I wanted to get some, erm, we’d got them for getting in the Stonewall Top [ranking] the first year, so Leo agreed that he’d get them. He bought them and then, they came into the organisation and then, er, he said, oh, I’ve been speaking - he’d spoken to someone and they said, oh, you’re gonna have to get approval for them to go out and be used, so I think we were gonna put them out for LGBT History Month initially, but then they just sort of stayed. Leo had gone to HR and HR had said, oh, it’s the uniform policy, we don’t own that, you’ll have to go to ops, operations, so Leo went to operations and they said, oh, we don’t own that policy, it’ll be HR, you’ll have to go to them, so he went back to HR and HR said, well, we’re not comfortable saying it ’cause it’ll have an impact on ops and it’ll have an impact on this, so you’ll have to go to - and it just went round and round and round and for like, ten days, Leo was like, I don’t know where to go with it, I really don’t know what we do, no-one will take ownership. So, I, I picked one of the lanyards up, walked into Lillian’s office and said, do you like this, and she said, oh yeah, it’s great, can I have one, and I was like, yep, there we go. I was like, the problem is, we don’t know who owns the policy, who can we - and immediately she went, no, this is, this is what it’s for, this is what it is, put them out, and I think, you know, sometimes you just need someone who’s gonna make them decisions and be like, yes actually, we’ll support it.</p>
-<p>RESEARCHER: Yeah, yeah, no, I can see that, it’s kind of a straight answer and, you know, not being sent, you know, around into a circle. So, do you think, you know, when you’re thinking about what the network is doing now, do you think the network should be doing something else?</p>
-<p>CHARLES: Erm, I don’t think we have the capacity to do any more. I think, erm, it’d be great if we had enough people that, someone sat on all of the meetings and all of the groups within the Trust, it had a, a staff network member, erm, I’ve found that as the chair of the group, I get invited to a lot of these groups now, erm, and I do try and attend as many as I can, so I’m now on a health and wellbeing group and I’m on, erm, there’s another one I’m on, erm, but there’s other that like, the vehicle working group. I’d like to have someone sat on there so actually, we could influence it, actually could we have an LGBT sticker or can we have - do you know what I mean? Just, and it might be that they have no input for long periods, but there’s certain points where there might be that point where they can go, actually, that isn’t suitable for LGBT staff. Erm, the - but I’d need more people to step up, I’d need more support, erm, I know with, Camila, that’s just joined the group, erm, she’s really keen and she’s really showing promise now, which is great and sort of, can start seeing if she’ll attend some of these meetings. But I’m aware that her manager at the minute is really busy, and she’s getting lots of work and I’m not sure what the release is gonna be like for her to go and do this stuff, ’cause that’s the other issue.</p>
+<p>Extract from E_NM4 Interview <a
+href="https://reshare.ukdataservice.ac.uk/855322/">LGBT staff networks
+on UK Data Service</a></p>
+<p>RESEARCHER: So, how do you, how do you influence the organisation or
+how do you try to influence the organisation?</p>
+<p>CHARLES: Erm, the best person to go to in this organisation is,
+Lillian.</p>
+<p>RESEARCHER: Why's that?</p>
+<p>CHARLES: Because, erm, she'll give you a cut and dry answer, a yes or
+a no, erm, which is great, 'cause that's what you want, you don't want -
+I don't want to go to someone that, if I go to Leo with it, generally
+it's, what's it gonna cost me? So, we have a budget of the group, but if
+it's above the budget, then it's, what's it gonna cost, and then it's
+always, there's to-ing and fro-ing. Erm, if you go to the levels of
+management within the Trust, it always gets passed to other people, erm,
+one example of this is when we got the rainbow lanyard, erm, I, I said
+to Leo I wanted to get some, erm, we'd got them for getting in the
+Stonewall Top [ranking] the first year, so Leo agreed that he'd get
+them. He bought them and then, they came into the organisation and then,
+er, he said, oh, I've been speaking - he'd spoken to someone and they
+said, oh, you're gonna have to get approval for them to go out and be
+used, so I think we were gonna put them out for LGBT History Month
+initially, but then they just sort of stayed. Leo had gone to HR and HR
+had said, oh, it's the uniform policy, we don't own that, you'll have to
+go to ops, operations, so Leo went to operations and they said, oh, we
+don't own that policy, it'll be HR, you'll have to go to them, so he
+went back to HR and HR said, well, we're not comfortable saying it
+'cause it'll have an impact on ops and it'll have an impact on this, so
+you'll have to go to - and it just went round and round and round and
+for like, ten days, Leo was like, I don't know where to go with it, I
+really don't know what we do, no-one will take ownership. So, I, I
+picked one of the lanyards up, walked into Lillian's office and said, do
+you like this, and she said, oh yeah, it's great, can I have one, and I
+was like, yep, there we go. I was like, the problem is, we don't know
+who owns the policy, who can we - and immediately she went, no, this is,
+this is what it's for, this is what it is, put them out, and I think,
+you know, sometimes you just need someone who's gonna make them
+decisions and be like, yes actually, we'll support it.</p>
+<p>RESEARCHER: Yeah, yeah, no, I can see that, it's kind of a straight
+answer and, you know, not being sent, you know, around into a circle.
+So, do you think, you know, when you're thinking about what the network
+is doing now, do you think the network should be doing something
+else?</p>
+<p>CHARLES: Erm, I don't think we have the capacity to do any more. I
+think, erm, it'd be great if we had enough people that, someone sat on
+all of the meetings and all of the groups within the Trust, it had a, a
+staff network member, erm, I've found that as the chair of the group, I
+get invited to a lot of these groups now, erm, and I do try and attend
+as many as I can, so I'm now on a health and wellbeing group and I'm on,
+erm, there's another one I'm on, erm, but there's other that like, the
+vehicle working group. I'd like to have someone sat on there so
+actually, we could influence it, actually could we have an LGBT sticker
+or can we have - do you know what I mean? Just, and it might be that
+they have no input for long periods, but there's certain points where
+there might be that point where they can go, actually, that isn't
+suitable for LGBT staff. Erm, the - but I'd need more people to step up,
+I'd need more support, erm, I know with, Camila, that's just joined the
+group, erm, she's really keen and she's really showing promise now,
+which is great and sort of, can start seeing if she'll attend some of
+these meetings. But I'm aware that her manager at the minute is really
+busy, and she's getting lots of work and I'm not sure what the release
+is gonna be like for her to go and do this stuff, 'cause that's the
+other issue.</p>
 </div>
 
 
 
 ## Week 10 Lab 9: Analysis (themes)
 
----
+ - - -
 
 Key resources:
 
@@ -446,7 +583,7 @@ Lab 9 slides (**ADD LINK**)
 
 [Zombie Apocalypse transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi)
 
----
+ - - -
 
 In today's lab (which is our last one in RM2), we have two activities to support you with developing themes using Thematic analysis. If there is time, you will also have the opportunity to get started on your analysis in Activity 3.
 
@@ -475,21 +612,47 @@ Read the following two extracts from an Analysis section and discuss these quest
 2. What have the authors done that makes the analysis better?
 
 <div class="info">
-<p><strong>Extract 1 - from a study about the impact of the COVID pandemic</strong></p>
-<p>Sarah spoke of using her leisure time to plan and fantasise about her wedding:</p>
-<p><em>“it’s enough of a fantasy… it’s meant to be stressful, but it’s really just been fun. It’s like such a nice break from this humdrum life we’re living in right now” (Sarah: lines 459-461).</em></p>
-<p>Organising a significant life event seems to be viewed as granting Sarah an escape from her current monotony. While she refers to it as a “fantasy”, potentially given uncertainty of the pandemic’s progression, she appears to perceive this as constructive and realistic for her future self. Alternately, Mandy’s leisure activity involved impossible daydreams:</p>
-<p><em>“I started daydreaming more ridiculous stuff… I know it’s never going to come true ‘cause it’s not real, but it still entertains me” (Mandy: lines 443-444)</em></p>
-<p>While Mandy seems to be under no illusion that her daydreams are feasible, daydreaming impossible scenarios appears to provide more of a release than realistic situations that are subject to ever changing government regulations (e.g. travel bans) that may fall through.</p>
+<p><strong>Extract 1 - from a study about the impact of the COVID
+pandemic</strong></p>
+<p>Sarah spoke of using her leisure time to plan and fantasise about her
+wedding:</p>
+<p><em>“it’s enough of a fantasy… it’s meant to be stressful, but it’s
+really just been fun. It’s like such a nice break from this humdrum life
+we’re living in right now” (Sarah: lines 459-461).</em></p>
+<p>Organising a significant life event seems to be viewed as granting
+Sarah an escape from her current monotony. While she refers to it as a
+“fantasy”, potentially given uncertainty of the pandemic’s progression,
+she appears to perceive this as constructive and realistic for her
+future self. Alternately, Mandy’s leisure activity involved impossible
+daydreams:</p>
+<p><em>“I started daydreaming more ridiculous stuff... I know it’s never
+going to come true ‘cause it’s not real, but it still entertains me”
+(Mandy: lines 443-444)</em></p>
+<p>While Mandy seems to be under no illusion that her daydreams are
+feasible, daydreaming impossible scenarios appears to provide more of a
+release than realistic situations that are subject to ever changing
+government regulations (e.g. travel bans) that may fall through.</p>
 </div>
 
 
 <div class="info">
-<p><strong>Extract 2 - from a study about social media use during the pandemic</strong></p>
-<p>Some participants said it was difficult to fall asleep at night, including those who knew they should fall asleep but could not (<em>“if I can’t stay up and can’t sleep”- Sarah</em>), or participants subjectively thought that they did not need sleep or did not want to fall asleep (<em>“I am not really able to sleep at night, or like, sleep isn’t really needed.”</em> -Andrew)</p>
-<p>Participants said that they used social media but that it was only positive at certain points:</p>
-<p><em>I feel like TikTok was fun in the first lockdown during the summer,’cause of all this summer content I guess, but after that it really went downhill. I don’t know like, OK personally I deleted all my apps about three weeks ago</em> (John)</p>
-<p>John tells us here that he deleted all his apps, because they all went ‘downhill’. Tik Tok was helpful during the first lockdown, but not after it.</p>
+<p><strong>Extract 2 - from a study about social media use during the
+pandemic</strong></p>
+<p>Some participants said it was difficult to fall asleep at night,
+including those who knew they should fall asleep but could not (<em>"if
+I can't stay up and can't sleep "- Sarah</em>), or participants
+subjectively thought that they did not need sleep or did not want to
+fall asleep (<em>"I am not really able to sleep at night, or like, sleep
+isn't really needed."</em> -Andrew)</p>
+<p>Participants said that they used social media but that it was only
+positive at certain points:</p>
+<p><em>I feel like TikTok was fun in the first lockdown during the
+summer,'cause of all this summer content I guess, but after that it
+really went downhill. I don't know like, OK personally I deleted all my
+apps about three weeks ago</em> (John)</p>
+<p>John tells us here that he deleted all his apps, because they all
+went ‘downhill’. Tik Tok was helpful during the first lockdown, but not
+after it.</p>
 </div>
 
 

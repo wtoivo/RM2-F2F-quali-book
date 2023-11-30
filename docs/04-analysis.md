@@ -174,15 +174,15 @@ Read [this handout](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertso
 
 <div class="info">
 <ul>
-<li>‘Natural’ gender difference</li>
-<li>Men’s body hair is natural</li>
+<li>'Natural' gender difference</li>
+<li>Men's body hair is natural</li>
 <li>Looks wrong when men remove hair</li>
 <li>Animal metaphor</li>
-<li>Men’s body hair is unpleasant</li>
+<li>Men's body hair is unpleasant</li>
 <li>Imperative to remove hair</li>
-<li>‘Ideal’ amount of hair</li>
+<li>'Ideal' amount of hair</li>
 <li>Back hair is ALWAYS excessive</li>
-<li>Men’s ‘excess’ body hair needs to be managed</li>
+<li>Men's 'excess' body hair needs to be managed</li>
 </ul>
 </div>
 

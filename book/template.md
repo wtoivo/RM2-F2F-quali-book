@@ -51,13 +51,13 @@ The Labs will be on the following topics:
 
 ## Week 1 Lab 1: What is qualitative research?
 
- - - -
+ - - - - 
 
 Key resources: 
 
 [Project timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EYepOBxHkIxKuULVqBmvGiMBk7KH4FlUNGMLWlpYNc7d4Q?e=6rgfh2)
 
- - - -
+ - - - - 
 
 In Lab 1, we will introduce you to qualitative research, and consider the differences between qualitative and quantitative. You will work together in groups to complete two activities. 
 
@@ -96,7 +96,7 @@ Choose whether a quantitative or qualitative design is most appropriate for each
 
 ## Week 2 Lab 2: Groupwork and RQs
 
- - - -
+ - - - - 
 
 Key resources: 
 
@@ -107,7 +107,7 @@ Key resources:
 [Group Agreement and task allocation template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A)
 
 
- - - -
+ - - - - 
 
 In Lab 2, you will form into the groups that you will  be in for the rest of the semester. You will be able to find your group in the spreadsheet at the bottom of the [Week 2 Moodle](https://moodle.gla.ac.uk/course/view.php?id=38155&section=3) (please note the spreadsheet will only become available once it has been released at the start of Week 2). In these groups, you will a) design, run and transcribe a focus group with a group in your lab as your participants, b) participate in another group's focus group, and c) write a qualitative group proposal. 
 
@@ -135,11 +135,11 @@ Once you've chosen a topic (you might not manage this in the lab, which is fine!
 
 ## Week 3 Lab 3: Ethics
 
- - - -
+ - - - - 
 
 Key resources: 
 
- - - -
+ - - - - 
 
 In Lab 3, we will cover ethics and you will complete two activities within your groups. 
 
@@ -264,13 +264,13 @@ affected negatively?”</p>
 
 ## Week 4 Lab 4: Developing Focus Group questions
 
- - - -
+ - - - - 
 
 Key resources:
 
 [Bank of questions for the focus groups](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions)
 
- - - -
+ - - - - 
 
 In Lab 4, we will work on developing questions for your focus group. We have made a [bank of questions](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions) available to you. Please select any questions that you would like to use and then adapt them to suit your research question. 
 
@@ -333,7 +333,7 @@ of their sense of belonging and homesickness</em></p>
 
 ## Week 5 Lab 5: Running a Focus Group
 
- - - -
+ - - - - 
 
 Key resources:
 
@@ -344,7 +344,7 @@ Key resources:
 [Consent Form template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ETFRTON4cnROjUYI6WGc2wIBzjmRkzk8kpDdH79asr27BQ?e=TBJ4S7)
 
 
- - - -
+ - - - - 
 
 In this week's lab, we will cover some key things that you will need to know in order to run a focus group. We also have some activities for you to do in groups. 
 
@@ -376,13 +376,13 @@ Note down some suggestions among the group about how you might manage these situ
 
 ## Week 7 Lab 6: Data processing and reflection
 
- - - -
+ - - - - 
 
 Key resources:
 
 [Reflection document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ES-Vc-s5kxZGo8wqcvvfmawBjrTG_q6WpNtTT18StzwS8w?e=aY8Pmx)
 
- - - -
+ - - - - 
 
 ### Lab 6 Activity 1: Anonymise the transcript
 
@@ -498,7 +498,7 @@ ever-changing landscape.</p>
 
 ## Week 9 Lab 8: Analysis (coding)
 
- - - -
+ - - - - 
 
 Key resources:
 
@@ -506,7 +506,7 @@ Key resources:
 
 [Code or theme activity handout](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ESNH19f8vxJFoNgOMxZjP_wB1y-fKWuxVythoLPYLAHJdA?e=CPhrx4)
 
- - - -
+ - - - -
 
 In this week's lab, we are going to focus on coding (i.e. step 2 of Thematic Analysis). We have two activities to support you in the coding stage of your data analysis. 
 
@@ -589,15 +589,13 @@ other issue.</p>
 
 ## Week 10 Lab 9: Analysis (themes)
 
- - - -
+ - - - - 
 
 Key resources:
 
-Lab 9 slides (**ADD LINK**)
-
 [Zombie Apocalypse transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi)
 
- - - -
+ - - - - 
 
 In today's lab (which is our last one in RM2), we have two activities to support you with developing themes using Thematic analysis. If there is time, you will also have the opportunity to get started on your analysis in Activity 3.
 

@@ -34,7 +34,7 @@ This book includes all the resources you need to complete the qualitative projec
 <!--chapter:end:index.Rmd-->
 
 # Labs
-In this chapter you will find the lab materials/activities. Slides will be linked in this chapter, but can be found on Moodle. Each lab focuses on supporting you with your qualitative project. As part of this project, you will complete two summative assessments (one as a group (30%) and one as an individual (50%)).
+In this chapter you will find the lab materials/activities. Slides will be linked in this chapter, but can be found on Moodle. Each lab focuses on supporting you with your qualitative project. As part of this project, you will complete two summative assessments: one as a group (30%) and one as an individual (50%).
 
 The Labs will be on the following topics:
 
@@ -386,7 +386,7 @@ Key resources:
 
 ### Lab 6 Activity 1: Anonymise the transcript
 
-Take a look at the short excerpt below. In your group, try to anonymise it, thinking about whether you would choose to redact or replace the information. 
+Take a look at the short excerpt below. In your group, try to anonymise it, thinking about whether you would choose to redact or replace the information.  
 
 <div class="info">
 <p><strong>Transcript:</strong></p>

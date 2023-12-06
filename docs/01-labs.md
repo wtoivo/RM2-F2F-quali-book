@@ -640,4 +640,4 @@ If your group has finished the first two activities, feel free to move on to wor
 - Pull up the data for your focus group
 - You can work on finalising the transcript/anonymisation, or start or continue working on your thematic analysis
 - If you'd prefer, you can also practise coding using the zombie apocalypse transcript
-- Your tutor and PhD tutor will come around – ask any questions you may have about Thematic Analysis and the report
+- Your tutor and PhD tutor will come around – ask any questions you may have about Thematic Analysis and the report 

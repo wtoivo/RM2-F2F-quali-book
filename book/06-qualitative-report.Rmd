@@ -1,4 +1,4 @@
-# Analysis and Summative Assessment: Qualitative report
+# Summative Assessment: Qualitative report
 
 
 ## Report Writing Guide

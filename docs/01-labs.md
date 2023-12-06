@@ -20,8 +20,6 @@ The Labs will be on the following topics:
 
 Key resources: 
 
-Lab 1 slides(**ADD LINK**) 
-
 [Project timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EYepOBxHkIxKuULVqBmvGiMBk7KH4FlUNGMLWlpYNc7d4Q?e=6rgfh2)
 
  - - -
@@ -67,8 +65,6 @@ Choose whether a quantitative or qualitative design is most appropriate for each
 
 Key resources: 
 
-Lab 2 slides - **ADD LINK**
-
 [Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide)
 
 [Group Agreement Info](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A)
@@ -107,8 +103,6 @@ Once you've chosen a topic (you might not manage this in the lab, which is fine!
  - - -
 
 Key resources: 
-
-Lab 3 slides **(ADD LINK)**
 
  - - -
 
@@ -184,7 +178,7 @@ The issues that should be discussed are:
 - Data Collection
 - Recording a focus group or interview
 - Anonymity
-- Confidentiility
+- Confidentiality
 
 
 ### Lab 3 Activity 2: Fictional focus group example
@@ -238,8 +232,6 @@ affected negatively?”</p>
  - - -
 
 Key resources:
-
-Lab 4 slides **(ADD LINK)**
 
 [Bank of questions for the focus groups](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-data-questions)
 
@@ -310,8 +302,6 @@ of their sense of belonging and homesickness</em></p>
 
 Key resources:
 
-Lab 5 slides **ADD SLIDES**
-
 [Checklist and task allocation for focus group](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EaGHiB_KPM1Jgn22rGnqVJ8BeLmxD2D2dDtiEBC0bE0FZQ?e=nRvCZQ) 
 
 [Information Sheet template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXjnUsZm6aFGhI5mX0E3tqoB8aI3vJRZCP7h4eAAfTqi7g?e=wJVIEz)
@@ -355,8 +345,6 @@ Note down some suggestions among the group about how you might manage these situ
 
 Key resources:
 
-Lab 6 slides (**ADD LINK**)
-
 [Reflection document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ES-Vc-s5kxZGo8wqcvvfmawBjrTG_q6WpNtTT18StzwS8w?e=aY8Pmx)
 
  - - -
@@ -396,7 +384,6 @@ Feedback is most useful when it is reflected on and incorporated into subsequent
 
 Key resources:
 
-Lab 7 slides (**ADD LINK**)
 
  - - -
 
@@ -485,8 +472,6 @@ ever-changing landscape.</p>
  - - -
 
 Key resources:
-
-Lab 8 slides (**ADD LINK**)
 
 [Trancript to code](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi)
 

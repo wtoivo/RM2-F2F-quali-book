@@ -164,7 +164,7 @@ At the same time, research into nature connectedness shows that engaging with na
 
 There are two important related concepts in nature connectedness literature.
 
-*access to nature* means the extent to which a person is in contact with nature, which can be measured objectively by logging location or looking at area maps. A lot of epidemiological studies use objective measures of green space access to see if it affects population health, while experimental studies can use nature contact interventions to see how people respond.
+*Access to nature* means the extent to which a person is in contact with nature, which can be measured objectively by logging location or looking at area maps. A lot of epidemiological studies use objective measures of green space access to see if it affects population health, while experimental studies can use nature contact interventions to see how people respond.
 
 *Nature connectedness/affiliation trait:* this means the personal characteristics that make a person appreciate nature more and is usually measured with self-report questionnaires. It has been defined as “individuals’ experiential sense of oneness with the natural world” (Mayer & Frantz, 2004). Smaller studies often look at how the trait of nature connectedness interacts with nature access to predict various aspects of wellbeing.
 

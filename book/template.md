@@ -2,7 +2,7 @@
 title: "RM2 F2F Qualitative Project Resources" # edit
 #subtitle: "optional" 
 author: "Wilhelmiina Toivo and Ashley Robertson" # edit
-date: "2023-12-06"
+date: "2023-12-07"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: oneside # for PDFs
@@ -845,7 +845,7 @@ At the same time, research into nature connectedness shows that engaging with na
 
 There are two important related concepts in nature connectedness literature.
 
-*access to nature* means the extent to which a person is in contact with nature, which can be measured objectively by logging location or looking at area maps. A lot of epidemiological studies use objective measures of green space access to see if it affects population health, while experimental studies can use nature contact interventions to see how people respond.
+*Access to nature* means the extent to which a person is in contact with nature, which can be measured objectively by logging location or looking at area maps. A lot of epidemiological studies use objective measures of green space access to see if it affects population health, while experimental studies can use nature contact interventions to see how people respond.
 
 *Nature connectedness/affiliation trait:* this means the personal characteristics that make a person appreciate nature more and is usually measured with self-report questionnaires. It has been defined as “individuals’ experiential sense of oneness with the natural world” (Mayer & Frantz, 2004). Smaller studies often look at how the trait of nature connectedness interacts with nature access to predict various aspects of wellbeing.
 
@@ -1125,21 +1125,29 @@ Remember that everyone (both those participating and running) the focus group ha
 
 ### Collecting demographics
 
-**IMAGES REQUIRED FROM THE SWAY** [Here](https://sway.office.com/O6RrqoSCeplEMKJf?ref=Link)
-
 It might be a good idea to collect demographics information  - discuss with your group what might be best to collect. Remember to only collect what you need to help the reader understand the context of your focus group. Demographics information must be collected using Microsoft Forms.
 
-Sign into microsoft forms and click new quiz
+Sign into Microsoft forms and click new quiz
 
-**ADD IMAGE**
+<div class="figure" style="text-align: center">
+<img src="images/new quiz.png" alt="How to make a new quiz" width="100%" />
+<p class="caption">(\#fig:img-newquiz)How to make a new quiz</p>
+</div>
 
 Then click add new question and you will be able to select the type of question. There are a number of options; it's most likely that choice (multiple choice) or text (open textbox) will be what you will use.
 
-**ADD IMAGE**
+<div class="figure" style="text-align: center">
+<img src="images/add questions.png" alt="Adding questions" width="100%" />
+<p class="caption">(\#fig:img-addingquestions)Adding questions</p>
+</div>
 
 Your first question should ask for the identifier. When you give the participants the consent form, there should be a number that you assign to them. This helps you link up the person and the demographics but without asking them to provide their name. 
 
-**ADD IMAGE**
+<div class="figure" style="text-align: center">
+<img src="images/demographics.png" alt="Linking demographics" width="100%" />
+<p class="caption">(\#fig:img-demographics)Linking demographics</p>
+</div>
+
 
 From here, you can add in the agreed questions from your group.
 
@@ -1211,7 +1219,7 @@ There is likely to be variety in the class in terms of how to manage group dynam
 
 You don’t have much control of the environment, as we are all doing our focus groups online using Microsoft Teams. It is not possible to do them in person due to logistical restraints (recording equipment and booking space) and you cannot use platforms other than Microsoft Teams due to logistics (Zoom is limited to 40 mins) as well as University requirements around GDPR.  
 
-You will be recording the visual and audio content of this focus group. Practice using the Teams environment with the rest of your group in advance. See this video (**ADD IN**) for help. 
+You will be recording the visual and audio content of this focus group. Practice using the Teams environment with the rest of your group in advance. See [this video](https://echo360.org.uk/media/ac9666b4-d793-4843-b3fe-070098e57110/public) for help. 
 
 Please press record before you start the focus group! You do not want to end the focus group and find out that you didn’t press the right button and the whole thing is gone. Just in case, a member of the group could be taking notes. This should never be the interviewer, as this would distract them from their task of understanding what is being said.  
 
@@ -1225,18 +1233,45 @@ Either way, you can write up a really strong project by being reflexive and cons
 
 #### Setting up and recording the online focus group
 
-- Pilot the focus group schedule on friends first
-  - are there any questions that need refined?
-- Do a test recording beforehand using Microsoft Teams and Microsoft Stream (transcription software). This should be done early enough that you can contact one of the Couse Leads if there are any issues. 
+  - Pilot the focus group schedule on friends first
+  - Are there any questions that need refined?
+  - Do a test recording beforehand using Microsoft Teams and Microsoft Stream (transcription software). This should be done early enough that you can contact one of the Course Leads if there are any issues. 
   - See the 15 minute video here for how to set up and record a Teams meeting and access the transcript. 
   - Did everything work okay in the test? Is there anything you are uncertain of? If there were any issues during the test (e.g. if you weren't able to access Stream), contact the Course Leads ASAP and let them know. 
 
 
 #### Downloading the transcript
 
-**IMAGES REQUIRED, SO ADD IN THIS SECTION FROM THE SWAY** [Here](https://sway.office.com/O6RrqoSCeplEMKJf?ref=Link)
+You can access the transcript on the teams chat that has been set up automatically
+when you record. Stream. You can either download it as a word doc or vtt text file.
 
-### GDPR compliance
+**Method 1**: Go to the chat for your recording and then select the three dots next to
+'transcript'. You can choose to download the transcript either as a word doc or a vtt. We
+recommend the word doc if it's available, but if not then the vtt will be fine.
+
+<div class="figure" style="text-align: center">
+<img src="images/downloading the transcript.png" alt="Downloading the data method 1" width="100%" />
+<p class="caption">(\#fig:img-download1)Downloading the data method 1</p>
+</div>
+
+**Method 2**: Click the link for the video in the chat. It might only be the person who
+recorded it who has access automatically, or it might be everyone in the chat. Click on
+'Transcription'. Please note that it will only be the .vtt file you get using this method.
+
+<div class="figure" style="text-align: center">
+<img src="images/downloading the transcript method 2.jpg" alt="Downloading the data method 2" width="100%" />
+<p class="caption">(\#fig:img-download2)Downloading the data method 2</p>
+</div>
+
+**Method 3**: If you log onto Stream directly, you can access all recordings - click on the
+relevant one and then follow the steps above (in Method 2) to access the transcript
+
+<div class="figure" style="text-align: center">
+<img src="images/downloading the transcript method 3.jpg" alt="Downloading the data method 3" width="100%" />
+<p class="caption">(\#fig:img-download3)Downloading the data method 3</p>
+</div>
+
+#### GDPR compliance
 
 **GDPR: general data protection regulation.** It is the most up to date data protection law.
 
@@ -1250,8 +1285,8 @@ For your project it is important that:
 - Make a copy of the recording from Stream onto a secure file sharing network (i.e. One Drive via Office 365). 
 - Delete the recording from Stream as soon as you have done this (double-/triple-check you have saved the recording properly beforehand!). 
 - Make sure that you only share the anonymised transcript with the group via One Drive.
-- **Do not share** via social media, google drive or personal email which is not secure. 
-- See the University guidelines on handling confidential data: https://www.gla.ac.uk/myglasgow/it/informationsecurity/confidentialdata/
+- **Do not share** via social media, Google Drive or personal email which is not secure. 
+- See the [University guidelines](https://www.gla.ac.uk/myglasgow/it/informationsecurity/confidentialdata/) on handling confidential data 
 
 
 ### Processing data: Transcribing
@@ -1329,11 +1364,11 @@ The [list of questions is available as a word document](https://gla-my.sharepoin
 
 #### Green Spaces
 
-- What green spaces on the university campus do you use?  
+- What green spaces on the university campus do you use? If you don't use any green spaces, why not? 
 - How does spending time in green spaces affect your stress levels? 
-- Can you think of a time where being in a greenspace influenced your mood? 
-- How does spending time in greenspaces affect other aspects of your life? 
-- How do you feel students benefit from greenspaces on campus?  
+- Can you think of a time where being in a green space influenced your mood? 
+- How does spending time in green spaces affect other aspects of your life? 
+- How do you feel students benefit from green spaces on campus?  
 - Can you think of a way the weather/environment could impact this? 
 - What would make you use green spaces more? 
 - What do you believe the university could do to improve the benefits of green spaces on campus? 
@@ -1347,24 +1382,23 @@ The [list of questions is available as a word document](https://gla-my.sharepoin
 - what are your motivations are for engaging with green spaces? 
 - Do you think that having grown up in a specific environment has shaped how you seek out green spaces when you're in a city? 
 - Are there any specific barriers that you have in your own life when it comes to engaging with green space, whether that's like green spaces in Glasgow or green spaces outside of Glasgow? 
-- how does seeing images of nature on social media make you feel? 
-- Does the point in time that you are seeing these photos (I.e. what season it is) change how you feel? 
-- can you think of a situation where social media encouraged you to go into nature? 
-- when you spend time in nature, do you find yourself like using social media or thinking about using social media? 
+- How does seeing images of nature on social media make you feel? 
+- Can you think of a situation where social media encouraged you to go into nature? 
+- when you spend time in nature, do you find yourself using social media or thinking about using social media? 
 - Are there any specific aspects of nature (e.g. plants, scenery) that you find helpful for your mental well-being?
-- Do you spend time in nature? - and how Can you describe your general experiences with spending time in nature?  
+- Do you spend time in nature? - and how can you describe your general experiences with spending time in nature?  
 - How do you feel after spending time in nature?   
 - Do you purposely use nature to improve your mental well-being and if so, in what ways?  
 - Can you describe a specific instance when you felt stressed or overwhelmed and how you used nature as a mechanism to recuperate your mental well-being?    
 - Considering the context of time (short and long term), how has the experience of using nature as a mechanism of recuperation impacted your overall mental well-being? 
-- do you have any green spaces that are kind of prominent in your daily life? 
-- how would you say you cope with stress with uni work or just general stresses in life? 
-- how do you perceive spending time in green spaces to impact your stress levels? 
-- would you say green spaces, like around campus or around your area, affect any other aspects of your life?
-- if you were to picture an ideal green space you could use within the campus, what would that look like? 
-- how do you feel that the weather might have an impact on you wanting to use green spaces? 
+- Do you have any green spaces that are kind of prominent in your daily life? 
+- How would you say you cope with stress with uni work or just general stresses in life? 
+- How do you perceive spending time in green spaces to impact your stress levels? 
+- Would you say green spaces around campus or around your area, affect any other aspects of your life? If so, how? If not, why not?
+- If you were to picture an ideal green space you could use within the campus, what would that look like? 
+- How do you feel that the weather might have an impact on you wanting to use green spaces? 
 - How do you feel students might benefit from green spaces on campus? 
-- what you believe the university could do to improve the benefits of green spaces on campus? 
+- what do you believe the university could do to improve the benefits of green spaces on campus? 
 - when you're feeling really stressed what kind of things would you try and do to make yourself feel better? 
 
 #### Mental Health and Wellbeing
@@ -1378,7 +1412,7 @@ The [list of questions is available as a word document](https://gla-my.sharepoin
 - How do you think stress affects (postgraduate) students? 
 - Can you describe what has contributed to your psychological wellbeing during postgraduate study? 
 - Has your psychological wellbeing changed between your undergraduate and postgraduate degree? If so, how? If not, why do you think not? 
-- How do you think doing a postgraduate course might affect students’ mental health and wellbeing?  
+- How do you think doing a postgraduate course might affect students’ mental health and wellbeing?
 - How might doing a conversion course in particular impact on students help-seeking behaviours?  
 - How do you perceive the mental health and well-being status of conversion course postgraduates?  
 - What are some of the factors you think influence student mental health? Think about both positive and negative influences. 

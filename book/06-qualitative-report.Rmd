@@ -9,10 +9,9 @@ This section is intended to help you in the write up of your qualitative project
 - [Feedback Information Sheet](https://sway.office.com/cFEJyYoDgSaz2oTt?ref=Link)
 - The feedback your group received on your group proposal
 - The feedback you received from RM1
-- Clarke & Braun (2013) have an excellent chapter on writing up qualitative research (WHICH CHAPTER? ADD LINK)
-- Braun & Clark (2006) paper (ADD LINK)
-- Constructing a narrative in TA video (password is Narrative1!) which is available on moodle (ADD LINK)
-- Published articles which use a Thematic Analysis (LINK TO READING LIST)
+- [Braun & Clark (2006) paper](https://www.tandfonline.com/doi/abs/10.1191/1478088706QP063OA)
+- [Constructing a narrative in TA video](https://uofglasgow.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=us02&componentName=need-password&meetingId=Csf5XCNoFQf2J3jLF4e_J_r1gkfbAZpR4pVatJouMY8TcOsJSv_TxegIL_cIk_eG.H1YwSf33hRnck_se&originRequestUrl=https%3A%2F%2Fuofglasgow.zoom.us%2Frec%2Fshare%2Fs8qpzBlywcjCIntVoq662nde6lHp690IR5yNk7uF-AnqiutBPz7YlGnO8pwJT-np.DAknYyUZ6GHPw1bK%3FstartTime%3D1614861285000). The password is Narrative1!
+- [Published articles which use a Thematic Analysis](https://rl.talis.com/3/glasgow/lists/BD0B1666-4680-8962-715B-1D02A0EB769B.html?embed=1&lang=en&lti_relink_url=https:%2F%2Fglasgow.rl.talis.com%2Flti%2Flaunch.html%3Foauth_consumer_key%3D108BC128-BDFA-D97F-D691-9F6B0DBC6F77%26roles%3DInstructor%26context_id%3D38155%26context_label%3DMSc%2528Conv%2529%2BResearch%2BMethods%2B2%2B%2528PSYCH5089%2529%2B2023-24%26context_title%3DMSc%2528Conv%2529%2BResearch%2BMethods%2B2%2B%2528PSYCH5089%2529%2B2023-24%26resource_link_id%3D79832%26custom_node_code_regex%3D%252F%255E%2528.%252A%2529%2524%252F%26custom_node_code_replacement%3D%2524%257B1%257D%26relink%3Dtrue%26embed%3Dtrue%26signature%3Dfed281cd3416c9b73ec0bc9d9ad4a53b1b17e50dc27ddd48d9b662ada8e2f9eb)
 - Helpful resources for APA formatting are [OWL Purdue](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html)
 - Materials from [the labs](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html) and [APA Style](https://apastyle.apa.org/style-grammar-guidelines)
 - We have developed a resource of [Frequently Asked Questions](https://wtoivo.github.io/RM2-F2F-quali-book/frequently-asked-questions.html) from previous cohorts
@@ -53,13 +52,11 @@ In an academic journal, the function of an abstract is to allow the reader to de
 
 ## Introduction (suggested word count: 700-800 words)
 
-**NOTE TO WIL - DO WE NEED TO INCLUDE THE IMAGE THAT IS IN THE SWAY? IF SO, HOW? ALSO PERHAPS WE REVISE THIS SECTION A LITTLE TO REDUCE THE FOCUS ON FINDING A GAP**
-
 ---
-A resource for helping you to develop evaluation in your Introduction can be found in the Week X lab materials **(ADD LINK AND CHANGE THE WEEK NUMBER)**
+A resource for helping you to develop evaluation in your Introduction can be found in the [Week 8 lab materials](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#week-8-lab-7-evaluation-in-the-introduction-and-discussion)
 ---
 
-The aim of the introduction is to provide the reader with the necessary background to interpret your rationale for further research  -  this is true whether you are using qualitative or quantitative led enquiry.   You are expected to provide a detailed, critical literature review of relevant, published research  (quantitative and/or qualitative) for this topic/area. Identify the key issues and debates, and use these to develop an argument for your study. As with any introduction to an APA research report, you should develop the introduction using the' funnel approach'. You start with a broad overview of the topic and get more and more specific, until you arrive at the rationale for 'your' research and of course the research question(s).
+The aim of the introduction is to provide the reader with the necessary background to interpret your rationale for further research  -  this is true whether you are using qualitative or quantitative led enquiry. You are expected to provide a detailed, critical literature review of relevant, published research  (quantitative and/or qualitative) for this topic/area. Identify the key issues and debates, and use these to develop an argument for your study. As with any introduction to an APA research report, you should develop the introduction using the' funnel approach'. You start with a broad overview of the topic and get more and more specific, until you arrive at the rationale for 'your' research and of course the research question(s).
 
 Remember you have a limited number of words to say all of this, so your literature review should focus on relevant and recent articles in the area that have influenced your choice of research question.  Do try to locate the most recent examples of qualitative research in this well defined topic area - take the reader to the last example of relevant research and say how you plan to 'build' on this research - helping to create a great rationale! The [topic guide](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-preparation-group.html#topic-guide) cites a number of relevant studies.  Identify the most relevant studies, and you are also expected to find your own research articles related to your research question. Remember to reference all sources of information in the text (for example, government reports, websites, media reports).  
 
@@ -81,7 +78,7 @@ The aim of the method section is to clearly report how your study was conducted 
 
 ### Participants & Recruitment
 
-How many, who were they? Include their age, gender and nationality if known. How were they sampled? Why were your participants right for the study? In this study, participants were sampled from a group of PG students as part of their course requirements.  A table of relevant participant characteristics is recommended - please see the example here **IMAGE OF TABLE NEEDS TO BE INCLUDED/LINK TO THE WORD DOC (ALTHOUGH CHECK THE DOC!)**
+How many, who were they? Include their age, gender and nationality if known. How were they sampled? Why were your participants right for the study? In this study, participants were sampled from a group of PG students as part of their course requirements.  A table of relevant participant characteristics is recommended - please see the example in [this document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQcRFFUCP9xNj7kIGp0G2ykB4BW_w2va1gJyie43CRhDpw?e=AvfQMT)
 
 APA Styles has more information about how to report [tables in APA format](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables)
 
@@ -100,10 +97,10 @@ In the method section, you should also include a ‘Reflexive Analysis’. In qu
 ### Data Analysis  
 
 In this section, report the following: 
-- details on how was the data prepared for the analysis (e.g., did you use any software for transcription? What about approach to transcription? How did you anonymise the data  - did you replace or redact identifiable information, were participants given pseudonyms etc.?) 
-- details on the analysis you are using 
-- briefly outline the your theoretical approach (look back at the lecture on theoretical perspectives for help with this if needed)
-- outline the different stages of the analysis. Qualitative analysis is accused of being fluffy/opaque sometimes. BE SPECIFIC about the stages of analysis. It's good practice at this stage to refer directly to a methodologists guidelines (e.g. Smith IPA, B and C for TA etc). Literally outline it as STAGE1: STAGE 2: etc.  For the project, 2-3 sentences outlining the stages is sufficient (i.e. here, we mean in total, NOT per stage).  A high quality account of the approach to analysis should offer transparency - try to 'open up the box' to be clear about what goes on between noting codes and arriving at themes.  Remember that the researcher observes themes in the data  - they do not *emerge*
+- Details on how was the data prepared for the analysis (e.g., did you use any software for transcription? What about approach to transcription? How did you anonymise the data  - did you replace or redact identifiable information, were participants given pseudonyms etc.?) 
+- Details on the analysis you are using 
+- Briefly outline the your theoretical approach (look back at the lecture on theoretical perspectives for help with this if needed)
+- Outline the different stages of the analysis. Qualitative analysis is accused of being fluffy/opaque sometimes. BE SPECIFIC about the stages of analysis. It's good practice at this stage to refer directly to a methodologists guidelines (e.g. Smith IPA, B and C for TA etc). Literally outline it as STAGE1: STAGE 2: etc.  For the project, 2-3 sentences outlining the stages is sufficient (i.e. here, we mean in total, NOT per stage).  A high quality account of the approach to analysis should offer transparency - try to 'open up the box' to be clear about what goes on between noting codes and arriving at themes.  Remember that the researcher observes themes in the data  - they do not *emerge*
 
 **TABLE IS MISSING**
 
@@ -124,14 +121,15 @@ Due to the word limit we recommend that you:
 - Include key quotes to support each theme (include the Pseudonym/participant number). You are likely to have a mix of longer and shorter quotes. A ballpark number might be 3-5 quotes for each theme. 
 - If you want to use a quote that is too long – or includes unnecessary detail – you can remove part of the text and replace it with ellipses. 
 
-**TABLE IS MISSING**
+```{r img-analysis, echo=FALSE, fig.cap="What to aim for and avoid for analysis"}
+knitr::include_graphics("images/analysis.jpg")
+```
 
-**NOTE TO WIL - I'VE REMOVED THE BIT ABOUT ALTERING THE WORDS/TEXT BEING UNACCEPTABLE, AS OUR GENERAL LINE HAS PREVIOUSLY BEEN THAT MINOR CLEANING IS OKAY AS LONG AS THEY REPORT IT IN THE METHODS. PERHAPS WE THINK OF SOMETHING TO REPLACE IT OR PUT A QUESTION IN THE FAQS?**
 
 ## Discussion (suggested word count: 750-850 words)
 
 ---
-A resource for helping you to develop evaluation in your Discussion can be found in the Week X lab materials **(ADD LINK AND CHANGE THE WEEK NUMBER)**
+A resource for helping you to develop evaluation in your Discussion can be found in the Week 8 [lab materials](https://wtoivo.github.io/RM2-F2F-quali-book/labs.html#week-8-lab-7-evaluation-in-the-introduction-and-discussion)
 ---
 
 The aim of the discussion is to summarise and explain your overall findings and consider how they help inform the research questions.  It will be necessary to consider the findings in relation to previous research and theories (that are referenced in the Introduction).  You should also discuss any practical implications of your findings, methodological limitations, and suggestions for further research.

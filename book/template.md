@@ -2,7 +2,7 @@
 title: "RM2 F2F Qualitative Project Resources" # edit
 #subtitle: "optional" 
 author: "Wilhelmiina Toivo and Ashley Robertson" # edit
-date: "2023-12-07"
+date: "2023-12-11"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: oneside # for PDFs
@@ -1930,7 +1930,6 @@ In this section, report the following:
 - Briefly outline the your theoretical approach (look back at the lecture on theoretical perspectives for help with this if needed)
 - Outline the different stages of the analysis. Qualitative analysis is accused of being fluffy/opaque sometimes. BE SPECIFIC about the stages of analysis. It's good practice at this stage to refer directly to a methodologists guidelines (e.g. Smith IPA, B and C for TA etc). Literally outline it as STAGE1: STAGE 2: etc.  For the project, 2-3 sentences outlining the stages is sufficient (i.e. here, we mean in total, NOT per stage).  A high quality account of the approach to analysis should offer transparency - try to 'open up the box' to be clear about what goes on between noting codes and arriving at themes.  Remember that the researcher observes themes in the data  - they do not *emerge*
 
-**TABLE IS MISSING**
 
 ## Analysis (suggested word count: 750-900 words)
 
@@ -1938,9 +1937,9 @@ Your analysis section is the part of the project where you show the evidence you
 
 The aim is to make your analysis as transparent as possible, so that anyone can see how you have arrived at your interpretations from your transcript. Quotes and the narrative you develop in this section should be supported using sections taken from the transcript. Start by giving an overview of the main themes in a paragraph (there should be no quotes at this time), then present your first themes, inserting supporting quotes at appropriate points.
 
-Guidelines for presenting quotes from participants in APA format can be found in [the relevant section in APA Styles](https://apastyle.apa.org/style-grammar-guidelines/citations/quoting-participants). Further guidance is included in this document. **ADD LINK** 
+Guidelines for presenting quotes from participants in APA format can be found in [the relevant section in APA Styles](https://apastyle.apa.org/style-grammar-guidelines/citations/quoting-participants). Further guidance is included in [this document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQcRFFUCP9xNj7kIGp0G2ykB4BW_w2va1gJyie43CRhDpw?e=AvfQMT). 
 
-PLEASE NOTE: most qualitative analyses require you to provide some analytical commentary after each quote. See the Constructing a Narrative in TA video (link is at [the top of this page](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-report.html#using-this-report-writing-guide)) and the Braun & Clarke (2013) text (chapter Ch 11) for examples for analytical commentary (**ADD LINK**)
+PLEASE NOTE: most qualitative analyses require you to provide some analytical commentary after each quote. See the Constructing a Narrative in TA video (link is at [the top of this page](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-report.html#using-this-report-writing-guide)) and the Braun & Clarke (2013) text [chapter 11](https://elevate.talis.com/glasgow/player/modules/5f55ffaa3f2b343bc876562b/textbooks/5f5607666d79536ec4fbb953?page=10) for examples for analytical commentary
 
 Due to the word limit we recommend that you:
 
@@ -1975,7 +1974,11 @@ Obviously you only spoke to one group of people and these were a fairly homogeni
 
 Think of your research project as an apprenticeship. We are not looking for you to do the perfect research project at your first attempt so don’t be shy about pointing out the things you could have done better. But be constructive. It’s not so much about telling us what you did wrong, as telling us what you have learned and how you would improve this study if you got another chance.
 
-**IMAGE IS MISSING**
+<div class="figure" style="text-align: center">
+<img src="images/discussion.png" alt="Narrow-to-broad structure of a discussion" width="100%" />
+<p class="caption">(\#fig:img-discussion)Narrow-to-broad structure of a discussion</p>
+</div>
+
 
 ### Suggestions for future research
 
@@ -1999,14 +2002,14 @@ Your group will be asked to upload the transcript to Moodle before the submissio
 
 ## Further reading 
 
-The RM2 reading list (**ADD LINK**) has examples of how qualitative research is presented and written up.  The APA Reporting Standards for Psychological Research (**ADD LINK**) provide comprehensive guidance on how to meet APA style journal article reporting standards in a qualitative article.  These APA guidelines are very detailed and go beyond the scope of what you need to report in the qualitative report, but do provide insight into how to report methods and analysis in a transparant way.
+The RM2 reading list has examples of how qualitative research is presented and written up.  [The APA Reporting Standards for Psychological Research](https://apastyle.apa.org/jars/qual-table-1.pdf) provide comprehensive guidance on how to meet APA style journal article reporting standards in a qualitative article.  These APA guidelines are very detailed and go beyond the scope of what you need to report in the qualitative report, but do provide insight into how to report methods and analysis in a transparent way.
 
 For those who want to really dive into thematic analysis, you can find further resources [here](https://www.thematicanalysis.net/resources-for-ta/)
 
 If in doubt consult the guidance in this book, the assessment information sheet for the course and ask on the Teams channel. 
 
 ---
-For information, the authors of this qualitative report writing guide are: Maxine Swingler, Gillian Hendry, Kate Reid. It has then been adapted by Ashley Robertson and Wil Toivo for Research Methods 2.
+For information, the authors of this qualitative report writing guide are: Maxine Swingler, Gillian Hendry, Kate Reid. It has then been adapted by Ashley Robertson and Wilhelmiina Toivo for Research Methods 2.
 
 Attribution 4.0 International (CC BY-SA 4.0)
 
@@ -2044,49 +2047,41 @@ The main aspects of the report that are fixed are the data collection and data a
 
 **6. How should I manage my time on RM2? There are a few different ways to prioritise things**
 
-We have developed a **suggested timeline (ADD IN LINK)** for the project, which breaks down tasks for each week. This would serve as a good start for you to manage your time effectively, and you can alter it as required. We have placed this timeline at the top of the different sections within this book, so it is prominent.
+We have developed a [suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EYepOBxHkIxKuULVqBmvGiMBk7KH4FlUNGMLWlpYNc7d4Q?e=svquBN) for the project, which breaks down tasks for each week. This would serve as a good start for you to manage your time effectively, and you can alter it as required. We have placed this timeline at the top of the different sections within this book, so it is prominent.
 
 ## Group Proposal
 
-**1. Two sections are outlined for the group proposal: Rationale and RQ – Is the RQ section just a summary of the rationale and methodologies, then finish by stating the question?**
-
-The rationale section should provide the background that you are asked for in the sway (e.g. presenting literature related to the topic, justifying the aims of the project, outlining the advantages of a qualitative approach/data collection choice). The research question is likely best presented by following on from the rationale (i.e. just stating the question). 
-
-**2. Do we have to consider ontology/epistemology in the group proposal?**
+**1. Do we have to consider ontology/epistemology in the group proposal?**
 
 No, although you can if you want. We do, however, ask you to consider this in your individual qualitative report. 
 
-**3. Is there a suggested structure for the group proposal?**
+**2. Is there a suggested structure for the group proposal?**
 
-We encourage you to develop your own structure; there is no one 'right answer'. However, as described in the [Group  proposal section](https://wtoivo.github.io/RM2-F2F-quali-book/group-proposal.html), we ask you to cover the following areas in your submission:
+We have split the proposal into separate sections to guide you with the structure; see more information in the [Group  proposal section](https://wtoivo.github.io/RM2-F2F-quali-book/group-proposal.html). In addition to presenting your research question, we ask you to cover the following three areas in your submission:
 
-- What is the literature base for your topic area? 
-- What theories/theoretical perspectives might be relevant for your topic? 
-- What's the justification for your particular topic? Are there any gaps your research plans to fill? Is there a need for further research?
-- Why use a qualitative approach? How will a qualitative approach help you answer your research question? Why use focus groups for your study? Why focus on this particular sample?
-- What is your Research question? Is it clearly justified by the Rationale?
+  - Background to the topic
+  - Rationale for your study
+  - Ethical considerations
 
 Remember that we use the ILOs to mark the assessment (you can find these in the [Assessment Information Sheet](https://sway.office.com/24HjN5qL393jGIG2?ref=Link)), so you should use these as guidance. 
 
-**4. Should  we talk about our actual methodology eg. Teams, how many questions, use of camera etc in the rationale?**
+**3. Should  we talk about our actual methodology eg. Teams, how many questions, use of camera etc in the rationale?**
 
-*ADD IN RESPONSE TO THIS (ALTHOUGH THE SHORT ANSWER IS NO...)*
+No, this information is more important for your method section in the full report. You should talk about why you are using qualitative methods, why you are studying this particular sample and why focus group is the appropriate methodology for your RQ.  
 
-**5. Is there a rough word count for each section of the rationale?  I’ve outlined our structure below.  Does that look about right? Intro, Lit review and gaps, Methodologies (quant vs qual and FG), Summary and RQ**
+**4. Is there a rough word count for each section of the rationale?**
 
-There isn't a specific word count for each section, as it's more about what you say, rather than how many words you say it in.  I think that it's likely that lit review (plus gaps) and your methodologies sections would likely be bigger sections than the rest, if that's helpful.
+You can see a suggested word count for each section on the [Group Proposal template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ET1LYxgoh45MmKwGd8RDvd4BSwnVG6OS83xf3NM6YkEn3g?e=o4B5Gt)
 
-I think the structure you've mentioned above seems broadly sensible to me, although  - if you include an introduction and summary  - I would make sure that these add something, and that they don't repeat information that is contained elsewhere in the Rationale. It's only 1000 words, so doesn't need to be structured like you would an essay. The key thing is to make sure you hit on all the points asked for. If you are unsure, do get in touch with Ashley/Wil or your tutor to clarify. 
+**5. Is the group proposal similar to the introduction part of the final report? As it covers literature search, the rationale and RQ?**
 
-**6. Is the group proposal similar to the introduction part of the final report? As it covers literature search, the lit gap and RQ?**
+The proposal is designed to help you write the full individual report; you can use parts of the proposal to build your introduction (we expect you to expand on this, but the literature search and argument construction you do for the proposal will help with the introduction). The ethics section will help you with methods.
 
-*NEW ANSWER TO THIS ONCE FINALISED THE ASSESSMENT*
-
-**7. Can we slightly change the topic to look at a particular aspect (e.g. look at belonging in international students from China) or do we have to stick very closely to the topic guide?**
+**6. Can we slightly change the topic to look at a particular aspect (e.g. look at belonging in international students from China) or do we have to stick very closely to the topic guide?**
 
 You can alter it s long as it is still broadly under the topic, but remember that this will have a knock-on impact on the questions you can use (e.g. you might have to add some to those available in the question bank). You are allocated another group in your lab rather than recruiting yourself, so you would need to make sure that the characteristics of the participants in your allocated group are relevant for the research question you have chosen. 
 
-**8. For the literature review in the rationale, can I use articles that are older than 5 years? As sometimes I might open a recent article (e.g. 2021) but it references inside it a study done in (eg.2014) so can I still cite that?**
+**7. For the literature review in the rationale, can I use articles that are older than 5 years? As sometimes I might open a recent article (e.g. 2021) but it references inside it a study done in (eg.2014) so can I still cite that?**
 
 Yes, this is fine - try to generally use up to date references where you can, but having a mix of older and more recent studies is fine :). You are not banned from using older studies completely!
 

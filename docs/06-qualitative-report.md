@@ -102,7 +102,6 @@ In this section, report the following:
 - Briefly outline the your theoretical approach (look back at the lecture on theoretical perspectives for help with this if needed)
 - Outline the different stages of the analysis. Qualitative analysis is accused of being fluffy/opaque sometimes. BE SPECIFIC about the stages of analysis. It's good practice at this stage to refer directly to a methodologists guidelines (e.g. Smith IPA, B and C for TA etc). Literally outline it as STAGE1: STAGE 2: etc.  For the project, 2-3 sentences outlining the stages is sufficient (i.e. here, we mean in total, NOT per stage).  A high quality account of the approach to analysis should offer transparency - try to 'open up the box' to be clear about what goes on between noting codes and arriving at themes.  Remember that the researcher observes themes in the data  - they do not *emerge*
 
-**TABLE IS MISSING**
 
 ## Analysis (suggested word count: 750-900 words)
 
@@ -110,9 +109,9 @@ Your analysis section is the part of the project where you show the evidence you
 
 The aim is to make your analysis as transparent as possible, so that anyone can see how you have arrived at your interpretations from your transcript. Quotes and the narrative you develop in this section should be supported using sections taken from the transcript. Start by giving an overview of the main themes in a paragraph (there should be no quotes at this time), then present your first themes, inserting supporting quotes at appropriate points.
 
-Guidelines for presenting quotes from participants in APA format can be found in [the relevant section in APA Styles](https://apastyle.apa.org/style-grammar-guidelines/citations/quoting-participants). Further guidance is included in this document. **ADD LINK** 
+Guidelines for presenting quotes from participants in APA format can be found in [the relevant section in APA Styles](https://apastyle.apa.org/style-grammar-guidelines/citations/quoting-participants). Further guidance is included in [this document](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EQcRFFUCP9xNj7kIGp0G2ykB4BW_w2va1gJyie43CRhDpw?e=AvfQMT). 
 
-PLEASE NOTE: most qualitative analyses require you to provide some analytical commentary after each quote. See the Constructing a Narrative in TA video (link is at [the top of this page](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-report.html#using-this-report-writing-guide)) and the Braun & Clarke (2013) text (chapter Ch 11) for examples for analytical commentary (**ADD LINK**)
+PLEASE NOTE: most qualitative analyses require you to provide some analytical commentary after each quote. See the Constructing a Narrative in TA video (link is at [the top of this page](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-report.html#using-this-report-writing-guide)) and the Braun & Clarke (2013) text [chapter 11](https://elevate.talis.com/glasgow/player/modules/5f55ffaa3f2b343bc876562b/textbooks/5f5607666d79536ec4fbb953?page=10) for examples for analytical commentary
 
 Due to the word limit we recommend that you:
 
@@ -147,7 +146,11 @@ Obviously you only spoke to one group of people and these were a fairly homogeni
 
 Think of your research project as an apprenticeship. We are not looking for you to do the perfect research project at your first attempt so don’t be shy about pointing out the things you could have done better. But be constructive. It’s not so much about telling us what you did wrong, as telling us what you have learned and how you would improve this study if you got another chance.
 
-**IMAGE IS MISSING**
+<div class="figure" style="text-align: center">
+<img src="images/discussion.png" alt="Narrow-to-broad structure of a discussion" width="100%" />
+<p class="caption">(\#fig:img-discussion)Narrow-to-broad structure of a discussion</p>
+</div>
+
 
 ### Suggestions for future research
 
@@ -171,14 +174,14 @@ Your group will be asked to upload the transcript to Moodle before the submissio
 
 ## Further reading 
 
-The RM2 reading list (**ADD LINK**) has examples of how qualitative research is presented and written up.  The APA Reporting Standards for Psychological Research (**ADD LINK**) provide comprehensive guidance on how to meet APA style journal article reporting standards in a qualitative article.  These APA guidelines are very detailed and go beyond the scope of what you need to report in the qualitative report, but do provide insight into how to report methods and analysis in a transparant way.
+The RM2 reading list has examples of how qualitative research is presented and written up.  [The APA Reporting Standards for Psychological Research](https://apastyle.apa.org/jars/qual-table-1.pdf) provide comprehensive guidance on how to meet APA style journal article reporting standards in a qualitative article.  These APA guidelines are very detailed and go beyond the scope of what you need to report in the qualitative report, but do provide insight into how to report methods and analysis in a transparent way.
 
 For those who want to really dive into thematic analysis, you can find further resources [here](https://www.thematicanalysis.net/resources-for-ta/)
 
 If in doubt consult the guidance in this book, the assessment information sheet for the course and ask on the Teams channel. 
 
 ---
-For information, the authors of this qualitative report writing guide are: Maxine Swingler, Gillian Hendry, Kate Reid. It has then been adapted by Ashley Robertson and Wil Toivo for Research Methods 2.
+For information, the authors of this qualitative report writing guide are: Maxine Swingler, Gillian Hendry, Kate Reid. It has then been adapted by Ashley Robertson and Wilhelmiina Toivo for Research Methods 2.
 
 Attribution 4.0 International (CC BY-SA 4.0)
 

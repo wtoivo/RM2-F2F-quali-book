@@ -28,49 +28,41 @@ The main aspects of the report that are fixed are the data collection and data a
 
 **6. How should I manage my time on RM2? There are a few different ways to prioritise things**
 
-We have developed a **suggested timeline (ADD IN LINK)** for the project, which breaks down tasks for each week. This would serve as a good start for you to manage your time effectively, and you can alter it as required. We have placed this timeline at the top of the different sections within this book, so it is prominent.
+We have developed a [suggested timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EYepOBxHkIxKuULVqBmvGiMBk7KH4FlUNGMLWlpYNc7d4Q?e=svquBN) for the project, which breaks down tasks for each week. This would serve as a good start for you to manage your time effectively, and you can alter it as required. We have placed this timeline at the top of the different sections within this book, so it is prominent.
 
 ## Group Proposal
 
-**1. Two sections are outlined for the group proposal: Rationale and RQ – Is the RQ section just a summary of the rationale and methodologies, then finish by stating the question?**
-
-The rationale section should provide the background that you are asked for in the sway (e.g. presenting literature related to the topic, justifying the aims of the project, outlining the advantages of a qualitative approach/data collection choice). The research question is likely best presented by following on from the rationale (i.e. just stating the question). 
-
-**2. Do we have to consider ontology/epistemology in the group proposal?**
+**1. Do we have to consider ontology/epistemology in the group proposal?**
 
 No, although you can if you want. We do, however, ask you to consider this in your individual qualitative report. 
 
-**3. Is there a suggested structure for the group proposal?**
+**2. Is there a suggested structure for the group proposal?**
 
-We encourage you to develop your own structure; there is no one 'right answer'. However, as described in the [Group  proposal section](https://wtoivo.github.io/RM2-F2F-quali-book/group-proposal.html), we ask you to cover the following areas in your submission:
+We have split the proposal into separate sections to guide you with the structure; see more information in the [Group  proposal section](https://wtoivo.github.io/RM2-F2F-quali-book/group-proposal.html). In addition to presenting your research question, we ask you to cover the following three areas in your submission:
 
-- What is the literature base for your topic area? 
-- What theories/theoretical perspectives might be relevant for your topic? 
-- What's the justification for your particular topic? Are there any gaps your research plans to fill? Is there a need for further research?
-- Why use a qualitative approach? How will a qualitative approach help you answer your research question? Why use focus groups for your study? Why focus on this particular sample?
-- What is your Research question? Is it clearly justified by the Rationale?
+  - Background to the topic
+  - Rationale for your study
+  - Ethical considerations
 
 Remember that we use the ILOs to mark the assessment (you can find these in the [Assessment Information Sheet](https://sway.office.com/24HjN5qL393jGIG2?ref=Link)), so you should use these as guidance. 
 
-**4. Should  we talk about our actual methodology eg. Teams, how many questions, use of camera etc in the rationale?**
+**3. Should  we talk about our actual methodology eg. Teams, how many questions, use of camera etc in the rationale?**
 
-*ADD IN RESPONSE TO THIS (ALTHOUGH THE SHORT ANSWER IS NO...)*
+No, this information is more important for your method section in the full report. You should talk about why you are using qualitative methods, why you are studying this particular sample and why focus group is the appropriate methodology for your RQ.  
 
-**5. Is there a rough word count for each section of the rationale?  I’ve outlined our structure below.  Does that look about right? Intro, Lit review and gaps, Methodologies (quant vs qual and FG), Summary and RQ**
+**4. Is there a rough word count for each section of the rationale?**
 
-There isn't a specific word count for each section, as it's more about what you say, rather than how many words you say it in.  I think that it's likely that lit review (plus gaps) and your methodologies sections would likely be bigger sections than the rest, if that's helpful.
+You can see a suggested word count for each section on the [Group Proposal template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ET1LYxgoh45MmKwGd8RDvd4BSwnVG6OS83xf3NM6YkEn3g?e=o4B5Gt)
 
-I think the structure you've mentioned above seems broadly sensible to me, although  - if you include an introduction and summary  - I would make sure that these add something, and that they don't repeat information that is contained elsewhere in the Rationale. It's only 1000 words, so doesn't need to be structured like you would an essay. The key thing is to make sure you hit on all the points asked for. If you are unsure, do get in touch with Ashley/Wil or your tutor to clarify. 
+**5. Is the group proposal similar to the introduction part of the final report? As it covers literature search, the rationale and RQ?**
 
-**6. Is the group proposal similar to the introduction part of the final report? As it covers literature search, the lit gap and RQ?**
+The proposal is designed to help you write the full individual report; you can use parts of the proposal to build your introduction (we expect you to expand on this, but the literature search and argument construction you do for the proposal will help with the introduction). The ethics section will help you with methods.
 
-*NEW ANSWER TO THIS ONCE FINALISED THE ASSESSMENT*
-
-**7. Can we slightly change the topic to look at a particular aspect (e.g. look at belonging in international students from China) or do we have to stick very closely to the topic guide?**
+**6. Can we slightly change the topic to look at a particular aspect (e.g. look at belonging in international students from China) or do we have to stick very closely to the topic guide?**
 
 You can alter it s long as it is still broadly under the topic, but remember that this will have a knock-on impact on the questions you can use (e.g. you might have to add some to those available in the question bank). You are allocated another group in your lab rather than recruiting yourself, so you would need to make sure that the characteristics of the participants in your allocated group are relevant for the research question you have chosen. 
 
-**8. For the literature review in the rationale, can I use articles that are older than 5 years? As sometimes I might open a recent article (e.g. 2021) but it references inside it a study done in (eg.2014) so can I still cite that?**
+**7. For the literature review in the rationale, can I use articles that are older than 5 years? As sometimes I might open a recent article (e.g. 2021) but it references inside it a study done in (eg.2014) so can I still cite that?**
 
 Yes, this is fine - try to generally use up to date references where you can, but having a mix of older and more recent studies is fine :). You are not banned from using older studies completely!
 

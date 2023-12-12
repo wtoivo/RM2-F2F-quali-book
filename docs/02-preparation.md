@@ -146,7 +146,7 @@ You should use this topic guide to help you plan your study, and support you wit
 
 After the four topics have been presented, we will provide some information about your rationale, and also some key steps for moving forward.
 
-**Three topics of research:** 
+**Three research topics:** 
 
 1. Nature access, nature connectedness and wellbeing
 2. Students and mental health

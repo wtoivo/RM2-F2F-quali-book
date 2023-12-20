@@ -44,7 +44,6 @@ qualitative-project-preparation-group
 overview-1
 project-components
 suggested-project-timeline
-expectations
 group-agreement-and-task-allocation
 group-agreement-lab-2
 group-agreement-items-see-lab-2

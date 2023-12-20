@@ -19,9 +19,6 @@ The qualitative project is broken down as follows:
 
 We have developed a [*suggested* timeline](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EYepOBxHkIxKuULVqBmvGiMBk7KH4FlUNGMLWlpYNc7d4Q?e=svquBN) for the group and individual components. We advise that you use this to tackle the project throughout the semester, to avoid leaving yourself lots of work at the end. Do feel free to alter the suggested deadlines if you wish - the purpose is not to be restrictive, but instead to help you by detailing when you might want to complete tasks in order to pace yourself.
 
-### Expectations
-
-**ADD IN HERE - WIL AND I TO DISCUSS**
 
 ## Group Agreement and Task Allocation
 
@@ -29,7 +26,7 @@ We appreciate that group work can be challenging and we want to support you to h
 
 ### Group Agreement (Lab 2)
 
-Please download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A). Then look at the list of potential items to include. These are provided within the template document itself, as well as below. As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. Then, allocate tasks for the **group proposal** and upload this document individually to moodle before your Week 3 lab. You will be asked, separately, to allocate tasks for the Focus Group in your **Week 5 lab.**
+Please download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBgvV1_YeuUcNhWi9z_996oQ?e=UIaj4k). Then look at the list of potential items to include. These are provided within the template document itself, as well as below. As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. Then, allocate tasks for the **group proposal** and upload this document individually to moodle before your Week 3 lab. You will be asked, separately, to allocate tasks for the Focus Group in your **Week 5 lab.**
 
 #### Group Agreement Items (see Lab 2)
 

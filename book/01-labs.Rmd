@@ -67,9 +67,9 @@ Key resources:
 
 [Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide)
 
-[Group Agreement Info](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A)
+[Group Agreement Info](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-preparation-group.html#group-agreement-and-task-allocation)
 
-[Group Agreement and task allocation template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A)
+[Group Agreement and task allocation template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBgvV1_YeuUcNhWi9z_996oQ?e=BkLLbx)
 
 
  - - - - 
@@ -82,7 +82,7 @@ In today's lab, there will be some time spent getting to know each other, then w
 
 We appreciate that group work can be challenging and we want to support you to have an enjoyable and educational group work experience. To that end, we would like each group to create a group agreement that all members sign. The purpose of this is for the group to come together and establish common ground and rules that each of the group members is committed to. 
 
-After you have all introduced yourselves, download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBERu8yPzvpIZa7R_AQu8jhw?e=hHbS8A). Then look at the list of potential items to include. These are provided within the template document itself, as well as in **Chapter 2.2.1.** As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. 
+After you have all introduced yourselves, download the [group agreement template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EX0j7-IboldEnapucgQ7h-YBgvV1_YeuUcNhWi9z_996oQ?e=BkLLbx). Then look at the list of potential items to include. These are provided within the template document itself, as well as in **Chapter 2.2.1.** As a group, discuss which items you want to include in addition to the standard ones provided, and if there are any you would like to edit or add outside of this list. 
 
 After this, you should allocate tasks for the **group proposal** among the members of the group. A starter list of tasks is provided in the template as well as in **Chapter 2.2.2**. The task allocation must be uploaded in the same document as the signed group agreement.
 
@@ -298,7 +298,9 @@ Have a look at these poorly written fictional focus group questions. The researc
 
 Key resources:
 
-[Checklist and task allocation for focus group](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EaGHiB_KPM1Jgn22rGnqVJ8BeLmxD2D2dDtiEBC0bE0FZQ?e=nRvCZQ) 
+[Checklist for focus group](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EaGHiB_KPM1Jgn22rGnqVJ8BeLmxD2D2dDtiEBC0bE0FZQ?e=nRvCZQ) 
+
+[Task Allocation for focus group](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-preparation-group.html#focus-group-task-allocation-see-lab-5)
 
 [Information Sheet template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EXjnUsZm6aFGhI5mX0E3tqoB8aI3vJRZCP7h4eAAfTqi7g?e=wJVIEz)
 
@@ -414,18 +416,16 @@ This study offers insights into broader psychological phenomena and practical in
 
 Key resources:
 
-[Trancript to code](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi)
-
-[Code or theme activity handout](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ESNH19f8vxJFoNgOMxZjP_wB1y-fKWuxVythoLPYLAHJdA?e=CPhrx4)
+[Trancript to code](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ETYhcd1SnIRCmeM-gBPyGAEBVyitlNYkOMhPVrih1m8N4w?e=HHZ0LQ)
 
  - - - -
 
-In this week's lab, we are going to focus on coding (i.e. step 2 of Thematic Analysis). We have two activities to support you in the coding stage of your data analysis. 
+In this week's lab, we are going to focus on coding (i.e. step 2 of Thematic Analysis). We have one activity to support you in the coding stage of your data analysis. 
 
 
 ### Lab 8 Activity 1: Coding
 
-- Read over [this transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi), becoming familiar with it. Take some initial notes.
+- Read over [this transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ETYhcd1SnIRCmeM-gBPyGAEBVyitlNYkOMhPVrih1m8N4w?e=HHZ0LQ), becoming familiar with it. Take some initial notes.
 - In your groups, code the data together. Note down anything that seems important and that you think encapsulates the data. Do you all agree on the codes or are there differences of opinion (remember it's okay if you don't all agree!)?
 - Post the codes that your group has chosen [on mentimeter](https://www.menti.com/altq7f73uqs7)
 
@@ -473,7 +473,7 @@ In today's lab (which is our last one in RM2), we have two activities to support
 
 Naming and refining your themes (stage 5) is an important step in communicating your analysis to your reader. 
 
-Below, we have some theme names that are based on the [Zombie Apocalypse transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi)
+Below, we have some theme names that are based on a [Zombie Apocalypse transcript](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/EdAZ7naOqiFNtrfDFX-QanABpgJz6sJo9493G68rXKyCIw?e=yBhaqi). 
 
 As a group, discuss these theme names. Do you think they are good/poor? Are you able to tell what type of data might be captured under each theme?
 

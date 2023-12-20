@@ -88,6 +88,10 @@ question-bank
 green-spaces
 mental-health-and-wellbeing
 belonging
+how-to-structure-your-focus-group-schedule
+warm-up-question
+main-focus-group-questions
+closing-question
 qualitative-project-data-analysis-individual
 data-analysis
 coding-steps-1-2

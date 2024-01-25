@@ -65,7 +65,7 @@ Choose whether a quantitative or qualitative design is most appropriate for each
 
 Key resources: 
 
-[Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide)
+[Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-preparation-group.html#topic-guide)
 
 [Group Agreement Info](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-preparation-group.html#group-agreement-and-task-allocation)
 
@@ -76,7 +76,7 @@ Key resources:
 
 In Lab 2, you will form into the groups that you will  be in for the rest of the semester. You will be able to find your group in the spreadsheet at the bottom of the [Week 2 Moodle](https://moodle.gla.ac.uk/course/view.php?id=38155&section=3) (please note the spreadsheet will only become available once it has been released at the start of Week 2). In these groups, you will a) design, run and transcribe a focus group with a group in your lab as your participants, b) participate in another group's focus group, and c) write a qualitative group proposal. 
 
-In today's lab, there will be some time spent getting to know each other, then we will ask you to develop a group agreement (see below). You should also discuss the [different topics](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide) that you can choose for your project, seeing whether any stand out as preferred options among the group.
+In today's lab, there will be some time spent getting to know each other, then we will ask you to develop a group agreement (see below). You should also discuss the [different topics](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-preparation-group.html#topic-guide) that you can choose for your project, seeing whether any stand out as preferred options among the group.
 
 ### Lab 2 Activity 1: Group Agreements and Task Allocation
 
@@ -92,7 +92,7 @@ Once the deadline has passed, we will be in touch with any groups where any memb
 
 ### Lab 2 Activity 2: Research Questions
 
-In your groups, have a look at the [Topic Guide](https://wtoivo.github.io/RM2-F2F-quali-book/group-project-preparation.html#topic-guide). There are three topics to choose from: Green Spaces, Belonging and Mental Health. 
+In your groups, have a look at the Topic Guide. There are three topics to choose from: Green Spaces, Belonging and Mental Health. 
 
 Have a look over the topics - are there any that your group are particularly drawn towards at this stage? You might know immediately what you'd like to focus on, or might need to discuss all of them in your group. 
 

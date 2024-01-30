@@ -48,11 +48,11 @@ The aim is to provide a justification for your research question : we want you t
 - Here, you may want to critique previous studies that have used different samples – what information are they missing? How is your study addressing this by using your specific sample?
 
 
-### Ethical Considertations (suggested word count = 250 words)
+### Ethical Considerations (suggested word count = 250 words)
 
 When we are conducting research with human participants, it’s really important to think about the ethical implications of your work. In this section of the proposal, you should identify ONE potential ethical issue relating to your study, and explain how your group is going to address it.
 
-- Read the BPS code of ethics and identify one ethical issue with your study
+- Read the [BPS code of ethics](https://cms.bps.org.uk/sites/default/files/2022-06/BPS%20Code%20of%20Human%20Research%20Ethics%20(1).pdf) and identify one ethical issue with your study
 - Make sure the ethical issue you identify is relevant for the methodology and aims of your specific study
 - Explain how you would address it when you are running the study
 - Make sure to cite the BPS code of ethics when you explain the issue and how to address it. Also cite relevant literature to back up your arguments
@@ -69,6 +69,6 @@ Do you...
 - Provide a clear overview of the general topic related to your study? 
 - Present a clear rationale for the specific study that you have chosen to conduct?  
 - Identify one ethical issue, saying how you would mitigate it?
-- Link to the BPS Code of Conduct and the literature base as appropriate?
+- Link to the [BPS Code of Conduct](https://cms.bps.org.uk/sites/default/files/2022-06/BPS%20Code%20of%20Human%20Research%20Ethics%20(1).pdf) and the literature base as appropriate?
 - Ensure that everyone has reviewed the full document to ensure it is a coherent whole?
 - Ensure that everyone has agreed on the final draft before submission takes place?

@@ -117,7 +117,7 @@ components-of-the-assessment
 research-question-not-included-in-word-count
 background-to-topic-suggested-word-count-250-words
 rationale-for-the-study-suggested-word-count-500-words
-ethical-considertations-suggested-word-count-250-words
+ethical-considerations-suggested-word-count-250-words
 assessment-checklist
 summative-assessment-qualitative-report
 report-writing-guide

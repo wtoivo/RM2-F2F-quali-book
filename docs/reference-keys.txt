@@ -125,7 +125,7 @@ suggested-word-count
 title
 abstract-suggested-word-count-100-150-words
 introduction-suggested-word-count-700-800-words
-method-sugested-word-count-350-450-words
+method-suggested-word-count-350-450-words
 participants-recruitment
 data-collection
 ethics-1

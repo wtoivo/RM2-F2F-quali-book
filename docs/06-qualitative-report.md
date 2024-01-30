@@ -72,7 +72,7 @@ In sum:
 Remember that the point of this section is exactly the same as a quantitative report: you are demonstrating what work has been done in the past, to build up an argument as to why the current study has been conducted. 
 
 
-## Method (sugested word count: 350-450 words)
+## Method (suggested word count: 350-450 words)
 
 The aim of the method section is to clearly report how your study was conducted – the reader should be able to re-run your research from the details provided. In this case, report details of your focus group and the qualitative analysis you used.  True 'replication' is difficult due to central role of researcher in influencing some aspects of the research such as analysis.  This is not an experiment.
 

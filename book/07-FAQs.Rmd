@@ -38,7 +38,7 @@ No, although you can if you want. We do, however, ask you to consider this in yo
 
 **2. Is there a suggested structure for the group proposal?**
 
-We have split the proposal into separate sections to guide you with the structure; see more information in the [Group  proposal section](https://wtoivo.github.io/RM2-F2F-quali-book/group-proposal.html). In addition to presenting your research question, we ask you to cover the following three areas in your submission:
+We have split the proposal into separate sections to guide you with the structure; see more information in the [Group  proposal section](https://wtoivo.github.io/RM2-F2F-quali-book/summative-assessment-group-proposal.html). In addition to presenting your research question, we ask you to cover the following three areas in your submission:
 
   - Background to the topic
   - Rationale for your study
@@ -96,7 +96,7 @@ We have a number of different processes in place to ensure confidentiality, and 
 
 **5. How is the FG is going to be operationalised? Are we supposed to host a meeting with the other group as a full team, and assign one person asking questions while the rest of us doing note-taking?**
 
-You can find out more information about this in the [Data Collection](https://wtoivo.github.io/RM2-F2F-quali-book/data-collection.html) section. In a nutshell, you will host a meeting on Teams with the other group, and record this. Two people from your group at a minimum have to attend the group (the facilitator and note-taker). However, if the rest of your team would like to come along and watch (or take notes, if they wish), then this is fine as long as the group being interviewed agree (please ask them in advance). From the group running the focus group, Only the facilitator should speak (other than introductions) - anyone who is just watching must not engage in the focus group at any point. 
+You can find out more information about this in the [Data Collection](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#qualitative-project-data-collection-and-processing-group) section. In a nutshell, you will host a meeting on Teams with the other group, and record this. Two people from your group at a minimum have to attend the group (the facilitator and note-taker). However, if the rest of your team would like to come along and watch (or take notes, if they wish), then this is fine as long as the group being interviewed agree (please ask them in advance). From the group running the focus group, Only the facilitator should speak (other than introductions) - anyone who is just watching must not engage in the focus group at any point. 
 
 **6. In terms of piloting the focus group schedule, who should this be with? Does it need to be within our lab or this course?**
 
@@ -126,7 +126,7 @@ If you want to do this, that's okay. However, please let your participants know 
 
 **12. How do we use Microsoft Forms for gathering demographics or sharing information sheet and consent forms?**
 
-You should use Microsoft Forms for gathering demographics  - guidance is given in the [Data Collection](https://wtoivo.github.io/RM2-F2F-quali-book/data-collection.html) section.
+You should use Microsoft Forms for gathering demographics  - guidance is given in the [Data Collection](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-project-data-collection-and-processing-group.html#collecting-demographics) section.
 
 
 **14. If the participants are not answering a question, can I, as the researcher, talk about my own experiences to start the discussion?**
@@ -142,7 +142,7 @@ APA 7. You can find guidance on this in the following places: [OWL Purdue](https
 
 **2. Will there be detailed guidance about each section of the qual report? I.e. word counts, things to cover**
 
-You can find guidance on this in the [qualitative report section](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-report.html)
+You can find guidance on this in the [qualitative report section](https://wtoivo.github.io/RM2-F2F-quali-book/summative-assessment-qualitative-report.html)
 
 **3. Is our report written in a specific style, e.g. IPA, thematic analysis etc?**
 
@@ -163,7 +163,7 @@ Yes, although you do not have the space to go into lots and lots of detail. So, 
 
 **7. Will the qualitative report guide include estimate word counts for each section of the report?**
 
-We have suggested word counts for each section in the [Qualitative report](https://wtoivo.github.io/RM2-F2F-quali-book/qualitative-report.html) section. Please note that these are not set in stone, but give an indication of how you might want to break down the report. 
+We have suggested word counts for each section in the [Qualitative report](https://wtoivo.github.io/RM2-F2F-quali-book/summative-assessment-qualitative-report.html) section. Please note that these are not set in stone, but give an indication of how you might want to break down the report. 
 
 **8. I take it that we are meant to indicate if we are using a constructionist or realist/experientialist framework for the analysis.  Are we free to choose this or are there any recommendations? I would assume that focusing on semantic themes is more doable given the limited word count?  Also, where would we state this? In the methods section or at the start of the analysis?** 
 

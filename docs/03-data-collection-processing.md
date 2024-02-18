@@ -205,13 +205,11 @@ This section will instead contain details of how you should move the content ove
 
 #### Transcribing and editing your transcript
 
-Please watch **this video** (Link to be added), where Ashley will show you how to move the information across to a template. 
-
 [Here is an example of a template](https://gla-my.sharepoint.com/:w:/g/personal/ashley_robertson_glasgow_ac_uk/ETGUHXlV0LJKoJQnFID6WUYBUjRn3BTal_kNoXW6F5296A?e=vR9hvS) that you might find useful. You are not required to use this, but you are welcome to do so.You will have to download your own copy as you will not be able to edit the original.
 
 At the top, complete the details of all those who attended the focus group. We'll anonymise later, as it's easier to do this all at once rather than as we go along. 
 
-It's advisable to have a time stamp regularly (I normally do one per minute), so that I can easily find the right part in the original recording if I have to. However, if you do not want to put this in, you do not need to.
+It's advisable to have a time stamp regularly (I normally do one per minute), so that I can easily find the right part in the original recording if I have to. However, if you do not want to put this in, you do not need to. There are line numbers in the template - it is good practice to include these, but it can be time-consuming to do so. If you would prefer to remove the line number column, this is okay.
 
 With each new speaker, take a new line in the table. You will need to add more lines to the table  - do this by inserting rows at the bottom. Only move to a new cell with each new speaker. 
 

@@ -1,4 +1,7 @@
 # Labs
+
+Test
+
 In this chapter you will find the lab materials/activities. Slides will be linked in this chapter, but can be found on Moodle. Each lab focuses on supporting you with your qualitative project. As part of this project, you will complete two summative assessments: one as a group (30%) and one as an individual (50%).
 
 The Labs will be on the following topics:

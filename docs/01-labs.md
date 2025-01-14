@@ -1,6 +1,5 @@
 # Labs
 
-Test
 
 In this chapter you will find the lab materials/activities. Slides will be linked in this chapter, but can be found on Moodle. Each lab focuses on supporting you with your qualitative project. As part of this project, you will complete two summative assessments: one as a group (30%) and one as an individual (50%).
 
@@ -32,6 +31,7 @@ In Lab 1, we will introduce you to qualitative research, and consider the differ
 ### Lab 1 Activity 1: Differences between qualitative and quantitative studies
 
 Look at the table below, then discuss the questions underneath in your groups.
+
 
 |Quantitative             |Qualitative           |
 |-------------------------|----------------------|
@@ -635,11 +635,12 @@ after it.</p>
 </div>
 
 
-### Lab 9 Activity 3: Get started on your own analysis
+### Lab 9 Activity 3: Reflexivity
 
-If your group has finished the first two activities, feel free to move on to working on your analysis. 
+This activity is designed to help you with the reflexivity section in your report.Individually, take notes on the following, using it to help you when you come to write this section:
+ 
 
-- Pull up the data for your focus group
-- You can work on finalising the transcript/anonymisation, or start or continue working on your thematic analysis
-- If you'd prefer, you can also practise coding using the zombie apocalypse transcript
-- Your tutor and PhD tutor will come around – ask any questions you may have about Thematic Analysis and the report 
+- Are you an insider or outsider researcher (i.e. do you belong to the group you are researching or not?
+- What implications might this have for how you ran your study and how you analysed it?
+- What preconceptions or expectations did you have about the topic before you ran your focus group?
+- Did what your participants say agree or disagree? What effect did this have on the way you approached a) data collection or b) data analysis? 

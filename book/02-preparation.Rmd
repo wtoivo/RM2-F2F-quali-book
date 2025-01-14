@@ -275,11 +275,13 @@ Some of the topics may be sensitive for people, and therefore it is important to
 When designing questions, you can refer to chapter 3 as cited in Braun and Clarke (Braun & Clarke, 2013), as well as guidance cited in Agee (2009). In terms of next steps, you need to agree on a topic area, and potential research questions. Complete your summative assignment for the Group Proposal (Research Question and Rationale) by the due date. 
 
 ---
+
 Acknowledgments
 
 Topic 1: Maxine Swingler and Eva Murzyn
 Topic 2: Ashley Robertson
 Topic 3: Ashley Robertson
+
 ---
 
 ### References (sorted by topic)

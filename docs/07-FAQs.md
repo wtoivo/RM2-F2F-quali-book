@@ -8,11 +8,13 @@ This resource contains questions from different stages of the project, so not al
 
 **1. Is diversity of participants important in qualitative studies? I am a bit confused because my intuition would say yes but then it's very hard to have diversity if you only use a few participants?**
 
-I would say that it's more important that your sample shares certain characteristics for qualitative, rather than it being diverse. We are looking for depth in qualitative rather than breadth, and if your group shares certain experiences, then you might be more likely to get a deep understanding of a particular phenomenon. It's sometimes the case that you might ask different groups about the same topic (e.g. clients, psychologists, relatives) as they will have different perspectives about the same thing. This could be one way of getting diversity in a qualitative study. 
+I would say that it's more important that your sample shares certain characteristics for qualitative, rather than it being diverse. We are looking for depth in qualitative rather than breadth, and if your group shares certain experiences, then you might be more likely to get a deep understanding of a particular phenomenon.It's sometimes the case that you might ask different groups about the same topic (e.g. clients, psychologists, relatives) as they will have different perspectives about the same thing. This could be one way of getting diversity in a qualitative study. 
 
 **2. How will the qualitative study be different from our quantitative report that we did last semester?**
 
-There are a number of similarities in terms of structure (i.e. you will have an Abstract, Methods, Analysis (same as results) and Discussion) of the actual report itself. It will be mainly different in that you are collecting your own data by running a focus group, and you will conduct thematic analysis rather than statistical analysis on your data.You will also write the report after collecting the data, rather than as in a Registered Report format. 
+There are a number of similarities in terms of structure (i.e. you will have an Abstract, Methods, Analysis (this is the same section as Results in quantitative) and Discussion) of the actual report itself. It will be mainly different in that you are collecting your own data by running a focus group, and you will conduct thematic analysis rather than statistical analysis on your data. You will also write all sections of the report in a single file, rather than having it separated in a Stage 1/Stage 2 Report format. 
+
+Please note that the Qualitative proposal **is not** the same as an Introduction and Methods. 
 
 **3. Will we be using R Studio for the study?**
 

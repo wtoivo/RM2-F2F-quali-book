@@ -353,9 +353,9 @@ Key resources:
 
  - - - - 
 
-### Lab 6 Activity 1: Anonymise the transcript
+### Lab 6 Activity 1: Pseudonymise the transcript
 
-Take a look at the short excerpt below. In your group, try to anonymise it, thinking about whether you would choose to redact or replace the information.  
+Take a look at the short excerpt below. In your group, try to remove any identifiers from it, thinking about whether you would choose to redact or replace the information.  
 
 <div class="info">
 <p><strong>Transcript:</strong></p>

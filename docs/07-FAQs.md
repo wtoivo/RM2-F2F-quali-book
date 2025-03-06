@@ -179,7 +179,7 @@ Qual reports are written in one of two ways: 1) where the analysis and discussio
 
 **11. In the thematic analysis, what should we do if two participants give opposite answers for the same questions. how do we deal with that conflict?**
 
-This can make for a really interesting analysis and discussion section! You should explain the theme for the reader, and provide context for the different views presented by the participants. You can find more information in the Braun & Clarke (2013) book 
+This can make for a really interesting analysis and discussion section! You should explain the theme for the reader, and provide context for the different views presented by the participants. You can find more information in the Braun & Clarke (2022) book 
 
 **12. Can you increase the word count for the report? I don't think 3000 words is high enough for qualitative.**
 
